@@ -43,26 +43,26 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
   ***<span style="color: #0033A0;">NeurIPS-2023</span>***: [[Paper](https://openreview.net/pdf?id=xFtuNq23D5)] [[Code](https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data)] [[PPT](https://neurips.cc/media/neurips-2023/Slides/70019.pdf)] [[bibtex](https://sciyu.github.io/bib/NIPS2023.bib)]
 * **Online Estimation of Similarity Matrices with Incomplete Data**<br>
   **<u>Fangchen Yu</u>**, Yicheng Zeng, Jianfeng Mao, Wenye Li<br>
-  ***UAI-2023***: [[Paper](https://proceedings.mlr.press/v216/yu23a/yu23a.pdf)] [[Code](https://github.com/SciYu/Online-Similarity-Matrix-Correction)] [[Poster](https://github.com/SciYu/Online-Similarity-Matrix-Correction/blob/main/Fig/poster.png)] [[bibtex](https://sciyu.github.io/bib/UAI2023.bib)]
+  ***<span style="color: #0033A0;">UAI-2023</span>***: [[Paper](https://proceedings.mlr.press/v216/yu23a/yu23a.pdf)] [[Code](https://github.com/SciYu/Online-Similarity-Matrix-Correction)] [[Poster](https://github.com/SciYu/Online-Similarity-Matrix-Correction/blob/main/Fig/poster.png)] [[bibtex](https://sciyu.github.io/bib/UAI2023.bib)]
 * **Highly-Efficient Robinson-Foulds Distance Estimation with Matrix Correction**<br>
   **<u>Fangchen Yu</u>**, Rui Bao, Jianfeng Mao, Wenye Li<br>
-  ***ECAI-2023***: [[Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA230605)] [[Code](https://github.com/SciYu/Embedding-based-Matrix-Correction)] [[Poster](https://github.com/SciYu/Embedding-based-Matrix-Correction/blob/main/fig/ECAI_poster.png)] [[bibtex](https://sciyu.github.io/bib/ECAI2023.bib)]
+  ***<span style="color: #0033A0;">ECAI-2023</span>***: [[Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA230605)] [[Code](https://github.com/SciYu/Embedding-based-Matrix-Correction)] [[Poster](https://github.com/SciYu/Embedding-based-Matrix-Correction/blob/main/fig/ECAI_poster.png)] [[bibtex](https://sciyu.github.io/bib/ECAI2023.bib)]
 * **From Incompleteness to Unity: A Framework for Multi-view Clustering with Missing Values**<br>
   **<u>Fangchen Yu</u>**, Zhan Shi, Yuqi Ma, Jianfeng Mao, Wenye Li<br>
-  ***ICONIP-2023 (Oral)***: [[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_9)] [[bibtex](https://sciyu.github.io/bib/ICONIP2023.bib)]
+  ***<span style="color: #0033A0;">ICONIP-2023 (Oral)</span>***: [[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_9)] [[bibtex](https://sciyu.github.io/bib/ICONIP2023.bib)]
 * **DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction**<br>
   **<u>Fangchen Yu</u>** (internship), Yina Xie, Lei Wu, Yafei Wen, Guozhi Wang, Shuai Ren, Xiaoxin Chen, Jianfeng Mao, Wenye Li<br>
-  ***WACV-2024 (accepted)***<br>
+  ***<span style="color: #0033A0;">WACV-2024 (accepted)</span>***<br>
 
 * **Metric Nearness Made Practical**<br>
   Wenye Li, **<u>Fangchen Yu</u>**, Zichen Ma<br>
-  ***AAAI-2023***: [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26041)] [[bibtex](https://sciyu.github.io/bib/AAAI2023.bib)]
+  ***<span style="color: #0033A0;">AAAI-2023</span>***: [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26041)] [[bibtex](https://sciyu.github.io/bib/AAAI2023.bib)]
 * **Calibrating Distance Metrics Under Uncertainty**<br>
   Wenye Li, **<u>Fangchen Yu</u>**<br>
-  ***ECML-2022***: [[Paper](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_673.pdf)] [[bibtex](https://sciyu.github.io/bib/ECML2022.bib)]
+  ***<span style="color: #0033A0;">ECML-2022</span>***: [[Paper](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_673.pdf)] [[bibtex](https://sciyu.github.io/bib/ECML2022.bib)]
 * **Learning Sparse Binary Code for Maximum Inner Product Search**<br>
   Changyi Ma, **<u>Fangchen Yu</u>**, Yueyao Yu, Wenye Li<br>
-  ***CIKM-2021***: [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482132)] [[bibtex](https://sciyu.github.io/bib/CIKM2021.bib)]
+  ***<span style="color: #0033A0;">CIKM-2021</span>***: [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482132)] [[bibtex](https://sciyu.github.io/bib/CIKM2021.bib)]
 
  
 
