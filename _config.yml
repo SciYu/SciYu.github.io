@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fangchen Yu"
   avatar           : "images/fangchenyu.jpg"
-  bio              : "Ph.D. candidate from The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), interested in statistical machine learning and data mining."
+  bio              : 
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
