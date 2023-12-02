@@ -52,7 +52,7 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
   ***<span style="color: #0033A0;">ICONIP-2023 (Oral)</span>***: [[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_9)] [[bibtex](https://sciyu.github.io/bib/ICONIP2023.bib)]
 * **DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction**<br>
   **<u>Fangchen Yu</u>** (internship), Yina Xie, Lei Wu, Yafei Wen, Guozhi Wang, Shuai Ren, Xiaoxin Chen, Jianfeng Mao, Wenye Li<br>
-  ***<span style="color: #0033A0;">WACV-2024 (accepted)</span>***<br>
+  ***<span style="color: #0033A0;">WACV-2024 (Accepted)</span>***<br>
 
 * **Metric Nearness Made Practical**<br>
   Wenye Li, **<u>Fangchen Yu</u>**, Zichen Ma<br>
