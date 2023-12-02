@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fQtgwlgAAAAJ&hl=zh-CN&oi=ao"
   email            : "fangchenyu@link.cuhk.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Fangchen_Yu"
+  researchgate     : # "https://www.researchgate.net/profile/Fangchen_Yu"
   uri              :
   bitbucket        :
   codepen          :
@@ -44,8 +44,8 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "fangchen-yu-614a98212"
-  dblp             : "https://dblp.org/pid/305/0356.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1256-2719"
+  dblp             : # "https://dblp.org/pid/305/0356.html"
+  orcid            : # "https://orcid.org/my-orcid?orcid=0000-0002-1256-2719"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
