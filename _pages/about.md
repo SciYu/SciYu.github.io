@@ -17,42 +17,95 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineering at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), under the supervision of [Prof. Wenye Li](https://sds.cuhk.edu.cn/teacher/317) and [Prof. Jianfeng Mao](https://sds.cuhk.edu.cn/teacher/268). He obtained his Bachelor's degree in Physics from the University of Chinese Academy of Sciences (UCAS) in 2020. His research interests are focused on statistical learning, machine learning, and metric learning.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 🔥 Research Interests
+
+- **Similarity Estimation for Incomplete Data**
+  - How to estimate a high-quality similarity matrix for online incomplete data?
+  - Are there any theoretical properties of similarity matrices for incomplete data?
+
+- **Distance Estimation for Incomplete Data**
+  - How to estimate a high-quality distance matrix for offline incomplete data?
+  - How to accelerate solving the metric nearness problem?
+
+- **Downstream Applications for Incomplete Data**
+  - How to perform spectral clustering on incomplete data?
+  - How to classify incomplete trees via Robinson-Foulds distance estimation?
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+* **Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning**<br>
+  **Fangchen Yu**, Runze Zhao, Zhan Shi, Yiwen Lu, Jicong Fan, Yicheng Zeng, Jianfeng Mao, Wenye Li<br>
+  *the 37th Conference on Neural Information Processing Systems (NeurIPS'2023)*<br>
+  [[Paper](https://openreview.net/pdf?id=xFtuNq23D5)] [[Code](https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data)] [[PPT](https://neurips.cc/media/neurips-2023/Slides/70019.pdf)] [[bibtex](https://sciyu.github.io/bib/NIPS2023.bib)]
+* **Online Estimation of Similarity Matrices with Incomplete Data**<br>
+  **Fangchen Yu**, Yicheng Zeng, Jianfeng Mao, Wenye Li<br>
+  *the 39th Conference on Uncertainty in Artificial Intelligence (UAI'2023)*<br>
+  [[Paper](https://proceedings.mlr.press/v216/yu23a/yu23a.pdf)] [[Code](https://github.com/SciYu/Online-Similarity-Matrix-Correction)] [[Poster](https://github.com/SciYu/Online-Similarity-Matrix-Correction/blob/main/Fig/poster.png)] [[bibtex](https://sciyu.github.io/bib/UAI2023.bib)]
+* **Highly-Efficient Robinson-Foulds Distance Estimation with Matrix Correction**<br>
+  **Fangchen Yu**, Rui Bao, Jianfeng Mao, Wenye Li<br>
+  *the 26th European Conference on Artificial Intelligence (ECAI'2023)*<br>
+  [[Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA230605)] [[Code](https://github.com/SciYu/Embedding-based-Matrix-Correction)] [[Poster](https://github.com/SciYu/Embedding-based-Matrix-Correction/blob/main/fig/ECAI_poster.png)] [[bibtex](https://sciyu.github.io/bib/ECAI2023.bib)]
+* **From Incompleteness to Unity: A Framework for Multi-view Clustering with Missing Values**<br>
+  **Fangchen Yu**, Zhan Shi, Yuqi Ma, Jianfeng Mao, Wenye Li<br>
+  *the 2023 International Conference on Neural Information Processing (ICONIP'2023, Oral)*<br>
+  [[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_9)] [[bibtex](https://sciyu.github.io/bib/ICONIP2023.bib)]
+* **DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction**<br>
+  **Fangchen Yu** (internship), Yina Xie, Lei Wu, Yafei Wen, Guozhi Wang, Shuai Ren, Xiaoxin Chen, Jianfeng Mao, Wenye Li<br>
+  *the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV'2024, accepted)*<br>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+* **Metric Nearness Made Practical**<br>
+  Wenye Li, **Fangchen Yu**, Zichen Ma<br>
+  *the 37th AAAI Conference on Artificial Intelligence (AAAI’2023)*<br>
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26041)] [[bibtex](https://sciyu.github.io/bib/AAAI2023.bib)]
+* **Calibrating Distance Metrics Under Uncertainty**<br>
+  Wenye Li, **Fangchen Yu**<br>
+  *Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML'2022)*<br>
+  [[Paper](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_673.pdf)] [[bibtex](https://sciyu.github.io/bib/ECML2022.bib)]
+* **Learning Sparse Binary Code for Maximum Inner Product Search**<br>
+  Changyi Ma, **Fangchen Yu**, Yueyao Yu, Wenye Li<br>
+  *the 30th ACM International Conference on Information and Knowledge Management (CIKM'2021)*<br>
+  [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482132)] [[bibtex](https://sciyu.github.io/bib/CIKM2021.bib)]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Sep 2020 - Now*,
+ Ph.D. in Computer and Information Engineering, at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ). 
+- *Sep 2016 - Jun 2020*, 
+B.S. in Physics, at University of Chinese Academy of Sciences (UCAS). 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Mar 2023 - Jul 2023*, Research internship at VIVO AI Lab, Shenzhen, China.
+
+
+
+# 🎖 Honors and Awards
+- *2020-2024*: Shenzhen Research Institute of Big Data (SRIBD) Excellence Scholarship 
+- *Oct 2022*: Class I Outstanding TA Award at Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
+* *Jul 2021*: Class II Outstanding TA Award at Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
+* *Nov 2019*: Class III Scholarship at University of Chinese Academy of Sciences (UCAS)
+* *Dec 2017*: Merit Student at University of Chinese Academy of Sciences (UCAS)
+
+
+# 💬 Professional Service
+- *Reviewer*: AAAI-2024, AAAI-2023, ICONIP-2023, ECML-2022
+- *Program Committee Member*:
+AAAI-24 Student Program Program Committee
+AAAI-23 Student Program Program Committee
+
+
+
+# 💬 Teaching Assistant
+- *Spring - Fall 2023*: DDA4210 Advanced Machine Learning 
+- *Fall 2022*: MAT3300 Mathematical Modeling
+- *Summer 2022*: EIE4006 Queuing Theory
+- *Spring 2022*: STA3010 Regression Analysis
+- *Fall 2021*: MAT4003 Number Theory
+- *Spring 2021*: MAT4004 Graph Theory
+- *Fall 2020*: MAT3280 Probability Theory
