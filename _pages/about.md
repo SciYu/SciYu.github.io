@@ -72,6 +72,8 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
 # Educations
 - *Sep 2020 - Now*,<br>
  Ph.D. in Computer and Information Engineering, at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ).<br>
+- *Sep 2019 - Dec 2019*,<br> 
+Global Study Program, at University of California, Davis (UCD).<br>
 - *Sep 2016 - Jun 2020*,<br> 
 B.S. in Physics, at University of Chinese Academy of Sciences (UCAS). 
 
