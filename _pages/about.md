@@ -22,17 +22,17 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
 
 # Research Interests
 
-- **Similarity Estimation for Incomplete Data**
-  - How to estimate a high-quality similarity matrix for online incomplete data?
-  - Are there any theoretical properties of similarity matrices for incomplete data?
+- **Similarity and Distance Estimation for Incomplete Data (Previous Work)**
+  - High-quality similarity and distance estimation for online/offline incomplete data
+  - Spectral clustering / tree classification for incomplete data
 
-- **Distance Estimation for Incomplete Data**
-  - How to estimate a high-quality distance matrix for offline incomplete data?
-  - How to accelerate solving the metric nearness problem?
+- **Optimal Transport Distance Approximation and Applications (Ongoing Work)**
+  - Fast and accurate approximation of optimal transport distance
+  - Optimal transport-driven neural network design
 
-- **Downstream Applications for Incomplete Data**
-  - How to perform spectral clustering on incomplete data?
-  - How to classify incomplete trees via Robinson-Foulds distance estimation?
+- **Graph Kernel Based GNN and Applications (Future Work)**
+  - Graph kernel design for incomplete graphs
+  - Graph neural network for incomplete data
 
 
 
