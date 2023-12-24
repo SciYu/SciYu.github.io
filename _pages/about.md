@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineering at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), under the supervision of [Prof. Wenye Li](https://sds.cuhk.edu.cn/teacher/317) and [Prof. Jianfeng Mao](https://sds.cuhk.edu.cn/teacher/268). He obtained his Bachelor's degree in Physics from the University of Chinese Academy of Sciences (UCAS) in 2020. His research interests focus on statistical learning, machine learning, and metric learning.
+Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineering at [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en) (CUHK-SZ), under the supervision of [Prof. Wenye Li](https://sds.cuhk.edu.cn/teacher/317) and [Prof. Jianfeng Mao](https://sds.cuhk.edu.cn/teacher/268). He obtained his Bachelor's degree in Physics from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) (UCAS) in 2020. His research interests focus on statistical learning, machine learning, and metric learning.
 
 
 # Research Interests
 
 - **Similarity and Distance Estimation for Incomplete Data (Previous Work)**
   - High-quality similarity and distance estimation for online/offline incomplete data
-  - Spectral clustering / tree classification for incomplete data
+  - Spectral clustering / tree clustering for incomplete data
 
 - **Optimal Transport Distance Approximation and Applications (Ongoing Work)**
   - Fast and accurate approximation of optimal transport distance
@@ -52,7 +52,7 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
   ***<span style="color: #0033A0;">ICONIP-2023 (Oral)</span>***: [[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_9)] [[bibtex](https://sciyu.github.io/bib/ICONIP2023.bib)]
 * **DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction**<br>
   **<u>Fangchen Yu</u>** (internship), Yina Xie, Lei Wu, Yafei Wen, Guozhi Wang, Shuai Ren, Xiaoxin Chen, Jianfeng Mao, Wenye Li<br>
-  ***<span style="color: #0033A0;">WACV-2024 (Accepted)</span>***<br>
+  ***<span style="color: #0033A0;">WACV-2024</span>***<br>: [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yu_DocReal_Robust_Document_Dewarping_of_Real-Life_Images_via_Attention-Enhanced_Control_WACV_2024_paper.pdf)] [[Poster](./poster/WACV2024_poster.png)] [[bibtex](https://sciyu.github.io/bib/WACV2024.bib)]
 * **FedLF: Layer-wise Fair Federated Learning**<br>
   Zibin Pan, Chi Li, **<u>Fangchen Yu</u>**, Shuyi Wang, Haijin Wang, Xiaoying Tang, Junhua Zhao<br>
   ***<span style="color: #0033A0;">AAAI-2024 (Accepted)</span>***<br>
@@ -65,7 +65,7 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
   ***<span style="color: #0033A0;">ECML-2022</span>***: [[Paper](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_673.pdf)] [[bibtex](https://sciyu.github.io/bib/ECML2022.bib)]
 * **Learning Sparse Binary Code for Maximum Inner Product Search**<br>
   Changyi Ma, **<u>Fangchen Yu</u>**, Yueyao Yu, Wenye Li<br>
-  ***<span style="color: #0033A0;">CIKM-2021</span>***: [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482132)] [[bibtex](https://sciyu.github.io/bib/CIKM2021.bib)]
+  ***<span style="color: #0033A0;">CIKM-2021 (Best Paper Finalist)</span>***: [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482132)] [[bibtex](https://sciyu.github.io/bib/CIKM2021.bib)]
 
  
 
