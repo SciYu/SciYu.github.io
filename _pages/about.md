@@ -59,7 +59,7 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
 
 * **Metric Nearness Made Practical**<br>
   Wenye Li, **<u>Fangchen Yu</u>**, Zichen Ma<br>
-  ***<span style="color: #0033A0;">AAAI-2023</span>***: [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26041)] [[Poster](./poster/AAAI2023_poster.png)] [[bibtex](https://sciyu.github.io/bib/AAAI2023.bib)]
+  ***<span style="color: #0033A0;">AAAI-2023</span>***: [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26041)] [[Code](https://github.com/SciYu/Metric-Nearness-Made-Practical)] [[Poster](./poster/AAAI2023_poster.png)] [[bibtex](https://sciyu.github.io/bib/AAAI2023.bib)]
 * **Calibrating Distance Metrics Under Uncertainty**<br>
   Wenye Li, **<u>Fangchen Yu</u>**<br>
   ***<span style="color: #0033A0;">ECML-2022</span>***: [[Paper](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_673.pdf)] [[bibtex](https://sciyu.github.io/bib/ECML2022.bib)]
