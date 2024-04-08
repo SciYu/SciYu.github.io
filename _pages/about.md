@@ -38,6 +38,13 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
 
 # Publications 
 
+* **FedLF: Layer-wise Fair Federated Learning**<br>
+  Zibin Pan, Chi Li, **<u>Fangchen Yu</u>**, Shuyi Wang, Haijin Wang, Xiaoying Tang, Junhua Zhao<br>
+  ***<span style="color: #0033A0;">AAAI-2024</span>***<br> [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29368/30582)] [[Code](https://github.com/SciYu/FedLF)] [[Poster](./poster/AAAI2024_poster.png)] [[bibtex](https://sciyu.github.io/bib/WACV2024.bib)]
+* **DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction**<br>
+  **<u>Fangchen Yu</u>** (internship), Yina Xie, Lei Wu, Yafei Wen, Guozhi Wang, Shuai Ren, Xiaoxin Chen, Jianfeng Mao, Wenye Li<br>
+  ***<span style="color: #0033A0;">WACV-2024</span>***: [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yu_DocReal_Robust_Document_Dewarping_of_Real-Life_Images_via_Attention-Enhanced_Control_WACV_2024_paper.pdf)] [[Code](https://github.com/SciYu/DocReal)] [[Poster](./poster/WACV2024_poster.png)] [[bibtex](https://sciyu.github.io/bib/WACV2024.bib)]
+
 * **Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning**<br>
   **<u>Fangchen Yu</u>**, Runze Zhao, Zhan Shi, Yiwen Lu, Jicong Fan, Yicheng Zeng, Jianfeng Mao, Wenye Li<br>
   ***<span style="color: #0033A0;">NeurIPS-2023</span>***: [[Paper](https://openreview.net/pdf?id=xFtuNq23D5)] [[Code](https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data)] [[Video](https://neurips.cc/virtual/2023/poster/70019)] [[PPT](https://neurips.cc/media/neurips-2023/Slides/70019_iLAU9xR.pdf)] [[Poster](./poster/NeurIPS2023_poster.png)] [[bibtex](https://sciyu.github.io/bib/NIPS2023.bib)]
@@ -50,19 +57,14 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
 * **From Incompleteness to Unity: A Framework for Multi-view Clustering with Missing Values**<br>
   **<u>Fangchen Yu</u>**, Zhan Shi, Yuqi Ma, Jianfeng Mao, Wenye Li<br>
   ***<span style="color: #0033A0;">ICONIP-2023 (Oral)</span>***: [[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_9)] [[bibtex](https://sciyu.github.io/bib/ICONIP2023.bib)]
-* **DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction**<br>
-  **<u>Fangchen Yu</u>** (internship), Yina Xie, Lei Wu, Yafei Wen, Guozhi Wang, Shuai Ren, Xiaoxin Chen, Jianfeng Mao, Wenye Li<br>
-  ***<span style="color: #0033A0;">WACV-2024</span>***: [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yu_DocReal_Robust_Document_Dewarping_of_Real-Life_Images_via_Attention-Enhanced_Control_WACV_2024_paper.pdf)] [[Code](https://github.com/SciYu/DocReal)] [[Poster](./poster/WACV2024_poster.png)] [[bibtex](https://sciyu.github.io/bib/WACV2024.bib)]
-* **FedLF: Layer-wise Fair Federated Learning**<br>
-  Zibin Pan, Chi Li, **<u>Fangchen Yu</u>**, Shuyi Wang, Haijin Wang, Xiaoying Tang, Junhua Zhao<br>
-  ***<span style="color: #0033A0;">AAAI-2024 (Accepted)</span>***<br>
-
 * **Metric Nearness Made Practical**<br>
   Wenye Li, **<u>Fangchen Yu</u>**, Zichen Ma<br>
   ***<span style="color: #0033A0;">AAAI-2023</span>***: [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26041)] [[Code](https://github.com/SciYu/Metric-Nearness-Made-Practical)] [[Poster](./poster/AAAI2023_poster.png)] [[bibtex](https://sciyu.github.io/bib/AAAI2023.bib)]
+
 * **Calibrating Distance Metrics Under Uncertainty**<br>
   Wenye Li, **<u>Fangchen Yu</u>**<br>
   ***<span style="color: #0033A0;">ECML-2022</span>***: [[Paper](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_673.pdf)] [[bibtex](https://sciyu.github.io/bib/ECML2022.bib)]
+  
 * **Learning Sparse Binary Code for Maximum Inner Product Search**<br>
   Changyi Ma, **<u>Fangchen Yu</u>**, Yueyao Yu, Wenye Li<br>
   ***<span style="color: #0033A0;">CIKM-2021 (Best Paper Finalist)</span>***: [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482132)] [[bibtex](https://sciyu.github.io/bib/CIKM2021.bib)]
