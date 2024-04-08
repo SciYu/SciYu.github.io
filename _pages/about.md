@@ -97,7 +97,7 @@ B.S. in Physics, at University of Chinese Academy of Sciences (UCAS).
 
 # Professional Service
 - *Reviewer*:<br>
-AAAI-2024, AAAI-2023, ICONIP-2023, ECML-2022
+IJCAI-2024, AAAI-2024, AAAI-2023, ICONIP-2023, ECML-2022
 - *Program Committee Member*:<br>
 AAAI-24 Student Program Program Committee<br>
 AAAI-23 Student Program Program Committee<br>
