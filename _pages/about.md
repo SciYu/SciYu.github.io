@@ -40,7 +40,7 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
 
 * **FedLF: Layer-wise Fair Federated Learning**<br>
   Zibin Pan, Chi Li, **<u>Fangchen Yu</u>**, Shuyi Wang, Haijin Wang, Xiaoying Tang, Junhua Zhao<br>
-  ***<span style="color: #0033A0;">AAAI-2024</span>***<br> [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29368/30582)] [[Code](https://github.com/SciYu/FedLF)] [[Poster](./poster/AAAI2024_poster.png)] [[bibtex](https://sciyu.github.io/bib/WACV2024.bib)]
+  ***<span style="color: #0033A0;">AAAI-2024</span>***: [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29368/30582)] [[Code](https://github.com/SciYu/FedLF)] [[Poster](./poster/AAAI2024_poster.png)] [[bibtex](https://sciyu.github.io/bib/WACV2024.bib)]
 * **DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction**<br>
   **<u>Fangchen Yu</u>** (internship), Yina Xie, Lei Wu, Yafei Wen, Guozhi Wang, Shuai Ren, Xiaoxin Chen, Jianfeng Mao, Wenye Li<br>
   ***<span style="color: #0033A0;">WACV-2024</span>***: [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yu_DocReal_Robust_Document_Dewarping_of_Real-Life_Images_via_Attention-Enhanced_Control_WACV_2024_paper.pdf)] [[Code](https://github.com/SciYu/DocReal)] [[Poster](./poster/WACV2024_poster.png)] [[bibtex](https://sciyu.github.io/bib/WACV2024.bib)]
