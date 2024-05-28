@@ -22,17 +22,17 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
 
 # Research Interests
 
-- **Similarity and Distance Estimation for Incomplete Data (Previous Work)**
-  - High-quality similarity and distance estimation for online/offline incomplete data
-  - Spectral clustering / tree clustering for incomplete data
+- **Efficient Optimization Algorithms for Incomplete Data (Previous Work)**
+  - Estimation of similarity and distance matrices for offline/online incomplete data
+  - Efficient optimization algorithm for metric nearness problem
 
-- **Optimal Transport Distance Approximation and Applications (Ongoing Work)**
-  - Fast and accurate approximation of optimal transport distance
-  - Optimal transport-driven neural network design
+- **Optimization and Generalization for Wasserstein Distance (Ongoing Work)**
+  - Fast and accurate tree Wasserstein distance for approximating 1-Wassserstein distance
+  - Robust Wasserstein distance for unbalanced distributions
 
-- **Graph Kernel Based GNN and Applications (Future Work)**
-  - Graph kernel design for incomplete graphs
-  - Graph neural network for incomplete data
+- **Large-scale and Reinforcement Learning-based Optimization (Future Work)**
+  - Scalable optimization algorithms for large-scale datasets
+  - Efficient optimization solver based on reinforcement learning
 
 
 
@@ -87,17 +87,17 @@ B.S. in Physics, at University of Chinese Academy of Sciences (UCAS).
 
 
 # Honors and Awards
-- *2020-2024*: Shenzhen Research Institute of Big Data (SRIBD) Excellence Scholarship 
-- *Oct 2022*: Class I Outstanding TA Award at Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
-* *Jul 2021*: Class II Outstanding TA Award at Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
-* *Nov 2019*: Class III Scholarship at University of Chinese Academy of Sciences (UCAS)
-* *Dec 2017*: Merit Student at University of Chinese Academy of Sciences (UCAS)
+- *2020-2024*: **PhD Fellowship (Silver Class)** at Shenzhen Research Institute of Big Data (SRIBD)
+- *Oct 2022*: **Class I Outstanding TA Award** at Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
+* *Jul 2021*: **Class II Outstanding TA Award** at Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
+* *Nov 2019*: **Class III Scholarship** at University of Chinese Academy of Sciences (UCAS)
+* *Dec 2017*: **Merit Student** at University of Chinese Academy of Sciences (UCAS)
 
 
 
 # Professional Service
 - *Reviewer*:<br>
-IJCAI-2024, AAAI-2024, AAAI-2023, ICONIP-2023, ECML-2022
+NeurIPS-2024, IJCAI-2024, AAAI-2024, AAAI-2023, ICONIP-2023, ECML-2022
 - *Program Committee Member*:<br>
 AAAI-24 Student Program Program Committee<br>
 AAAI-23 Student Program Program Committee<br>
