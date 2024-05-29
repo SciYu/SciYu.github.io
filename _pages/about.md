@@ -24,7 +24,7 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
 
 - **Efficient Optimization Algorithms for Incomplete Data (Previous Work)**
   - Optimization of similarity and distance matrices for offline/online incomplete data
-  - Estimation of spectral distribution of inner product matrix for incomplete data
+  - Estimation of inner product matrix for incomplete data on similarity search tasks
 
 - **Optimization and Generalization for Wasserstein Distance (Ongoing Work)**
   - Fast and accurate tree Wasserstein distance for approximating 1-Wassserstein distance
