@@ -17,10 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineering at [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en) (CUHK-SZ), under the supervision of [Prof. Wenye Li](https://sds.cuhk.edu.cn/teacher/317) and [Prof. Jianfeng Mao](https://sds.cuhk.edu.cn/teacher/268). He obtained his Bachelor's degree in Physics from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) (UCAS) in 2020. His research interests focus on statistical learning, machine learning, and metric learning.
-
+Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineering at [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en) (CUHK-SZ), under the supervision of [Prof. Wenye Li](https://sds.cuhk.edu.cn/en/teacher/317) and [Prof. Jianfeng Mao](https://sds.cuhk.edu.cn/en/teacher/268). He obtained his Bachelor's degree in Physics from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) (UCAS) in 2020. His research interests focus on statistical learning, machine learning, and metric learning.
 
 # Research Interests
+Optimization, Unsupervised Learning, Incomplete Data, Computer Vision, AI for Science.
+
+
+# Research Topics
 
 - **Efficient Optimization Algorithms for Incomplete Data (Previous Work)**
   - Optimization of similarity and distance matrices for offline/online incomplete data
@@ -30,7 +33,7 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
   - Fast and accurate tree Wasserstein distance for approximating 1-Wassserstein distance
   - Robust Wasserstein distance for unbalanced distributions
 
-- **Optimization for Visual Generative Models & Multi-modal LLM (Future Work)**
+- **Optimization for Visual Generative Models & AI for Science (Future Work)**
   - Optimization for Wasserstein-based generative models (e.g., Point Cloud Completion)
   - New neural network design for the discovery of physical laws (e.g., K-A Networks)
 
@@ -72,17 +75,20 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
  
 
 # Educations
-- *Sep 2020 - Now*,<br>
- Ph.D. in Computer and Information Engineering, at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ).<br>
-- *Aug 2019 - Dec 2019*,<br> 
-Global Study Program, at University of California, Davis (UCD).<br>
-- *Sep 2016 - Jun 2020*,<br> 
-B.S. in Physics, at University of Chinese Academy of Sciences (UCAS). 
+- *Sep. 2020 - Now*,<br>
+*Ph.D. Candidate in Computer and Information Engineering*, at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ).<br>
+- *Sep. 2016 - Jun. 2020*,<br> 
+*B.S. in Physics*, at University of Chinese Academy of Sciences (UCAS).<br>
+- *Aug. 2019 - Dec. 2019*,<br> 
+*Global Study Program*, at University of California, Davis (UCD).
 
 
 
-# Internships
-- *Mar 2023 - Jul 2023*, Research internship at VIVO AI Lab, Shenzhen, China.
+# Professional Experience
+- *Jul. 2023 - Jun. 2024*,<br>
+*Graduate Research Assistant*, at Shenzhen Research Institute of Big Data, Shenzhen, China. (Supervisor: [Dr. Yicheng Zeng](https://www.sribd.cn/en/teacher/558))<br>
+- *Mar. 2023 - Jul. 2023*,<br>
+*Research Intern*, at Vivo AI Lab, Shenzhen, China. (Area: Visual Understanding and Generation)
 
 
 
@@ -105,9 +111,9 @@ AAAI-23 Student Program Program Committee<br>
 
 
 # Teaching Assistant
-- *Spring - Fall 2023*: DDA4210 Advanced Machine Learning 
+- *2023 - 2024*: DDA4210 Advanced Machine Learning 
 - *Fall 2022*: MAT3300 Mathematical Modeling
-- *Summer 2022*: EIE4006 Queuing Theory
+- *Summer 2022*: EIE4006 Performance Evaluation of Communication Networks
 - *Spring 2022*: STA3010 Regression Analysis
 - *Fall 2021*: MAT4003 Number Theory
 - *Spring 2021*: MAT4004 Graph Theory
