@@ -102,7 +102,7 @@ Optimization, Unsupervised Learning, Incomplete Data, Computer Vision, AI for Sc
 
 
 # Academic Service
-- *Reviewer*:<br>
+- *Conference Refereeing*:<br>
 NeurIPS-2024, IJCAI-2024, AAAI-2024, AAAI-2023, ICONIP-2023, ECML-2022
 - *Program Committee Member*:<br>
 AAAI-24 Student Program Program Committee<br>
