@@ -31,8 +31,8 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
   - Robust Wasserstein distance for unbalanced distributions
 
 - **Optimization for Visual Generative Models & Multi-modal LLM (Future Work)**
-  - Optimization for Wasserstein-based generative models (e.g., 3D point clouds)
-  - Design a robust multi-modal LLM for incomplete or noisy inputs
+  - Optimization for Wasserstein-based generative models (e.g., Point Cloud Completion)
+  - New neural network design for the discovery of physical laws (e.g., K-A Networks)
 
 
 
@@ -40,7 +40,7 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
 
 * **FedLF: Layer-wise Fair Federated Learning**<br>
   Zibin Pan, Chi Li, **<u>Fangchen Yu</u>**, Shuyi Wang, Haijin Wang, Xiaoying Tang, Junhua Zhao<br>
-  ***<span style="color: #0033A0;">AAAI-2024</span>***: [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29368/30582)] [[Code](https://github.com/SciYu/FedLF)] [[Poster](./poster/AAAI2024_poster.png)] [[bibtex](https://sciyu.github.io/bib/WACV2024.bib)]
+  ***<span style="color: #0033A0;">AAAI-2024</span>***: [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29368)] [[Code](https://github.com/SciYu/FedLF)] [[Poster](./poster/AAAI2024_poster.png)] [[bibtex](https://sciyu.github.io/bib/WACV2024.bib)]
 * **DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction**<br>
   **<u>Fangchen Yu</u>** (internship), Yina Xie, Lei Wu, Yafei Wen, Guozhi Wang, Shuai Ren, Xiaoxin Chen, Jianfeng Mao, Wenye Li<br>
   ***<span style="color: #0033A0;">WACV-2024</span>***: [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yu_DocReal_Robust_Document_Dewarping_of_Real-Life_Images_via_Attention-Enhanced_Control_WACV_2024_paper.pdf)] [[Code](https://github.com/SciYu/DocReal)] [[Poster](./poster/WACV2024_poster.png)] [[bibtex](https://sciyu.github.io/bib/WACV2024.bib)]
@@ -63,11 +63,11 @@ Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineeri
 
 * **Calibrating Distance Metrics Under Uncertainty**<br>
   Wenye Li, **<u>Fangchen Yu</u>**<br>
-  ***<span style="color: #0033A0;">ECML-2022</span>***: [[Paper](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_673.pdf)] [[bibtex](https://sciyu.github.io/bib/ECML2022.bib)]
+  ***<span style="color: #0033A0;">ECML-2022</span>***: [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-26409-2_14)] [[bibtex](https://sciyu.github.io/bib/ECML2022.bib)]
   
 * **Learning Sparse Binary Code for Maximum Inner Product Search**<br>
   Changyi Ma, **<u>Fangchen Yu</u>**, Yueyao Yu, Wenye Li<br>
-  ***<span style="color: #0033A0;">CIKM-2021 (Best Paper Finalist)</span>***: [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482132)] [[bibtex](https://sciyu.github.io/bib/CIKM2021.bib)]
+  ***<span style="color: #0033A0;">CIKM-2021 (Best Short Paper Finalist)</span>***: [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482132)] [[bibtex](https://sciyu.github.io/bib/CIKM2021.bib)]
 
  
 
