@@ -111,7 +111,8 @@ AAAI-23 Student Program Program Committee<br>
 
 
 # Teaching Assistant
-- *2023 - 2024*: DDA4210 Advanced Machine Learning 
+- *Summer 2024*: MAT3007 Optimization 
+- *Spring & Fall 2023*: DDA4210 Advanced Machine Learning 
 - *Fall 2022*: MAT3300 Mathematical Modeling
 - *Summer 2022*: EIE4006 Performance Evaluation of Communication Networks
 - *Spring 2022*: STA3010 Regression Analysis
