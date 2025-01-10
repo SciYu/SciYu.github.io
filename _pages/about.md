@@ -20,7 +20,7 @@ redirect_from:
 Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineering at [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en) (CUHK-SZ), under the supervision of [Prof. Wenye Li](https://sds.cuhk.edu.cn/en/teacher/317) and [Prof. Jianfeng Mao](https://sds.cuhk.edu.cn/en/teacher/268). He obtained his Bachelor's degree in Physics from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) (UCAS) in 2020. His research interests focus on statistical learning, machine learning, and metric learning.
 
 # Research Interests
-Optimization, Unsupervised Learning, Incomplete Data, Computer Vision, AI for Science.
+Similarity/Distance Learning, Incomplete Data, Optimal Transport, Computer Vision.
 
 
 # Research Topics
@@ -39,7 +39,11 @@ Optimization, Unsupervised Learning, Incomplete Data, Computer Vision, AI for Sc
 
 
 
-# Publications 
+# Publications & Preprint
+
+* **KAE: Kolmogorov-Arnold Auto-Encoder for Representation Learning**<br>
+  **<u>Fangchen Yu</u>**, Ruilizhen Hu, Yidong Lin, Yuqi Ma, Zhenghao Huang, Wenye Li<br>
+  ***<span style="color: #0033A0;">arXiv-2024</span>***: [[Paper](https://arxiv.org/pdf/2501.00420)] [[Code](https://github.com/SciYu/KAE)] [[bibtex](https://sciyu.github.io/bib/KAE.bib)]
 
 * **FedLF: Layer-wise Fair Federated Learning**<br>
   Zibin Pan, Chi Li, **<u>Fangchen Yu</u>**, Shuyi Wang, Haijin Wang, Xiaoying Tang, Junhua Zhao<br>
@@ -77,6 +81,8 @@ Optimization, Unsupervised Learning, Incomplete Data, Computer Vision, AI for Sc
 # Educations
 - *Sep. 2020 - Now*,<br>
 *Ph.D. Candidate in Computer and Information Engineering*, at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ).<br>
+- *Oct. 2024 - Now*,<br>
+*Visiting Student*, at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI, ranked Top20 globally in AI).<br>
 - *Sep. 2016 - Jun. 2020*,<br> 
 *B.S. in Physics*, at University of Chinese Academy of Sciences (UCAS).<br>
 - *Aug. 2019 - Dec. 2019*,<br> 
@@ -94,19 +100,23 @@ Optimization, Unsupervised Learning, Incomplete Data, Computer Vision, AI for Sc
 
 # Honors and Awards
 - *2020-2024*: **PhD Fellowship (Silver Class)** at Shenzhen Research Institute of Big Data (SRIBD)
-- *Oct 2022*: **Class I Outstanding TA Award** at Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
-* *Jul 2021*: **Class II Outstanding TA Award** at Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
+- *Oct 2022*: **Class I Outstanding Teaching Assistant Award** at Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
+* *Jul 2021*: **Class II Outstanding Teaching Assistent Award** at Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
 * *Nov 2019*: **Class III Scholarship** at University of Chinese Academy of Sciences (UCAS)
 * *Dec 2017*: **Merit Student** at University of Chinese Academy of Sciences (UCAS)
 
 
 
 # Academic Service
-- *Conference Refereeing*:<br>
-NeurIPS-2024, IJCAI-2024, AAAI-2024, AAAI-2023, ICONIP-2023, ECML-2022
 - *Program Committee Member*:<br>
-AAAI-24 Student Program Program Committee<br>
-AAAI-23 Student Program Program Committee<br>
+ICML-2025<br>
+ICLR-2025<br>
+WWW-2025<br>
+NeurIPS-2024<br>
+AAAI-2025, 2024, 2023<br>
+IJCAI-2024<br>
+ICONIP-2023<br>
+ECML-2022
 
 
 
