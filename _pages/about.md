@@ -17,18 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineering 
-at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ), 
-under the supervision of [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317) 
-and [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268). 
-He obtained his Bachelor's degree in Physics from the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS) in 2020. 
-His research interests focus on statistical machine learning, metric learning, and optimal transport.
+# 🧑‍🎓 About Me
 
-# Research Interests
+Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineering at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ), under the supervision of [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317) and [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268). He obtained his Bachelor's degree in Physics from the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS) in 2020. His research interests focus on statistical machine learning, metric learning, and optimal transport.
+
+# 🤓 Research Interests
+
 Similarity/Distance Learning, Incomplete Data, Optimal Transport, Computer Vision.
 
 
-# Research Topics
+# 📚 Research Topics
 
 - **Efficient Optimization Algorithms for Incomplete Data (Previous Work)**
   - Optimization of similarity and distance matrices for offline/online incomplete data
@@ -44,7 +42,7 @@ Similarity/Distance Learning, Incomplete Data, Optimal Transport, Computer Visio
 
 
 
-# Publications & Preprint
+# 📝 Publications & Preprint
 
 **$\dagger$: equal contributions; $\ast$: corresponding author** 
 
@@ -108,7 +106,7 @@ Similarity/Distance Learning, Incomplete Data, Optimal Transport, Computer Visio
 
  
 
-# Educations
+# 🏫 Educations
 - *Sep. 2020 - Now*,<br>
 *Ph.D. Candidate in Computer and Information Engineering*, at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ; Supervisors: [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317) and [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268)).<br>
 - *Oct. 2024 - Now*,<br>
@@ -120,7 +118,7 @@ Similarity/Distance Learning, Incomplete Data, Optimal Transport, Computer Visio
 
 
 
-# Professional Experience
+# 💻 Professional Experience
 - *Jul. 2023 - Jun. 2024*,<br>
 *Graduate Research Assistant*, at [**Shenzhen Research Institute of Big Data**](https://www.sribd.cn/en), Shenzhen, China. (Supervisor: [**Dr. Yicheng Zeng**](https://www.sribd.cn/en/teacher/558))<br>
 - *Mar. 2023 - Jul. 2023*,<br>
@@ -128,27 +126,30 @@ Similarity/Distance Learning, Incomplete Data, Optimal Transport, Computer Visio
 
 
 
-# Honors and Awards
-- *2020-2024*: **PhD Fellowship (Silver Class)** at Shenzhen Research Institute of Big Data (SRIBD)
-- *Oct 2022*: **Class I Outstanding Teaching Assistant Award** at Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
-* *Jul 2021*: **Class II Outstanding Teaching Assistent Award** at Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
-* *Nov 2019*: **Class III Scholarship** at University of Chinese Academy of Sciences (UCAS)
-* *Dec 2017*: **Merit Student** at University of Chinese Academy of Sciences (UCAS)
+# 🎖 Honors and Awards
+- 2023, **PhD Fellowship**, Shenzhen Research Institute of Big Data
+- 2022, **PhD Fellowship**, Shenzhen Research Institute of Big Data
+- 2022, **Outstanding Teaching Assistant Award**, The Chinese University of Hong Kong, Shenzhen
+- 2021, **Outstanding Teaching Assistent Award**, The Chinese University of Hong Kong, Shenzhen
+- 2021, **PhD Fellowship**, Shenzhen Research Institute of Big Data
+- 2020, **PhD Fellowship**, Shenzhen Research Institute of Big Data
+- 2019, **Class III Scholarship**, University of Chinese Academy of Sciences
+- 2017, **Merit Student**, University of Chinese Academy of Sciences
 
 
 
-# Academic Service
+# 💻 Academic Service
 - **Program Committee Member:**<br>
 ICML 2025, ICLR 2025, NeurIPS 2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 2024, ECML 2022, etc.
 
 
 
-# Teaching Assistant
-- *Summer 2024*: MAT3007 Optimization 
-- *Spring & Fall 2023*: DDA4210 Advanced Machine Learning 
-- *Fall 2022*: MAT3300 Mathematical Modeling
-- *Summer 2022*: EIE4006 Performance Evaluation of Communication Networks
-- *Spring 2022*: STA3010 Regression Analysis
-- *Fall 2021*: MAT4003 Number Theory
-- *Spring 2021*: MAT4004 Graph Theory
-- *Fall 2020*: MAT3280 Probability Theory
+# 👨‍🏫 Teaching Assistant
+- Summer 2024: MAT3007 **Optimization**. Instructor: Prof. Junfeng Wu
+- Spring & Fall 2023: DDA4210 **Advanced Machine Learning**. Instructors: Prof. Jicong Fan & Prof. Tongxin Li
+- Fall 2022: MAT3300 **Mathematical Modeling**. Instructor: Prof. Gongqiu Zhang
+- Summer 2022: EIE4006/CIE6126 **Performance Evaluation of Communication Networks**. Instructor: Prof. Tony Lee
+- Spring 2022: STA3010 **Regression Analysis**. Instructor: Prof. Feng Yin
+- Fall 2021: MAT4003 **Number Theory**. Instructor: Prof. Jun Bo (Mario) Huan
+- Spring 2021: MAT4004 **Graph Theory**. Instructor: Prof. Jun Bo (Mario) Huang
+- Fall 2020: MAT3280 **Probability Theory**. Instructor: Prof. Kenneth Shum
