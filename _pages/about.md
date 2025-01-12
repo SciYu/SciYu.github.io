@@ -56,24 +56,36 @@ Similarity/Distance Learning, Incomplete Data, Optimal Transport, Computer Visio
   Zibin Pan, Chi Li, **<u>Fangchen Yu</u>**, Shuyi Wang, Haijin Wang, Xiaoying Tang<sup>$\ast$</sup>, Junhua Zhao<sup>$\ast$</sup> <br>
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29368)] [[Code](https://github.com/SciYu/FedLF)] [[Poster](./poster/AAAI2024_poster.png)] [[bibtex](https://sciyu.github.io/bib/WACV2024.bib)]  
   <a href="./poster/AAAI2024_poster.png" target="_blank">
-    <img src="./poster/AAAI2024_poster.png" alt="AAAI 2024 Poster" width="250px" style="border:1px solid #ddd; border-radius:8px; padding:2px;">
+    <img src="./poster/AAAI2024_poster.png" alt="AAAI 2024 Poster" width="350px" style="border:1px solid #ddd; border-radius:8px; padding:2px;">
   </a>
 
 - ![WACV 2024](https://img.shields.io/badge/WACV-2024-orange) [**DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction**](https://openaccess.thecvf.com/content/WACV2024/papers/Yu_DocReal_Robust_Document_Dewarping_of_Real-Life_Images_via_Attention-Enhanced_Control_WACV_2024_paper.pdf)<br>
   **<u>Fangchen Yu</u>** (internship), Yina Xie, Lei Wu, Yafei Wen, Guozhi Wang, Shuai Ren, Xiaoxin Chen, Jianfeng Mao, Wenye Li<sup>$\ast$</sup> <br>
   [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yu_DocReal_Robust_Document_Dewarping_of_Real-Life_Images_via_Attention-Enhanced_Control_WACV_2024_paper.pdf)] [[Code](https://github.com/SciYu/DocReal)] [[Poster](./poster/WACV2024_poster.png)] [[bibtex](https://sciyu.github.io/bib/WACV2024.bib)]
+  <a href="./poster/WACV2024_poster.png" target="_blank">
+    <img src="./poster/WACV2024_poster.png" alt="WACV 2024 Poster" width="350px" style="border:1px solid #ddd; border-radius:8px; padding:2px;">
+  </a>
 
 - ![NeurIPS 2023](https://img.shields.io/badge/NeurIPS-2023-orange) [**Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning**](https://openreview.net/pdf?id=xFtuNq23D5)<br>
   **<u>Fangchen Yu</u>**, Runze Zhao, Zhan Shi, Yiwen Lu, Jicong Fan, Yicheng Zeng, Jianfeng Mao, Wenye Li<sup>$\ast$</sup> <br>
   [[Paper](https://openreview.net/pdf?id=xFtuNq23D5)] [[Code](https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data)] [[Video](https://neurips.cc/virtual/2023/poster/70019)] [[PPT](https://neurips.cc/media/neurips-2023/Slides/70019_iLAU9xR.pdf)] [[Poster](./poster/NeurIPS2023_poster.png)] [[bibtex](https://sciyu.github.io/bib/NIPS2023.bib)]
+  <a href="./poster/NeurIPS2023_poster.png" target="_blank">
+    <img src="./poster/NeurIPS2023_poster.png" alt="NeurIPS 2023 Poster" width="350px" style="border:1px solid #ddd; border-radius:8px; padding:2px;">
+  </a>
 
 - ![UAI 2023](https://img.shields.io/badge/UAI-2023-orange) [**Online Estimation of Similarity Matrices with Incomplete Data**](https://proceedings.mlr.press/v216/yu23a/yu23a.pdf)<br>
   **<u>Fangchen Yu</u>**, Yicheng Zeng, Jianfeng Mao, Wenye Li<sup>$\ast$</sup> <br>
   [[Paper](https://proceedings.mlr.press/v216/yu23a/yu23a.pdf)] [[Code](https://github.com/SciYu/Online-Similarity-Matrix-Correction)] [[Poster](./poster/UAI2023_poster.png)] [[bibtex](https://sciyu.github.io/bib/UAI2023.bib)]
+  <a href="./poster/UAI2023_poster.png" target="_blank">
+    <img src="./poster/UAI2023_poster.png" alt="UAI 2023 Poster" width="350px" style="border:1px solid #ddd; border-radius:8px; padding:2px;">
+  </a>
 
 - ![ECAI 2023](https://img.shields.io/badge/ECAI-2023-orange) [**Highly-Efficient Robinson-Foulds Distance Estimation with Matrix Correction**](https://ebooks.iospress.nl/doi/10.3233/FAIA230605) <br>
   **<u>Fangchen Yu</u>**, Rui Bao, Jianfeng Mao, Wenye Li<sup>$\ast$</sup> <br>
   [[Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA230605)] [[Code](https://github.com/SciYu/Embedding-based-Matrix-Correction)] [[Poster](./poster/ECAI2023_poster.png)] [[bibtex](https://sciyu.github.io/bib/ECAI2023.bib)]
+  <a href="./poster/ECAI2023_poster.png" target="_blank">
+    <img src="./poster/ECAI2023_poster.png" alt="ECAI 2023 Poster" width="350px" style="border:1px solid #ddd; border-radius:8px; padding:2px;">
+  </a>
 
 - ![ICONIP 2023](https://img.shields.io/badge/ICONIP-2023-orange) [**From Incompleteness to Unity: A Framework for Multi-view Clustering with Missing Values**](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_9) <br>
   **<u>Fangchen Yu</u>**, Zhan Shi, Yuqi Ma, Jianfeng Mao, Wenye Li<sup>$\ast$</sup> <br>
@@ -82,6 +94,9 @@ Similarity/Distance Learning, Incomplete Data, Optimal Transport, Computer Visio
 - ![AAAI 2023](https://img.shields.io/badge/AAAI-2023-orange) [**Metric Nearness Made Practical**](https://ojs.aaai.org/index.php/AAAI/article/view/26041) <br>
   Wenye Li, **<u>Fangchen Yu</u>**, Zichen Ma<br>
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26041)] [[Code](https://github.com/SciYu/Metric-Nearness-Made-Practical)] [[Poster](./poster/AAAI2023_poster.png)] [[bibtex](https://sciyu.github.io/bib/AAAI2023.bib)]
+  <a href="./poster/AAAI2023_poster.png" target="_blank">
+    <img src="./poster/AAAI2023_poster.png" alt="AAAI 2023 Poster" width="350px" style="border:1px solid #ddd; border-radius:8px; padding:2px;">
+  </a>
 
 - ![ECML 2022](https://img.shields.io/badge/ECML-2022-orange) [**Calibrating Distance Metrics Under Uncertainty**](https://link.springer.com/chapter/10.1007/978-3-031-26409-2_14)<br>
   Wenye Li<sup>$\ast$</sup>, **<u>Fangchen Yu</u>**<br>
