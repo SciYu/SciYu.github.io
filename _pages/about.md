@@ -21,12 +21,12 @@ redirect_from:
 
 Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineering at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ), under the supervision of [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317) and [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268). He obtained his Bachelor's degree in Physics from the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS) in 2020. His research interests focus on statistical machine learning, metric learning, and optimal transport.
 
-# 🤓 Research Interests
+# 🏷️ Research Interests
 
 Similarity/Distance Learning, Incomplete Data, Optimal Transport, Computer Vision.
 
 
-# 📚 Research Topics
+# 📑 Research Topics
 
 - **Efficient Optimization Algorithms for Incomplete Data (Previous Work)**
   - Optimization of similarity and distance matrices for offline/online incomplete data
@@ -138,13 +138,13 @@ Similarity/Distance Learning, Incomplete Data, Optimal Transport, Computer Visio
 
 
 
-# 💻 Academic Service
+# 👨🏻‍💻 Academic Service
 - **Program Committee Member:**<br>
 ICML 2025, ICLR 2025, NeurIPS 2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 2024, ECML 2022, etc.
 
 
 
-# 👨‍🏫 Teaching Assistant
+# 👨🏻‍🏫 Teaching Assistant
 - Summer 2024: MAT3007 **Optimization**. Instructor: Prof. Junfeng Wu
 - Spring & Fall 2023: DDA4210 **Advanced Machine Learning**. Instructors: Prof. Jicong Fan & Prof. Tongxin Li
 - Fall 2022: MAT3300 **Mathematical Modeling**. Instructor: Prof. Gongqiu Zhang
