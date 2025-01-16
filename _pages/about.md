@@ -140,7 +140,7 @@ Similarity/Distance Learning, Incomplete Data, Optimal Transport, Computer Visio
 
 # 👨🏻‍💻 Academic Service
 - **Program Committee Member:**<br>
-ICML 2025, ICLR 2025, NeurIPS 2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 2024, ECML 2022, etc.
+ICML 2025, ICLR 2025, NeurIPS 2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 2025/2024, ECML 2022, etc.
 
 
 
