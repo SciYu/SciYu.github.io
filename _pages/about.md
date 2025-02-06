@@ -47,7 +47,7 @@ Similarity/Distance Learning, Incomplete Data, Optimal Transport, Computer Visio
 **$\dagger$: equal contributions; $\ast$: corresponding author** 
 
 - ![WWW 2025](https://img.shields.io/badge/WWW-2025-orange) [**A Theory-Driven Approach to Inner Product Matrix Estimation for Incomplete Data: An Eigenvalue Perspective**](https://openreview.net/forum?id=MeD7Pq8FgM)<br>
-  **<u>Fangchen Yu</u>**<sup>$\dagger\ast$</sup>, Yicheng Zeng<sup>$\dagger\ast$</sup>, Jianfeng Mao, Wenye Li <br>
+  **<u>Fangchen Yu</u>**<sup>$\dagger$$\ast$</sup>, Yicheng Zeng<sup>$\dagger$$\ast$</sup>, Jianfeng Mao, Wenye Li <br>
   [[Paper](https://openreview.net/forum?id=MeD7Pq8FgM)] [[Code](https://github.com/SciYu/Inner-Product-Estimation)] [[bibtex](https://sciyu.github.io/bib/WWW2025.bib)]
 
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-orange) [**KAE: Kolmogorov-Arnold Auto-Encoder for Representation Learning**](https://arxiv.org/pdf/2501.00420)<br>
