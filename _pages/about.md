@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧑‍🎓 About Me
 
-I am a Ph.D. candidate in Computer and Information Engineering at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ), under the supervision of [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317) and [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268). He obtained his Bachelor's degree in Physics from the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS) in 2020.
+I am a Ph.D. candidate in Computer and Information Engineering at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ), under the supervision of [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317) and [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268). I obtained the Bachelor's degree in Physics from the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS) in 2020.
 
 **I am currently visiting [Prof. Qiang Sun](https://sites.google.com/view/qsun/) at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) (MBZUAI).**
 
@@ -28,18 +28,18 @@ I have a broad interest in machine learning with a particular interest in *stati
 
 # 🏷️ Research Interests
 
-Similarity/Distance Learning, Incomplete Data, Optimal Transport, Computer Vision.
+Statistics for AI, Optimal Transport, Generative Model.
 
 
 # 📑 Research Topics
 
-- **Efficient Optimization Algorithms for Incomplete Data (Previous Work)**
+- **Efficient Similarity/Distance Learning for Incomplete Data (Previous Work)**
   - Optimization of similarity and distance matrices for offline/online incomplete data
-  - Estimation of inner product matrix for incomplete data on similarity search tasks
+  - Estimation of inner product matrix for incomplete data with similarity search tasks
 
 - **Optimization and Generalization for Wasserstein Distance (Ongoing Work)**
-  - Fast and accurate tree Wasserstein distance for approximating 1-Wassserstein distance
-  - Robust Wasserstein distance for unbalanced distributions
+  - Fast and accurate tree-Wasserstein distance for approximating 1-Wassserstein distance
+  - New Wasserstein distance design for unbalanced point clouds
 
 - **Optimal Transport for Visual Generative Models (Future Work)**
   - Optimal transport based flow matching and diffusion models
