@@ -19,7 +19,12 @@ redirect_from:
 
 # 🧑‍🎓 About Me
 
-Fangchen Yu is currently a Ph.D. candidate in Computer and Information Engineering at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ), under the supervision of [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317) and [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268). He obtained his Bachelor's degree in Physics from the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS) in 2020. His research interests focus on statistical machine learning, metric learning, and optimal transport.
+I am a Ph.D. candidate in Computer and Information Engineering at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ), under the supervision of [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317) and [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268). He obtained his Bachelor's degree in Physics from the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS) in 2020.
+
+**I am currently visiting [Prof. Qiang Sun](https://sites.google.com/view/qsun/) at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) (MBZUAI).**
+
+I have a broad interest in machine learning with a particular interest in *statis-based AI*, *optimal transport*, and *generative models*. **My CV can be found here in English and Chinese. (to be uploaded)**
+
 
 # 🏷️ Research Interests
 
@@ -36,9 +41,9 @@ Similarity/Distance Learning, Incomplete Data, Optimal Transport, Computer Visio
   - Fast and accurate tree Wasserstein distance for approximating 1-Wassserstein distance
   - Robust Wasserstein distance for unbalanced distributions
 
-- **Optimization for Visual Generative Models & AI for Science (Future Work)**
-  - Optimization for Wasserstein-based generative models (e.g., Point Cloud Completion)
-  - New neural network design for the discovery of physical laws (e.g., K-A Networks)
+- **Optimal Transport for Visual Generative Models (Future Work)**
+  - Optimal transport based flow matching and diffusion models
+  - Optimal transport for video generation and multi-modal learning
 
 
 
