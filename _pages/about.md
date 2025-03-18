@@ -23,7 +23,7 @@ I am a Ph.D. candidate in Computer and Information Engineering at [**The Chinese
 
 **I am currently visiting [Prof. Qiang Sun](https://sites.google.com/view/qsun/) at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) (MBZUAI).**
 
-I have a broad interest in machine learning with a particular interest in *statistics for AI*, *optimization*, *optimal transport*, and *generative models*. **My CV can be found here in [Chinese](简历-余方晨-港中深.pdf).**
+I have a broad interest in machine learning with a particular interest in *statistics for AI*, *optimization*, *optimal transport*, and *generative models*. **My CV can be found here in [Chinese](简历-余方晨-港中深.pdf) and [English](Resume_Fangchen_Yu_CUHKSZ.pdf).**
 
 
 
