@@ -23,35 +23,35 @@ I am a Ph.D. candidate in Computer and Information Engineering at [**The Chinese
 
 **I am currently visiting [Prof. Qiang Sun](https://sites.google.com/view/qsun/) at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) (MBZUAI).**
 
-I have a broad interest in machine learning with a particular interest in *statistics for AI*, *optimal transport*, and *generative models*. **My CV can be found here in [Chinese](个人简历-余方晨-博五-业界.pdf).**
+I have a broad interest in machine learning with a particular interest in *statistics for AI*, *optimization*, *optimal transport*, and *generative models*. **My CV can be found here in [Chinese](简历-余方晨-港中深.pdf).**
 
 
 
 
 # 🏷️ Research Interests
 
-Statistics for AI, Optimal Transport, Generative Model.
+Statistics for AI, Optimization, Optimal Transport, Generative Model.
 
 
 # 📑 Research Topics
 
-- **Efficient Similarity/Distance Learning for Incomplete Data (Previous Work)**
-  - Optimization of similarity and distance matrices for offline/online incomplete data
-  - Estimation of inner product matrix for incomplete data with similarity search tasks
+- **Efficient Similarity and Distance Learning for Incomplete Data (Previous Work)**
+  - Optimize similarity matrices for offline and online incomplete data
+  - Estimate distance matrices for incomplete data in similarity search tasks
 
-- **Optimization and Generalization for Wasserstein Distance (Ongoing Work)**
-  - Fast and accurate tree-Wasserstein distance for approximating 1-Wassserstein distance
-  - New Wasserstein distance design for unbalanced point clouds
+- **Optimization and Generalization of Wasserstein Distance (Ongoing Work)**
+  - Develop a fast and accurate tree-Wasserstein distance for approximating the 1-Wasserstein distance
+  - Design a novel Wasserstein distance for unbalanced point clouds
 
 - **Optimal Transport for Visual Generative Models (Future Work)**
-  - Optimal transport based flow matching and diffusion models
-  - Optimal transport for video generation and multi-modal learning
+  - Apply optimal transport to flow matching and diffusion models
+  - Investigate optimal transport techniques for video generation and multi-modal learning
 
 
 
 # 📝 Publications & Preprint
 
-**$\dagger$: equal contributions; $\ast$: corresponding author** 
+**$\dagger$: equal contributions; $\ast$: corresponding author**
 
 - ![WWW 2025](https://img.shields.io/badge/WWW-2025-orange) [**A Theory-Driven Approach to Inner Product Matrix Estimation for Incomplete Data: An Eigenvalue Perspective**](https://openreview.net/forum?id=MeD7Pq8FgM)<br>
   **<u>Fangchen Yu</u>**<sup>$\dagger \ast$</sup>, Yicheng Zeng<sup>$\dagger \ast$</sup>, Jianfeng Mao, Wenye Li <br>
@@ -121,7 +121,7 @@ Statistics for AI, Optimal Transport, Generative Model.
 - *Sep. 2020 - Now*,<br>
 *Ph.D. Candidate in Computer and Information Engineering*, at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ; Supervisors: [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317) and [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268)).<br>
 - *Oct. 2024 - Now*,<br>
-*Visiting Student*, at [**Mohamed Bin Zayed University of Artificial Intelligence**](https://mbzuai.ac.ae/) (MBZUAI, ranked Top20 globally in AI; Supervisor: [**Prof. Qiang Sun**](https://sites.google.com/view/qsun/)).<br>
+*Visiting Student*, at [**Mohamed Bin Zayed University of Artificial Intelligence**](https://mbzuai.ac.ae/) (MBZUAI, ranked Top10 globally in AI; Supervisor: [**Prof. Qiang Sun**](https://sites.google.com/view/qsun/)).<br>
 - *Sep. 2016 - Jun. 2020*,<br> 
 *B.S. in Physics*, at [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS).<br>
 - *Aug. 2019 - Dec. 2019*,<br> 
@@ -151,7 +151,7 @@ Statistics for AI, Optimal Transport, Generative Model.
 
 # 👨🏻‍💻 Academic Service
 - **Program Committee Member:**<br>
-ICML 2025, ICLR 2025, NeurIPS 2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 2025/2024, ECML 2022, etc.
+ICML 2025, ICLR 2025, NeurIPS 2025/2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 2025/2024, ECML 2022, etc.
 
 
 
@@ -164,3 +164,7 @@ ICML 2025, ICLR 2025, NeurIPS 2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 2025/20
 - Fall 2021: MAT4003 **Number Theory**. Instructor: Prof. Jun Bo (Mario) Huan
 - Spring 2021: MAT4004 **Graph Theory**. Instructor: Prof. Jun Bo (Mario) Huang
 - Fall 2020: MAT3280 **Probability Theory**. Instructor: Prof. Kenneth Shum
+
+---
+
+> *Last Update: 2025-03-18*
