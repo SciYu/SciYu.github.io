@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Research Topics"
+    url: "/#research-topics"
+
   - title: "Publications"
     url: "/#publications"
 
@@ -12,8 +15,8 @@ main:
   - title: "Internships"
     url: "/#internships"
 
-  - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+  - title: "Awards"
+    url: "/#awards"
 
-  - title: "Teaching Assistant"
-    url: "/#teaching-assistant"
+  - title: "Teaching"
+    url: "/#teaching"

@@ -23,15 +23,14 @@ I am a Ph.D. candidate in Computer and Information Engineering at [**The Chinese
 
 **I am currently visiting [Prof. Qiang Sun](https://sites.google.com/view/qsun/) at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) (MBZUAI).**
 
-I have a broad interest in machine learning with a particular interest in *statistics for AI*, *optimization*, *optimal transport*, and *generative models*. **My CV can be found here in [Chinese](简历-余方晨-港中深.pdf) and [English](Resume_Fangchen_Yu_CUHKSZ.pdf).**
-
-
+I have a broad interest in machine learning with a particular interest in *statistics for AI*, *optimization*, *optimal transport*, and *generative models*. **My CV can be found here in [Chinese](简历-余方晨-港中深.pdf) and [English](Resume_Fangchen_Yu_CUHKSZ.pdf)** (last updated: 2025-03-19).
 
 
 # 🏷️ Research Interests
 
 Statistics for AI, Optimization, Optimal Transport, Generative Model.
 
+<span class='anchor' id='research-topics'></span>
 
 # 📑 Research Topics
 
@@ -47,7 +46,7 @@ Statistics for AI, Optimization, Optimal Transport, Generative Model.
   - Apply optimal transport to flow matching and diffusion models
   - Investigate optimal transport techniques for video generation and multi-modal learning
 
-
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications & Preprint
 
@@ -115,7 +114,7 @@ Statistics for AI, Optimization, Optimal Transport, Generative Model.
   Changyi Ma, **<u>Fangchen Yu</u>**, Yueyao Yu, Wenye Li<sup>$\ast$</sup> <br>
   [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482132)] [[bibtex](https://sciyu.github.io/bib/CIKM2021.bib)] [***(Best Short Paper Finalist)***](https://www.cikm2021.org/programme/best-paper-nominations)
 
- 
+<span class='anchor' id='educations'></span>
 
 # 🏫 Educations
 - *Sep. 2020 - Now*,<br>
@@ -127,15 +126,15 @@ Statistics for AI, Optimization, Optimal Transport, Generative Model.
 - *Aug. 2019 - Dec. 2019*,<br> 
 *Global Study Program*, at [**University of California, Davis**](https://www.ucdavis.edu/) (UCD).
 
+<span class='anchor' id='internships'></span>
 
-
-# 💻 Professional Experience
+# 💻 Internships
 - *Jul. 2023 - Jun. 2024*,<br>
 *Graduate Research Assistant*, at [**Shenzhen Research Institute of Big Data**](https://www.sribd.cn/en), Shenzhen, China. (Supervisor: [**Dr. Yicheng Zeng**](https://www.sribd.cn/en/teacher/558))<br>
 - *Mar. 2023 - Jul. 2023*,<br>
 *Research Intern*, at **Vivo AI Lab**, Shenzhen, China. (Area: Visual Understanding and Generation)
 
-
+<span class='anchor' id='awards'></span>
 
 # 🎖 Honors and Awards
 - 2023, **PhD Fellowship**, Shenzhen Research Institute of Big Data
@@ -153,7 +152,7 @@ Statistics for AI, Optimization, Optimal Transport, Generative Model.
 - **Program Committee Member:**<br>
 ICML 2025, ICLR 2025, NeurIPS 2025/2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 2025/2024, ECML 2022, etc.
 
-
+<span class='anchor' id='Teaching'></span>
 
 # 👨🏻‍🏫 Teaching Assistant
 - Summer 2024: MAT3007 **Optimization**. Instructor: Prof. Junfeng Wu
@@ -165,6 +164,5 @@ ICML 2025, ICLR 2025, NeurIPS 2025/2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 20
 - Spring 2021: MAT4004 **Graph Theory**. Instructor: Prof. Jun Bo (Mario) Huang
 - Fall 2020: MAT3280 **Probability Theory**. Instructor: Prof. Kenneth Shum
 
----
 
-> *Last Update: 2025-03-18*
+*Last Update: 2025-03-19*
