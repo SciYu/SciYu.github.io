@@ -129,8 +129,8 @@ Statistics for AI, Optimization, Optimal Transport, Generative Model.
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
-- *Jul. 2023 - Jun. 2024*,<br>
-*Graduate Research Assistant*, at [**Shenzhen Research Institute of Big Data**](https://www.sribd.cn/en), Shenzhen, China. (Supervisor: [**Dr. Yicheng Zeng**](https://www.sribd.cn/en/teacher/558))<br>
+- *Sep. 2020 - Aug. 2024*,<br>
+*Graduate Research Assistant*, at [**Shenzhen Research Institute of Big Data**](https://www.sribd.cn/en), Shenzhen, China. (Supervisors: [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317), [**Dr. Yicheng Zeng**](https://www.sribd.cn/en/teacher/558))<br>
 - *Mar. 2023 - Jul. 2023*,<br>
 *Research Intern*, at **Vivo AI Lab**, Shenzhen, China. (Area: Visual Understanding and Generation)
 
@@ -152,7 +152,7 @@ Statistics for AI, Optimization, Optimal Transport, Generative Model.
 - **Program Committee Member:**<br>
 ICML 2025, ICLR 2025, NeurIPS 2025/2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 2025/2024, ECML 2022, etc.
 
-<span class='anchor' id='Teaching'></span>
+<span class='anchor' id='teaching'></span>
 
 # 👨🏻‍🏫 Teaching Assistant
 - MAT3007 **Optimization**. Instructor: Prof. Junfeng Wu. Summer 2024.
