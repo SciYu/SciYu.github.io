@@ -35,11 +35,11 @@ Statistics for AI, Optimization, Optimal Transport, Generative Model.
 # 📑 Research Topics
 
 - **Efficient Similarity and Distance Learning for Incomplete Data (Previous Work)**
-  - Optimize similarity matrices for offline and online incomplete data
-  - Estimate distance matrices for incomplete data in similarity search tasks
+  - Optimize similarity matrices for offline and online incomplete data (Published in NeurIPS, WWW, and UAI)
+  - Estimate distance matrices for incomplete data in similarity search tasks (Published in AAAI, ECAI, and ECML)
 
 - **Optimization and Generalization of Wasserstein Distance (Ongoing Work)**
-  - Develop a fast and accurate tree-Wasserstein distance for approximating the 1-Wasserstein distance
+  - Develop an accurate tree-Wasserstein distance for approximating the 1-Wasserstein distance (Under Review)
   - Design a novel Wasserstein distance for unbalanced point clouds
 
 - **Optimal Transport for Visual Generative Models (Future Work)**
@@ -155,14 +155,14 @@ ICML 2025, ICLR 2025, NeurIPS 2025/2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 20
 <span class='anchor' id='Teaching'></span>
 
 # 👨🏻‍🏫 Teaching Assistant
-- Summer 2024: MAT3007 **Optimization**. Instructor: Prof. Junfeng Wu
-- Spring & Fall 2023: DDA4210 **Advanced Machine Learning**. Instructors: Prof. Jicong Fan & Prof. Tongxin Li
-- Fall 2022: MAT3300 **Mathematical Modeling**. Instructor: Prof. Gongqiu Zhang
-- Summer 2022: EIE4006/CIE6126 **Performance Evaluation of Communication Networks**. Instructor: Prof. Tony Lee
-- Spring 2022: STA3010 **Regression Analysis**. Instructor: Prof. Feng Yin
-- Fall 2021: MAT4003 **Number Theory**. Instructor: Prof. Jun Bo (Mario) Huan
-- Spring 2021: MAT4004 **Graph Theory**. Instructor: Prof. Jun Bo (Mario) Huang
-- Fall 2020: MAT3280 **Probability Theory**. Instructor: Prof. Kenneth Shum
+- MAT3007 **Optimization**. Instructor: Prof. Junfeng Wu. Summer 2024.
+- DDA4210 **Advanced Machine Learning**. Instructors: Prof. Jicong Fan & Prof. Tongxin Li. Spring & Fall 2023.
+- MAT3300 **Mathematical Modeling**. Instructor: Prof. Gongqiu Zhang. Fall 2022.
+- EIE4006 **Performance Evaluation of Communication Networks**. Instructor: Prof. Tony Lee. Summer 2022.
+- STA3010 **Regression Analysis**. Instructor: Prof. Feng Yin. Spring 2022.
+- MAT4003 **Number Theory**. Instructor: Prof. Jun Bo (Mario) Huan. Fall 2021.
+- MAT4004 **Graph Theory**. Instructor: Prof. Jun Bo (Mario) Huang. Spring 2021.
+- MAT3280 **Probability Theory**. Instructor: Prof. Kenneth Shum. Fall 2020.
 
 
 *Last Update: 2025-03-19*
