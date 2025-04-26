@@ -54,7 +54,7 @@ Statistics for AI, Optimization, Optimal Transport, Generative Model.
 
 - ![WWW 2025](https://img.shields.io/badge/WWW-2025-orange) [**A Theory-Driven Approach to Inner Product Matrix Estimation for Incomplete Data: An Eigenvalue Perspective**](https://openreview.net/forum?id=MeD7Pq8FgM)<br>
   **<u>Fangchen Yu</u>**<sup>$\dagger \ast$</sup>, Yicheng Zeng<sup>$\dagger \ast$</sup>, Jianfeng Mao, Wenye Li <br>
-  [[Paper](https://openreview.net/forum?id=MeD7Pq8FgM)] [[Code](https://github.com/SciYu/Inner-Product-Estimation)] [[Poster](./poster/WWW2025_poster.png)] [[bibtex](https://sciyu.github.io/bib/WWW2025.bib)]
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714947?casa_token=vH66OZoybrkAAAAA:kzrl2y-PJA424rCUwkN7DpzVW7hBmYTwPTHMwYokouoO3laDOMjtPbL0AXGI5mseoy_JpknGYsN4nbs)] [[Code](https://github.com/SciYu/Inner-Product-Estimation)] [[Poster](./poster/WWW2025_poster.png)] [[bibtex](https://sciyu.github.io/bib/WWW2025.bib)]
 
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-orange) [**KAE: Kolmogorov-Arnold Auto-Encoder for Representation Learning**](https://arxiv.org/pdf/2501.00420)<br>
   **<u>Fangchen Yu</u>**, Ruilizhen Hu, Yidong Lin, Yuqi Ma, Zhenghao Huang, Wenye Li<sup>$\ast$</sup> <br>
