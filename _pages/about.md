@@ -23,7 +23,7 @@ I am a Ph.D. candidate in Computer and Information Engineering at [**The Chinese
 
 **I am currently visiting [Prof. Qiang Sun](https://sites.google.com/view/qsun/) at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) (MBZUAI).**
 
-I have a broad interest in machine learning with a particular interest in *statistics for AI*, *optimization*, *optimal transport*, and *generative models*. **My CV can be found here in [Chinese](简历-余方晨-港中深.pdf) and [English](Resume_Fangchen_Yu_CUHKSZ.pdf)** (last updated: 2025-03-19).
+I have a broad interest in machine learning with a particular interest in *statistics for AI*, *optimization*, *optimal transport*, and *generative models*. **My CV can be found here in [Chinese](简历-余方晨-港中深.pdf) and [English](Resume_Fangchen_Yu_CUHKSZ.pdf)** (last updated: 2025-04-26).
 
 
 # 🏷️ Research Interests
@@ -50,11 +50,11 @@ Statistics for AI, Optimization, Optimal Transport, Generative Model.
 
 # 📝 Publications & Preprint
 
-**$\dagger$: equal contributions; $\ast$: corresponding author**
+**$\dagger$: Equal contributions; $\ast$: Corresponding author**
 
 - ![WWW 2025](https://img.shields.io/badge/WWW-2025-orange) [**A Theory-Driven Approach to Inner Product Matrix Estimation for Incomplete Data: An Eigenvalue Perspective**](https://openreview.net/forum?id=MeD7Pq8FgM)<br>
   **<u>Fangchen Yu</u>**<sup>$\dagger \ast$</sup>, Yicheng Zeng<sup>$\dagger \ast$</sup>, Jianfeng Mao, Wenye Li <br>
-  [[Paper](https://openreview.net/forum?id=MeD7Pq8FgM)] [[Code](https://github.com/SciYu/Inner-Product-Estimation)] [[bibtex](https://sciyu.github.io/bib/WWW2025.bib)]
+  [[Paper](https://openreview.net/forum?id=MeD7Pq8FgM)] [[Code](https://github.com/SciYu/Inner-Product-Estimation)] [[Poster](./poster/WWW2025_poster.png)] [[bibtex](https://sciyu.github.io/bib/WWW2025.bib)]
 
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-orange) [**KAE: Kolmogorov-Arnold Auto-Encoder for Representation Learning**](https://arxiv.org/pdf/2501.00420)<br>
   **<u>Fangchen Yu</u>**, Ruilizhen Hu, Yidong Lin, Yuqi Ma, Zhenghao Huang, Wenye Li<sup>$\ast$</sup> <br>
@@ -119,7 +119,7 @@ Statistics for AI, Optimization, Optimal Transport, Generative Model.
 # 🏫 Educations
 - *Sep. 2020 - Now*,<br>
 *Ph.D. Candidate in Computer and Information Engineering*, at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ; Supervisors: [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317) and [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268)).<br>
-- *Oct. 2024 - Now*,<br>
+- *Oct. 2024 - Apr. 2025*,<br>
 *Visiting Student*, at [**Mohamed Bin Zayed University of Artificial Intelligence**](https://mbzuai.ac.ae/) (MBZUAI, ranked Top10 globally in AI; Supervisor: [**Prof. Qiang Sun**](https://sites.google.com/view/qsun/)).<br>
 - *Sep. 2016 - Jun. 2020*,<br> 
 *B.S. in Physics*, at [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS).<br>
@@ -130,9 +130,9 @@ Statistics for AI, Optimization, Optimal Transport, Generative Model.
 
 # 💻 Internships
 - *Sep. 2020 - Aug. 2024*,<br>
-*Graduate Research Assistant*, at [**Shenzhen Research Institute of Big Data**](https://www.sribd.cn/en), Shenzhen, China. (Supervisors: [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317), [**Dr. Yicheng Zeng**](https://www.sribd.cn/en/teacher/558))<br>
+*Graduate Research Assistant*, at [**Shenzhen Research Institute of Big Data**](https://www.sribd.cn/en), Shenzhen, China. (Supervisors: [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317), [**Prof. Yicheng Zeng**](https://science.sysu.edu.cn/teacher/928))<br>
 - *Mar. 2023 - Jul. 2023*,<br>
-*Research Intern*, at **Vivo AI Lab**, Shenzhen, China. (Area: Visual Understanding and Generation)
+*Research Intern*, at **Vivo AI Lab**, Shenzhen, China. (Group: Visual Understanding and Generation)
 
 <span class='anchor' id='awards'></span>
 
@@ -165,4 +165,4 @@ ICML 2025, ICLR 2025, NeurIPS 2025/2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 20
 - MAT3280 **Probability Theory**. Instructor: Prof. Kenneth Shum. Fall 2020.
 
 
-*Last Update: 2025-03-19*
+*Last Update: 2025-04-26*
