@@ -23,7 +23,7 @@ I am a Ph.D. candidate in Computer and Information Engineering at [**The Chinese
 
 **I am currently visiting [Prof. Qiang Sun](https://sites.google.com/view/qsun/) at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) (MBZUAI).**
 
-I have a broad interest in machine learning with a particular interest in *statistics for AI*, *optimization*, *optimal transport*, and *generative models*. **My CV can be found here in [Chinese](简历-余方晨-港中深.pdf) and [English](Resume_Fangchen_Yu_CUHKSZ.pdf)** (last updated: 2025-04-26).
+I have a broad interest in machine learning with a particular interest in *statistics for AI*, *optimization*, *optimal transport*, and *generative models*. **My CV can be found here in [Chinese](简历-余方晨-港中深.pdf) and [English](Resume_Fangchen_Yu_CUHKSZ.pdf)** (last updated: 2025-05-04).
 
 
 # 🏷️ Research Interests
@@ -39,7 +39,7 @@ Statistics for AI, Optimization, Optimal Transport, Generative Model.
   - Estimate distance matrices for incomplete data in similarity search tasks (Published in AAAI, ECAI, and ECML)
 
 - **Optimization and Generalization of Wasserstein Distance (Ongoing Work)**
-  - Develop an accurate tree-Wasserstein distance for approximating the 1-Wasserstein distance (Under Review)
+  - Develop an accurate tree-Wasserstein distance for approximating the 1-Wasserstein distance (Accepted in ICML)
   - Design a novel Wasserstein distance for unbalanced point clouds
 
 - **Optimal Transport for Visual Generative Models (Future Work)**
@@ -50,11 +50,19 @@ Statistics for AI, Optimization, Optimal Transport, Generative Model.
 
 # 📝 Publications & Preprint
 
-**$\dagger$: Equal contributions; $\ast$: Corresponding author**
+**$\dagger$: Equal contributions; $\ast$: Corresponding authors**
+
+- ![ICML 2025](https://img.shields.io/badge/ICML-2025-orange) [**UltraTWD: Optimizing Ultrametric Trees for Tree-Wasserstein Distance**]()<br>
+  **<u>Fangchen Yu</u>**, Yanzhen Chen, Jiaxing Wei, Jianfeng Mao, Wenye Li<sup>$\ast$</sup>, Qiang Sun<sup>$\ast$</sup> <br>
+  <!-- [[Paper]()] [[Code]()] [[Poster](./poster/ICML2025_poster.png)] [[bibtex](https://sciyu.github.io/bib/ICML2025.bib)] -->
 
 - ![WWW 2025](https://img.shields.io/badge/WWW-2025-orange) [**A Theory-Driven Approach to Inner Product Matrix Estimation for Incomplete Data: An Eigenvalue Perspective**](https://openreview.net/forum?id=MeD7Pq8FgM)<br>
   **<u>Fangchen Yu</u>**<sup>$\dagger \ast$</sup>, Yicheng Zeng<sup>$\dagger \ast$</sup>, Jianfeng Mao, Wenye Li <br>
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714947?casa_token=vH66OZoybrkAAAAA:kzrl2y-PJA424rCUwkN7DpzVW7hBmYTwPTHMwYokouoO3laDOMjtPbL0AXGI5mseoy_JpknGYsN4nbs)] [[Code](https://github.com/SciYu/Inner-Product-Estimation)] [[Poster](./poster/WWW2025_poster.png)] [[bibtex](https://sciyu.github.io/bib/WWW2025.bib)]
+
+- ![Information Sciences 2025](https://img.shields.io/badge/Information_Sciences-2025-orange) [**Balancing the Trade-Off Between Global and Personalized Performance in Federated Learning**](https://www.sciencedirect.com/science/article/pii/S0020025525002865)<br>
+  Zibin Pan, Chi Li, **<u>Fangchen Yu</u>**, Shuyi Wang, Xiaoying Tang<sup>$\ast$</sup>, Junhua Zhao<sup>$\ast$</sup> <br>
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025525002865)] [[bibtex](https://sciyu.github.io/bib/INS2025.bib)]
 
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-orange) [**KAE: Kolmogorov-Arnold Auto-Encoder for Representation Learning**](https://arxiv.org/pdf/2501.00420)<br>
   **<u>Fangchen Yu</u>**, Ruilizhen Hu, Yidong Lin, Yuqi Ma, Zhenghao Huang, Wenye Li<sup>$\ast$</sup> <br>
@@ -165,4 +173,4 @@ ICML 2025, ICLR 2025, NeurIPS 2025/2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 20
 - MAT3280 **Probability Theory**. Instructor: Prof. Kenneth Shum. Fall 2020.
 
 
-*Last Update: 2025-04-26*
+*Last Update: 2025-05-04*
