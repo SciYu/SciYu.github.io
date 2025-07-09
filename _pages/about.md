@@ -53,8 +53,7 @@ Statistics for AI, Optimization, Optimal Transport, Generative Model.
 
 - ![ICML 2025](https://img.shields.io/badge/ICML-2025-orange) [**UltraTWD: Optimizing Ultrametric Trees for Tree-Wasserstein Distance**]()<br>
   **<u>Fangchen Yu</u>**, Yanzhen Chen, Jiaxing Wei, Jianfeng Mao, Wenye Li<sup>$\ast$</sup>, Qiang Sun<sup>$\ast$</sup> <br>
-  [[Paper](https://icml.cc/virtual/2025/poster/44185)] [[Code](https://github.com/SciYu/UltraTWD)] 
-  <!-- [[Poster](./poster/ICML2025_poster.png)] [[bibtex](https://sciyu.github.io/bib/ICML2025.bib)] -->
+  [[Paper](https://icml.cc/virtual/2025/poster/44185)] [[Code](https://github.com/SciYu/UltraTWD)] [[Poster](./poster/ICML2025_poster.png)] [[bibtex](https://sciyu.github.io/bib/ICML2025.bib)]
 
 - ![WWW 2025](https://img.shields.io/badge/WWW-2025-orange) [**A Theory-Driven Approach to Inner Product Matrix Estimation for Incomplete Data: An Eigenvalue Perspective**](https://openreview.net/forum?id=MeD7Pq8FgM)<br>
   **<u>Fangchen Yu</u>**<sup>$\dagger \ast$</sup>, Yicheng Zeng<sup>$\dagger \ast$</sup>, Jianfeng Mao, Wenye Li <br>
