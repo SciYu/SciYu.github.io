@@ -122,11 +122,12 @@ AI for Science, (Multimodal) Large Language Model, Statistics for AI.
 
 # 🏫 Educations
 - *Sep. 2020 - Oct. 2025*,<br>
-*Ph.D. Candidate in Computer and Information Engineering*, at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ; Supervisors: [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317) and [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268)).<br>
-- *Oct. 2024 - Apr. 2025*,<br>
-*Visiting Student*, at [**Mohamed Bin Zayed University of Artificial Intelligence**](https://mbzuai.ac.ae/) (MBZUAI, ranked Top10 globally in AI; Supervisor: [**Prof. Qiang Sun**](https://sites.google.com/view/qsun/)).<br>
+*Ph.D. Candidate in Computer and Information Engineering*, at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ; Supervisors: [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268) and [**Prof. Wenye Li**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Wenye/wenyeli)).<br>
 - *Sep. 2016 - Jun. 2020*,<br> 
 *B.S. in Physics*, at [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS).<br>
+
+- *Oct. 2024 - Apr. 2025*,<br>
+*Visiting Student*, at [**Mohamed Bin Zayed University of Artificial Intelligence**](https://mbzuai.ac.ae/) (MBZUAI, ranked Top10 globally in AI; Supervisor: [**Prof. Qiang Sun**](https://sites.google.com/view/qsun/)).<br>
 - *Aug. 2019 - Dec. 2019*,<br> 
 *Global Study Program*, at [**University of California, Davis**](https://www.ucdavis.edu/) (UCD).
 
@@ -136,7 +137,7 @@ AI for Science, (Multimodal) Large Language Model, Statistics for AI.
 - *Jun. 2025 - Sep. 2025*,<br>
 *Research Intern*, at [**Shanghai AI Lab**](https://www.shlab.org.cn/), Shanghai, China. (Supervisor: **Dr. Peng Ye**)<br>
 - *Sep. 2020 - Aug. 2024*,<br>
-*Graduate Research Assistant*, at [**Shenzhen Research Institute of Big Data**](https://www.sribd.cn/en), Shenzhen, China. (Supervisors: [**Prof. Wenye Li**](https://sds.cuhk.edu.cn/en/teacher/317), [**Prof. Yicheng Zeng**](https://science.sysu.edu.cn/teacher/928))<br>
+*Graduate Research Assistant*, at [**Shenzhen Research Institute of Big Data**](https://www.sribd.cn/en), Shenzhen, China. (Supervisors: [**Prof. Wenye Li**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Wenye/wenyeli) and [**Prof. Yicheng Zeng**](https://science.sysu.edu.cn/teacher/928))<br>
 - *Mar. 2023 - Jul. 2023*,<br>
 *Research Intern*, at **Vivo AI Lab**, Shenzhen, China. (Group: Visual Understanding and Generation)
 
