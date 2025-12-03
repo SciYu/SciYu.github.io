@@ -48,28 +48,28 @@ AI for Science, (Multimodal) Large Language Model, Statistics for AI.
 
 **$\dagger$: Equal contributions; $\ast$: Corresponding authors**
 
-- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**P1: Mastering Physics Olympiads with Reinforcement Learning**]()<br>
+- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**P1: Mastering Physics Olympiads with Reinforcement Learning**](https://arxiv.org/abs/2511.13612)<br>
   Jiacheng Chen<sup>$\dagger$</sup>, Qianjia Cheng<sup>$\dagger$</sup>, **<u>Fangchen Yu</u>**<sup>$\dagger$</sup>, Haiyuan Wan, Yuchen Zhang, Shenghe Zheng, Junchi Yao, Qingyang Zhang, Haonan He, Yun Luo, Yufeng Zhao, Futing Wang, Li Sheng, Chengxing Xie, Yuxin Zuo, Yizhuo Li, Wenxuan Zeng, Yulun Wu, Rui Huang, Dongzhan Zhou, Kai Chen, Yu Qiao, Lei Bai<sup>$\ast$</sup>, Yu Cheng<sup>$\ast$</sup>, Ning Ding<sup>$\ast$</sup>, Bowen Zhou<sup>$\ast$</sup>, Peng Ye<sup>$\ast$</sup>, Ganqu Cui<sup>$\ast$</sup> <br>
-  [[Paper](https://arxiv.org/pdf/2511.13612)] [Website](https://prime-rl.github.io/P1/) [[GitHub](https://github.com/PRIME-RL/P1)] [[HuggingFace](https://huggingface.co/PRIME-RL/P1-235B-A22B)] [[bibtex](https://sciyu.github.io/bib/arXiv2025_p1.bib)]
+  [[Paper](https://arxiv.org/pdf/2511.13612)] [[Website](https://prime-rl.github.io/P1/)] [[GitHub](https://github.com/PRIME-RL/P1)] [[HuggingFace](https://huggingface.co/PRIME-RL/P1-235B-A22B)] [[bibtex](https://sciyu.github.io/bib/arXiv2025_p1.bib)]
 
-- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**SCI-Verifier: Scientific Verifier with Thinking**]()<br>
+- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**SCI-Verifier: Scientific Verifier with Thinking**](https://arxiv.org/abs/2509.24285)<br>
   Shenghe Zheng<sup>$\dagger$</sup>, Chenyu Huang<sup>$\dagger$</sup>, **<u>Fangchen Yu</u>**, Junchi Yao, Jingqi Ye, Tao Chen, Yun Luo, Ning Ding, Lei Bai, Ganqu Cui, Peng Ye<sup>$\ast$</sup> <br>
   [[Paper](https://arxiv.org/pdf/2509.24285)] [[GitHub](https://github.com/Zhengsh123/SCI-Verifier)] [[HuggingFace](https://huggingface.co/datasets/desimfj/SCI-VerifyBench)] [[bibtex](https://sciyu.github.io/bib/arXiv2025_sciverifier.bib)]
 
-- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**PhysicsMinions: Winning Gold Medals in the Latest Physics Olympiads with a Coevolutionary Multimodal Multi-agent System**]()<br>
+- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**PhysicsMinions: Winning Gold Medals in the Latest Physics Olympiads with a Coevolutionary Multimodal Multi-agent System**](https://arxiv.org/abs/2509.24855)<br>
   **<u>Fangchen Yu</u>**<sup>$\dagger$</sup>, Junchi Yao<sup>$\dagger$</sup>, Ziyi Wang, Haiyuan Wan, Youling Huang, Bo Zhang, Shuyue Hu, Dongzhan Zhou, Ning Ding, Ganqu Cui, Lei Bai, Wanli Ouyang, Peng Ye<sup>$\ast$</sup> <br>
   [[Paper](https://arxiv.org/pdf/2509.24855)] [[bibtex](https://sciyu.github.io/bib/arXiv2025_physicsminions.bib)]
 
-- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**HiPhO: How Far Are MLLMs from Humans in the Latest High School Physics Olympiad Benchmark?**]()<br>
+- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**HiPhO: How Far Are MLLMs from Humans in the Latest High School Physics Olympiad Benchmark?**](https://arxiv.org/abs/2509.07894)<br>
   **<u>Fangchen Yu</u>**<sup>$\dagger$</sup>, Haiyuan Wan<sup>$\dagger$</sup>, Qianjia Cheng<sup>$\dagger$</sup>, Yuchen Zhang, Jiacheng Chen, Fujun Han, Yulun Wu, Junchi Yao, Ruilizhen Hu, Ning Ding, Yu Cheng, Tao Chen, Lei Bai, Dongzhan Zhou<sup>$\ast$</sup>, Yun Luo<sup>$\ast$</sup>, Ganqu Cui<sup>$\ast$</sup>, Peng Ye<sup>$\ast$</sup> <br>
-  [[Paper](https://arxiv.org/pdf/2509.07894)] [Website](https://phyarena.github.io/) [[GitHub](https://github.com/SciYu/HiPhO)] [[HuggingFace](https://huggingface.co/datasets/SciYu/HiPhO)] [[bibtex](https://sciyu.github.io/bib/arXiv2025_hipho.bib)]
+  [[Paper](https://arxiv.org/pdf/2509.07894)] [[Website](https://phyarena.github.io/)] [[GitHub](https://github.com/SciYu/HiPhO)] [[HuggingFace](https://huggingface.co/datasets/SciYu/HiPhO)] [[bibtex](https://sciyu.github.io/bib/arXiv2025_hipho.bib)]
 
 
-- ![CCF-A ICML 2025](https://img.shields.io/badge/ICML-2025-orange) [**UltraTWD: Optimizing Ultrametric Trees for Tree-Wasserstein Distance**]()<br>
+- ![CCF-A ICML 2025](https://img.shields.io/badge/ICML-2025-orange) [**UltraTWD: Optimizing Ultrametric Trees for Tree-Wasserstein Distance**](https://icml.cc/virtual/2025/poster/44185)<br>
   **<u>Fangchen Yu</u>**, Yanzhen Chen, Jiaxing Wei, Jianfeng Mao, Wenye Li<sup>$\ast$</sup>, Qiang Sun<sup>$\ast$</sup> <br>
   [[Paper](https://icml.cc/virtual/2025/poster/44185)] [[Code](https://github.com/SciYu/UltraTWD)] [[Poster](./poster/ICML2025_poster.png)] [[bibtex](https://sciyu.github.io/bib/ICML2025.bib)]
 
-- ![CCF-A WWW 2025](https://img.shields.io/badge/WWW-2025-orange) [**A Theory-Driven Approach to Inner Product Matrix Estimation for Incomplete Data: An Eigenvalue Perspective**](https://openreview.net/forum?id=MeD7Pq8FgM)<br>
+- ![CCF-A WWW 2025](https://img.shields.io/badge/WWW-2025-orange) [**A Theory-Driven Approach to Inner Product Matrix Estimation for Incomplete Data: An Eigenvalue Perspective**](https://dl.acm.org/doi/abs/10.1145/3696410.3714947?casa_token=Mta_Db12VbMAAAAA:mEnFxfxqapv1ii05fMIPix9Cv-Mq-T6foCsgy1uA4nKsj6xqgFYjG9-eUZILVR6odLYyCksOOgV-FWU)<br>
   **<u>Fangchen Yu</u>**<sup>$\dagger \ast$</sup>, Yicheng Zeng<sup>$\dagger \ast$</sup>, Jianfeng Mao, Wenye Li <br>
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714947?casa_token=vH66OZoybrkAAAAA:kzrl2y-PJA424rCUwkN7DpzVW7hBmYTwPTHMwYokouoO3laDOMjtPbL0AXGI5mseoy_JpknGYsN4nbs)] [[Code](https://github.com/SciYu/Inner-Product-Estimation)] [[Poster](./poster/WWW2025_poster.png)] [[bibtex](https://sciyu.github.io/bib/WWW2025.bib)]
 
