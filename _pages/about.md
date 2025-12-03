@@ -48,6 +48,23 @@ AI for Science, (Multimodal) Large Language Model, Statistics for AI.
 
 **$\dagger$: Equal contributions; $\ast$: Corresponding authors**
 
+- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**P1: Mastering Physics Olympiads with Reinforcement Learning**]()<br>
+  Jiacheng Chen<sup>$\dagger$</sup>, Qianjia Cheng<sup>$\dagger$</sup>, **<u>Fangchen Yu</u>**<sup>$\dagger$</sup>, Haiyuan Wan, Yuchen Zhang, Shenghe Zheng, Junchi Yao, Qingyang Zhang, Haonan He, Yun Luo, Yufeng Zhao, Futing Wang, Li Sheng, Chengxing Xie, Yuxin Zuo, Yizhuo Li, Wenxuan Zeng, Yulun Wu, Rui Huang, Dongzhan Zhou, Kai Chen, Yu Qiao, Lei Bai<sup>$\ast$</sup>, Yu Cheng<sup>$\ast$</sup>, Ning Ding<sup>$\ast$</sup>, Bowen Zhou<sup>$\ast$</sup>, Peng Ye<sup>$\ast$</sup>, Ganqu Cui<sup>$\ast$</sup> <br>
+  [[Paper](https://arxiv.org/pdf/2511.13612)] [Website](https://prime-rl.github.io/P1/) [[GitHub](https://github.com/PRIME-RL/P1)] [[HuggingFace](https://huggingface.co/PRIME-RL/P1-235B-A22B)] [[bibtex](https://sciyu.github.io/bib/arXiv2025_p1.bib)]
+
+- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**SCI-Verifier: Scientific Verifier with Thinking**]()<br>
+  Shenghe Zheng<sup>$\dagger$</sup>, Chenyu Huang<sup>$\dagger$</sup>, **<u>Fangchen Yu</u>**, Junchi Yao, Jingqi Ye, Tao Chen, Yun Luo, Ning Ding, Lei Bai, Ganqu Cui, Peng Ye<sup>$\ast$</sup> <br>
+  [[Paper](https://arxiv.org/pdf/2509.24285)] [[GitHub](https://github.com/Zhengsh123/SCI-Verifier)] [[HuggingFace](https://huggingface.co/datasets/desimfj/SCI-VerifyBench)] [[bibtex](https://sciyu.github.io/bib/arXiv2025_sciverifier.bib)]
+
+- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**PhysicsMinions: Winning Gold Medals in the Latest Physics Olympiads with a Coevolutionary Multimodal Multi-agent System**]()<br>
+  **<u>Fangchen Yu</u>**<sup>$\dagger$</sup>, Junchi Yao<sup>$\dagger$</sup>, Ziyi Wang, Haiyuan Wan, Youling Huang, Bo Zhang, Shuyue Hu, Dongzhan Zhou, Ning Ding, Ganqu Cui, Lei Bai, Wanli Ouyang, Peng Ye<sup>$\ast$</sup> <br>
+  [[Paper](https://arxiv.org/pdf/2509.24855)] [[bibtex](https://sciyu.github.io/bib/arXiv2025_physicsminions.bib)]
+
+- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**HiPhO: How Far Are MLLMs from Humans in the Latest High School Physics Olympiad Benchmark?**]()<br>
+  **<u>Fangchen Yu</u>**<sup>$\dagger$</sup>, Haiyuan Wan<sup>$\dagger$</sup>, Qianjia Cheng<sup>$\dagger$</sup>, Yuchen Zhang, Jiacheng Chen, Fujun Han, Yulun Wu, Junchi Yao, Ruilizhen Hu, Ning Ding, Yu Cheng, Tao Chen, Lei Bai, Dongzhan Zhou<sup>$\ast$</sup>, Yun Luo<sup>$\ast$</sup>, Ganqu Cui<sup>$\ast$</sup>, Peng Ye<sup>$\ast$</sup> <br>
+  [[Paper](https://arxiv.org/pdf/2509.07894)] [Website](https://phyarena.github.io/) [[GitHub](https://github.com/SciYu/HiPhO)] [[HuggingFace](https://huggingface.co/datasets/SciYu/HiPhO)] [[bibtex](https://sciyu.github.io/bib/arXiv2025_hipho.bib)]
+
+
 - ![CCF-A ICML 2025](https://img.shields.io/badge/ICML-2025-orange) [**UltraTWD: Optimizing Ultrametric Trees for Tree-Wasserstein Distance**]()<br>
   **<u>Fangchen Yu</u>**, Yanzhen Chen, Jiaxing Wei, Jianfeng Mao, Wenye Li<sup>$\ast$</sup>, Qiang Sun<sup>$\ast$</sup> <br>
   [[Paper](https://icml.cc/virtual/2025/poster/44185)] [[Code](https://github.com/SciYu/UltraTWD)] [[Poster](./poster/ICML2025_poster.png)] [[bibtex](https://sciyu.github.io/bib/ICML2025.bib)]
@@ -60,7 +77,7 @@ AI for Science, (Multimodal) Large Language Model, Statistics for AI.
   Zibin Pan, Chi Li, **<u>Fangchen Yu</u>**, Shuyi Wang, Xiaoying Tang<sup>$\ast$</sup>, Junhua Zhao<sup>$\ast$</sup> <br>
   [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025525002865)] [[bibtex](https://sciyu.github.io/bib/INS2025.bib)]
 
-- ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-orange) [**KAE: Kolmogorov-Arnold Auto-Encoder for Representation Learning**](https://arxiv.org/pdf/2501.00420)<br>
+- ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-blue) [**KAE: Kolmogorov-Arnold Auto-Encoder for Representation Learning**](https://arxiv.org/pdf/2501.00420)<br>
   **<u>Fangchen Yu</u>**, Ruilizhen Hu, Yidong Lin, Yuqi Ma, Zhenghao Huang, Wenye Li<sup>$\ast$</sup> <br>
   [[Paper](https://arxiv.org/pdf/2501.00420)] [[Code](https://github.com/SciYu/KAE)] [[bibtex](https://sciyu.github.io/bib/KAE.bib)]
 
@@ -134,7 +151,7 @@ AI for Science, (Multimodal) Large Language Model, Statistics for AI.
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
-- *Jun. 2025 - Sep. 2025*,<br>
+- *Jun. 2025 - Now*,<br>
 *Research Intern*, at [**Shanghai AI Lab**](https://www.shlab.org.cn/), Shanghai, China. (Supervisor: **Dr. Peng Ye**)<br>
 - *Sep. 2020 - Aug. 2024*,<br>
 *Graduate Research Assistant*, at [**Shenzhen Research Institute of Big Data**](https://www.sribd.cn/en), Shenzhen, China. (Supervisors: [**Prof. Wenye Li**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Wenye/wenyeli) and [**Prof. Yicheng Zeng**](https://science.sysu.edu.cn/teacher/928))<br>
@@ -172,4 +189,4 @@ ICML 2025, ICLR 2025, NeurIPS 2025/2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 20
 - MAT3280 **Probability Theory**. Instructor: Prof. Kenneth Shum. Fall 2020.
 
 
-*Last Update: 2025-08-27*
+*Last Update: 2025-11-30*
