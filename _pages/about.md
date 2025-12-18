@@ -22,7 +22,7 @@ redirect_from:
 I am a Ph.D. candidate in Computer and Information Engineering at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ), under the supervision of [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268) and [**Prof. Wenye Li**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Wenye/wenyeli). I obtained the Bachelor's degree in Physics from the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS) in 2020.
 
 
-I have a broad interest in machine learning with a particular interest in *AI for Science*, *(Multimodal) Large Language Model*, and *Statistics for AI*. **My CV can be found here in [Chinese](简历-余方晨-港中深.pdf) and [English](Resume_Fangchen_Yu_CUHKSZ.pdf)** (last updated: 2025-05-04).
+I have a broad interest in machine learning with a particular interest in *AI for Science*, *(Multimodal) Large Language Model*, and *Statistics for AI*.
 
 
 # 🏷️ Research Interests
@@ -138,7 +138,7 @@ AI for Science, (Multimodal) Large Language Model, Statistics for AI.
 <span class='anchor' id='educations'></span>
 
 # 🏫 Educations
-- *Sep. 2020 - Oct. 2025*,<br>
+- *Sep. 2020 - *,<br>
 *Ph.D. Candidate in Computer and Information Engineering*, at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ; Supervisors: [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268) and [**Prof. Wenye Li**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Wenye/wenyeli)).<br>
 - *Sep. 2016 - Jun. 2020*,<br> 
 *B.S. in Physics*, at [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS).<br>
@@ -151,7 +151,7 @@ AI for Science, (Multimodal) Large Language Model, Statistics for AI.
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
-- *Jun. 2025 - Now*,<br>
+- *Jun. 2025 - *,<br>
 *Research Intern*, at [**Shanghai AI Lab**](https://www.shlab.org.cn/), Shanghai, China. (Supervisor: **Dr. Peng Ye**)<br>
 - *Sep. 2020 - Aug. 2024*,<br>
 *Graduate Research Assistant*, at [**Shenzhen Research Institute of Big Data**](https://www.sribd.cn/en), Shenzhen, China. (Supervisors: [**Prof. Wenye Li**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Wenye/wenyeli) and [**Prof. Yicheng Zeng**](https://science.sysu.edu.cn/teacher/928))<br>
