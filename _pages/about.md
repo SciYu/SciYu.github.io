@@ -19,10 +19,10 @@ redirect_from:
 
 # 🧑‍🎓 About Me
 
-I am a Ph.D. candidate in Computer and Information Engineering at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ), under the supervision of [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268) and [**Prof. Wenye Li**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Wenye/wenyeli). I obtained the Bachelor's degree in Physics from the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS) in 2020.
+I received my Ph.D. in Computer and Information Engineering from [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ) in 2025, under the supervision of [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268) and [**Prof. Wenye Li**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Wenye/wenyeli). I obtained the Bachelor's degree in Physics from the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS) in 2020.
 
 
-I have a broad interest in machine learning with a particular interest in *AI for Science*, *(Multimodal) Large Language Model*, and *Statistics for AI*.
+I have a broad interest in artificial intelligence with a particular interest in *AI for Science*, *(Multimodal) Large Language Model*, and *Statistics for AI*.
 
 
 # 🏷️ Research Interests
@@ -48,13 +48,13 @@ AI for Science, (Multimodal) Large Language Model, Statistics for AI.
 
 **$\dagger$: Equal contributions; $\ast$: Corresponding authors**
 
+- ![ICLR 2026](https://img.shields.io/badge/ICLR-2026-orange) [**SCI-Verifier: Scientific Verifier with Thinking**](https://arxiv.org/abs/2509.24285)<br>
+  Shenghe Zheng<sup>$\dagger$</sup>, Chenyu Huang<sup>$\dagger$</sup>, **<u>Fangchen Yu</u>**, Junchi Yao, Jingqi Ye, Tao Chen, Yun Luo, Ning Ding, Lei Bai, Ganqu Cui, Peng Ye<sup>$\ast$</sup> <br>
+  [[Paper](https://arxiv.org/pdf/2509.24285)] [[GitHub](https://github.com/Zhengsh123/SCI-Verifier)] [[HuggingFace](https://huggingface.co/datasets/desimfj/SCI-VerifyBench)] [[bibtex](https://sciyu.github.io/bib/arXiv2025_sciverifier.bib)]
+
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**P1: Mastering Physics Olympiads with Reinforcement Learning**](https://arxiv.org/abs/2511.13612)<br>
   Jiacheng Chen<sup>$\dagger$</sup>, Qianjia Cheng<sup>$\dagger$</sup>, **<u>Fangchen Yu</u>**<sup>$\dagger$</sup>, Haiyuan Wan, Yuchen Zhang, Shenghe Zheng, Junchi Yao, Qingyang Zhang, Haonan He, Yun Luo, Yufeng Zhao, Futing Wang, Li Sheng, Chengxing Xie, Yuxin Zuo, Yizhuo Li, Wenxuan Zeng, Yulun Wu, Rui Huang, Dongzhan Zhou, Kai Chen, Yu Qiao, Lei Bai<sup>$\ast$</sup>, Yu Cheng<sup>$\ast$</sup>, Ning Ding<sup>$\ast$</sup>, Bowen Zhou<sup>$\ast$</sup>, Peng Ye<sup>$\ast$</sup>, Ganqu Cui<sup>$\ast$</sup> <br>
   [[Paper](https://arxiv.org/pdf/2511.13612)] [[Website](https://prime-rl.github.io/P1/)] [[GitHub](https://github.com/PRIME-RL/P1)] [[HuggingFace](https://huggingface.co/PRIME-RL/P1-235B-A22B)] [[bibtex](https://sciyu.github.io/bib/arXiv2025_p1.bib)]
-
-- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**SCI-Verifier: Scientific Verifier with Thinking**](https://arxiv.org/abs/2509.24285)<br>
-  Shenghe Zheng<sup>$\dagger$</sup>, Chenyu Huang<sup>$\dagger$</sup>, **<u>Fangchen Yu</u>**, Junchi Yao, Jingqi Ye, Tao Chen, Yun Luo, Ning Ding, Lei Bai, Ganqu Cui, Peng Ye<sup>$\ast$</sup> <br>
-  [[Paper](https://arxiv.org/pdf/2509.24285)] [[GitHub](https://github.com/Zhengsh123/SCI-Verifier)] [[HuggingFace](https://huggingface.co/datasets/desimfj/SCI-VerifyBench)] [[bibtex](https://sciyu.github.io/bib/arXiv2025_sciverifier.bib)]
 
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-blue) [**PhysicsMinions: Winning Gold Medals in the Latest Physics Olympiads with a Coevolutionary Multimodal Multi-agent System**](https://arxiv.org/abs/2509.24855)<br>
   **<u>Fangchen Yu</u>**<sup>$\dagger$</sup>, Junchi Yao<sup>$\dagger$</sup>, Ziyi Wang, Haiyuan Wan, Youling Huang, Bo Zhang, Shuyue Hu, Dongzhan Zhou, Ning Ding, Ganqu Cui, Lei Bai, Wanli Ouyang, Peng Ye<sup>$\ast$</sup> <br>
@@ -138,9 +138,9 @@ AI for Science, (Multimodal) Large Language Model, Statistics for AI.
 <span class='anchor' id='educations'></span>
 
 # 🏫 Educations
-- *Sep. 2020 - *,<br>
-*Ph.D. Candidate in Computer and Information Engineering*, at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ; Supervisors: [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268) and [**Prof. Wenye Li**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Wenye/wenyeli)).<br>
-- *Sep. 2016 - Jun. 2020*,<br> 
+- *2020 - 2025*,<br>
+*Ph.D. in Computer and Information Engineering*, at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHK-SZ; Supervisors: [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268) and [**Prof. Wenye Li**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Wenye/wenyeli)).<br>
+- *2016 - 2020*,<br> 
 *B.S. in Physics*, at [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS).<br>
 
 - *Oct. 2024 - Apr. 2025*,<br>
@@ -151,7 +151,7 @@ AI for Science, (Multimodal) Large Language Model, Statistics for AI.
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
-- *Jun. 2025 - *,<br>
+- *Jun. 2025 - Oct. 2025*,<br>
 *Research Intern*, at [**Shanghai AI Lab**](https://www.shlab.org.cn/), Shanghai, China. (Supervisor: **Dr. Peng Ye**)<br>
 - *Sep. 2020 - Aug. 2024*,<br>
 *Graduate Research Assistant*, at [**Shenzhen Research Institute of Big Data**](https://www.sribd.cn/en), Shenzhen, China. (Supervisors: [**Prof. Wenye Li**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Wenye/wenyeli) and [**Prof. Yicheng Zeng**](https://science.sysu.edu.cn/teacher/928))<br>
@@ -174,7 +174,7 @@ AI for Science, (Multimodal) Large Language Model, Statistics for AI.
 
 # 👨🏻‍💻 Academic Service
 - **Program Committee Member:**<br>
-ICML 2025, ICLR 2025, NeurIPS 2025/2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 2025/2024, ECML 2022, etc.
+ICML 2026/2025, ICLR 2025, NeurIPS 2025/2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 2025/2024, ECML 2022, etc.
 
 <span class='anchor' id='teaching'></span>
 
@@ -189,4 +189,4 @@ ICML 2025, ICLR 2025, NeurIPS 2025/2024, WWW 2025, AAAI 2025/2024/2023, IJCAI 20
 - MAT3280 **Probability Theory**. Instructor: Prof. Kenneth Shum. Fall 2020.
 
 
-*Last Update: 2025-11-30*
+*Last Update: 2026-01-30*
