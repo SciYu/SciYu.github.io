@@ -1,0 +1,247 @@
+---
+layout: compress
+---
+
+{% assign home = site.data.home %}
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="home-theme">
+    {% include browser-upgrade.html %}
+
+    <header class="home-header">
+      <a class="home-mark" href="{{ '/' | relative_url }}" target="_self" aria-label="Homepage">
+        <span>&lt;</span><span class="home-mark__slash">/</span><span>&gt;</span>
+      </a>
+      <nav class="home-nav" aria-label="Primary navigation">
+        <a href="#about-me" target="_self">About Me</a>
+        <a href="#research-interests" target="_self">Research Interests</a>
+        <a href="#news" target="_self">News</a>
+        <a href="#publications" target="_self">Publications &amp; Preprint</a>
+      </nav>
+    </header>
+
+    <main class="home-shell">
+      <aside class="profile-panel" aria-label="Profile">
+        <div class="profile-panel__inner">
+          <img class="profile-panel__avatar" src="{{ home.profile.avatar | relative_url }}" alt="{{ home.profile.name }}">
+          <h1 class="profile-panel__name">{{ home.profile.name }}</h1>
+          <p class="profile-panel__role">{{ home.profile.role }}</p>
+
+          <div class="profile-links">
+            <a href="{{ home.profile.github.url }}" target="_blank" rel="noopener" aria-label="GitHub">
+              <i class="fab fa-github" aria-hidden="true"></i>
+              <span>{{ home.profile.github.label }}</span>
+            </a>
+            <a href="{{ home.profile.google_scholar.url }}" target="_blank" rel="noopener" aria-label="Google Scholar">
+              <i class="ai ai-google-scholar" aria-hidden="true"></i>
+              <span>{{ home.profile.google_scholar.label }}</span>
+            </a>
+          </div>
+
+          <div class="profile-vision">
+            <span class="profile-vision__prompt">&gt;_</span>
+            <p>{{ home.profile.vision }}</p>
+          </div>
+
+          <div class="profile-circuit" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </div>
+      </aside>
+
+      <div class="home-main">
+        <section class="home-section about-section" id="about-me">
+          <div class="section-heading">
+            <span class="section-heading__dot"></span>
+            <h2>About Me</h2>
+          </div>
+          <div class="about-grid">
+            <div class="about-copy">
+              {{ home.profile.about | markdownify }}
+            </div>
+            <div class="science-visual" aria-hidden="true">
+              <div class="science-visual__plane science-visual__plane--top"></div>
+              <div class="science-visual__plane science-visual__plane--mid"></div>
+              <div class="science-visual__plane science-visual__plane--low"></div>
+              <div class="science-visual__cube"></div>
+              <div class="science-visual__beam"></div>
+            </div>
+          </div>
+        </section>
+
+        <div class="home-two-column">
+          <section class="home-section research-section" id="research-interests">
+            <div class="section-heading">
+              <span class="section-heading__dot"></span>
+              <h2>Research Interests</h2>
+            </div>
+            <div class="interest-list">
+              {% for item in home.research_interests %}
+                <article class="interest-item">
+                  <div class="interest-item__icon" aria-hidden="true">
+                    {% case forloop.index %}
+                    {% when 1 %}<i class="fas fa-brain"></i>
+                    {% when 2 %}<i class="fas fa-project-diagram"></i>
+                    {% else %}<i class="fas fa-clipboard-check"></i>
+                    {% endcase %}
+                  </div>
+                  <div>
+                    <h3>{{ item.title }}</h3>
+                    <p>{{ item.description }}</p>
+                  </div>
+                </article>
+              {% endfor %}
+            </div>
+          </section>
+
+          <section class="home-section news-section" id="news">
+            <div class="section-heading">
+              <span class="section-heading__dot"></span>
+              <h2>News</h2>
+            </div>
+            <div class="news-timeline news-timeline--compact" tabindex="0" aria-label="Recent news">
+              {% for item in home.news %}
+                <article class="news-item">
+                  <span class="news-item__node"></span>
+                  <a href="{{ item.url }}" target="_blank" rel="noopener">
+                    <span class="news-item__badge">{{ item.badge }}</span>
+                    <strong>{{ item.title }}</strong>
+                    <small>{{ item.subtitle }}</small>
+                    <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+                  </a>
+                </article>
+              {% endfor %}
+            </div>
+            <a class="inline-action" href="{{ '/news/' | relative_url }}" target="_self">See all news <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+          </section>
+        </div>
+
+        <section class="home-section publications-section" id="publications">
+          <div class="section-heading">
+            <span class="section-heading__dot"></span>
+            <h2>Publications &amp; Preprint</h2>
+          </div>
+
+          <div class="publication-filters" aria-label="Publication filters">
+            <button class="publication-filter is-active" type="button" data-filter="all">All</button>
+            {% for category in home.categories %}
+              <button class="publication-filter" type="button" data-filter="{{ category.id }}">{{ category.name }}</button>
+            {% endfor %}
+          </div>
+
+          <div class="publication-list">
+            {% for pub in home.publications %}
+              {% assign category = home.categories | where: "id", pub.category | first %}
+              {% assign author_count = pub.authors | size %}
+              <article class="publication-card" data-category="{{ pub.category }}">
+                <div class="publication-art publication-art--{{ category.tone }}">
+                  {% if pub.image and pub.image != "" %}
+                    <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
+                  {% else %}
+                    <div class="publication-art__placeholder" aria-hidden="true">
+                      <span>{{ category.name }}</span>
+                      <i class="fas fa-atom"></i>
+                    </div>
+                  {% endif %}
+                </div>
+
+                <div class="publication-card__body">
+                  <span class="publication-category publication-category--{{ category.tone }}">{{ category.name }}</span>
+                  <h3><a href="{{ pub.url }}" target="_blank" rel="noopener">{{ pub.title }}</a></h3>
+                  <p class="publication-venue">{{ pub.venue }}</p>
+
+                  <p class="publication-authors">
+                    {% if author_count > 6 %}
+                      <span class="publication-authors__compact">
+                        {% for author in pub.authors limit:4 %}
+                          {% include home-author.html name=author pub=pub %}{% unless forloop.last %}, {% endunless %}
+                        {% endfor %}
+                        <button class="author-toggle" type="button" aria-label="Show all authors">...</button>
+                        {% assign tail_offset = author_count | minus: 2 %}
+                        {% for author in pub.authors offset: tail_offset %}
+                          {% include home-author.html name=author pub=pub %}{% unless forloop.last %}, {% endunless %}
+                        {% endfor %}
+                      </span>
+                      <span class="publication-authors__full" hidden>
+                        {% for author in pub.authors %}
+                          {% include home-author.html name=author pub=pub %}{% unless forloop.last %}, {% endunless %}
+                        {% endfor %}
+                      </span>
+                    {% else %}
+                      {% for author in pub.authors %}
+                        {% include home-author.html name=author pub=pub %}{% unless forloop.last %}, {% endunless %}
+                      {% endfor %}
+                    {% endif %}
+                  </p>
+
+                  <p class="publication-summary">{{ pub.summary }}</p>
+
+                  <div class="publication-keywords publication-keywords--{{ category.tone }}">
+                    {% for keyword in pub.keywords %}
+                      <span>{{ keyword }}</span>
+                    {% endfor %}
+                  </div>
+
+                  <div class="publication-links" aria-label="Publication links">
+                    {% for link in pub.links %}
+                      {% assign link_type = link[0] %}
+                      {% assign link_url = link[1] %}
+                      {% case link_type %}
+                      {% when "paper" %}
+                        {% assign link_label = "Paper" %}
+                        {% assign icon_class = "fas fa-file-alt" %}
+                      {% when "homepage" %}
+                        {% assign link_label = "Homepage" %}
+                        {% assign icon_class = "fas fa-home" %}
+                      {% when "github" %}
+                        {% assign link_label = "GitHub" %}
+                        {% assign icon_class = "fab fa-github" %}
+                      {% when "huggingface" %}
+                        {% assign link_label = "Hugging Face" %}
+                        {% assign icon_class = "" %}
+                      {% else %}
+                        {% assign link_label = link_type | capitalize %}
+                        {% assign icon_class = "fas fa-link" %}
+                      {% endcase %}
+                      <a href="{{ link_url }}" target="_blank" rel="noopener" title="{{ link_label }}" aria-label="{{ link_label }}">
+                        {% if link_type == "huggingface" %}
+                          <span class="hf-icon">HF</span>
+                        {% else %}
+                          <i class="{{ icon_class }}" aria-hidden="true"></i>
+                        {% endif %}
+                      </a>
+                    {% endfor %}
+                  </div>
+                </div>
+              </article>
+            {% endfor %}
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <footer class="home-footer">
+      <div class="visitor-panel">
+        <div class="visitor-panel__copy">
+          <strong>Total visits</strong>
+          <span>Visitor locations are visualized by ClustrMaps.</span>
+        </div>
+        <div class="visitor-panel__map" aria-label="Visitor map and location statistics">
+          <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jC51HNkMfzCnzL2MbqO-Lcdvg_4NFYgjDB9zzOZET2o&cl=78b7ff&w=a&t=tt"></script>
+        </div>
+      </div>
+      <p class="home-footer__copyright">&copy; 2026 Fangchen Yu. All rights reserved.</p>
+    </footer>
+
+    {% include scripts.html %}
+    <script src="{{ '/assets/js/home.js' | relative_url }}"></script>
+  </body>
+</html>

@@ -1,0 +1,69 @@
+---
+layout: compress
+---
+
+{% assign home = site.data.home %}
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="home-theme news-page">
+    {% include browser-upgrade.html %}
+
+    <header class="home-header">
+      <a class="home-mark" href="{{ '/' | relative_url }}" target="_self" aria-label="Homepage">
+        <span>&lt;</span><span class="home-mark__slash">/</span><span>&gt;</span>
+      </a>
+      <nav class="home-nav" aria-label="Primary navigation">
+        <a href="{{ '/#about-me' | relative_url }}" target="_self">About Me</a>
+        <a href="{{ '/#research-interests' | relative_url }}" target="_self">Research Interests</a>
+        <a href="{{ '/#news' | relative_url }}" target="_self">News</a>
+        <a href="{{ '/#publications' | relative_url }}" target="_self">Publications &amp; Preprint</a>
+      </nav>
+    </header>
+
+    <main class="news-shell">
+      <section class="home-section news-archive">
+        <div class="section-heading">
+          <span class="section-heading__dot"></span>
+          <h1>News</h1>
+        </div>
+        <p class="news-archive__lead">Updates on technical reports, benchmarks, and publications.</p>
+
+        <div class="news-timeline news-timeline--archive">
+          {% for item in home.news %}
+            <article class="news-item">
+              <span class="news-item__node"></span>
+              <a href="{{ item.url }}" target="_blank" rel="noopener">
+                <span class="news-item__badge">{{ item.badge }}</span>
+                <strong>{{ item.title }}</strong>
+                <small>{{ item.subtitle }}</small>
+                <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+              </a>
+            </article>
+          {% endfor %}
+        </div>
+      </section>
+    </main>
+
+    <footer class="home-footer">
+      <div class="visitor-panel">
+        <div class="visitor-panel__copy">
+          <strong>Total visits</strong>
+          <span>Visitor locations are visualized by ClustrMaps.</span>
+        </div>
+        <div class="visitor-panel__map" aria-label="Visitor map and location statistics">
+          <script type="text/javascript" id="clustrmaps-news" src="//clustrmaps.com/map_v2.js?d=jC51HNkMfzCnzL2MbqO-Lcdvg_4NFYgjDB9zzOZET2o&cl=78b7ff&w=a&t=tt"></script>
+        </div>
+      </div>
+      <p class="home-footer__copyright">&copy; 2026 Fangchen Yu. All rights reserved.</p>
+    </footer>
+
+    {% include scripts.html %}
+    <script src="{{ '/assets/js/home.js' | relative_url }}"></script>
+  </body>
+</html>

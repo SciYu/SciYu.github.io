@@ -1,0 +1,1199 @@
+{
+  "profile": {
+    "name": "Fangchen Yu",
+    "role": "Researcher / Builder / Lifelong Learner",
+    "avatar": "images/fangchenyu.jpg",
+    "vision": "Building intelligent systems that reason, learn, and interact with the world.",
+    "github": {
+      "label": "GitHub",
+      "url": "https://github.com/SciYu"
+    },
+    "google_scholar": {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=fQtgwlgAAAAJ&hl=zh-CN&oi=ao"
+    },
+    "about": "I am a Ph.D. in Computer and Information Engineering from [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHKSZ), under the supervision of [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268) and [**Prof. Wenye Li**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Wenye/wenyeli). I obtained the Bachelor's degree in Physics from the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS)."
+  },
+  "research_interests": [
+    {
+      "title": "Agentic and Reasoning Models",
+      "description": "Building models with stronger reasoning, planning, and tool-use abilities."
+    },
+    {
+      "title": "Agentic Systems",
+      "description": "Designing autonomous systems for long-horizon tasks and scientific discovery."
+    },
+    {
+      "title": "(M)LLM Benchmarks",
+      "description": "Evaluating reasoning models with reliable, holistic, and science-grounded benchmarks."
+    }
+  ],
+  "categories": [
+    {
+      "id": "agentic-reasoning",
+      "name": "Agentic and Reasoning Models",
+      "tone": "purple"
+    },
+    {
+      "id": "agentic-systems",
+      "name": "Agentic Systems",
+      "tone": "green"
+    },
+    {
+      "id": "mllm-benchmarks",
+      "name": "(M)LLM Benchmarks",
+      "tone": "blue"
+    },
+    {
+      "id": "statistics-ai",
+      "name": "Statistics for AI",
+      "tone": "orange"
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-07",
+      "badge": "JUL 2026",
+      "title": "New Technical Report",
+      "subtitle": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
+      "url": "https://arxiv.org/abs/2606.30616"
+    },
+    {
+      "date": "2026-06",
+      "badge": "JUN 2026",
+      "title": "New Technical Report",
+      "subtitle": "Agents-K1: Towards Agent-native Knowledge Orchestration",
+      "url": "https://arxiv.org/abs/2606.13669"
+    },
+    {
+      "date": "2026-06",
+      "badge": "JUN 2026",
+      "title": "New Benchmark",
+      "subtitle": "ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research",
+      "url": "https://arxiv.org/abs/2606.07591"
+    },
+    {
+      "date": "2026-05",
+      "badge": "MAY 2026",
+      "title": "ICML 2026",
+      "subtitle": "HiPhO accepted by ICML 2026",
+      "url": "https://arxiv.org/abs/2509.07894"
+    },
+    {
+      "date": "2026-02",
+      "badge": "FEB 2026",
+      "title": "New Technical Report",
+      "subtitle": "InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery",
+      "url": "https://arxiv.org/abs/2602.08990"
+    },
+    {
+      "date": "2026-02",
+      "badge": "FEB 2026",
+      "title": "New Technical Report",
+      "subtitle": "P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads",
+      "url": "https://arxiv.org/abs/2602.09443"
+    },
+    {
+      "date": "2026-01",
+      "badge": "JAN 2026",
+      "title": "ICLR 2026",
+      "subtitle": "SCI-Verifier accepted by ICLR 2026",
+      "url": "https://arxiv.org/abs/2509.24285"
+    }
+  ],
+  "publications": [
+    {
+      "id": "agents-a1",
+      "category": "agentic-reasoning",
+      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
+      "url": "https://arxiv.org/abs/2606.30616",
+      "venue": "Technical Report, 2026-07",
+      "authors": [
+        "Lei Bai",
+        "Zongsheng Cao",
+        "Yang Chen",
+        "Zhiyao Cui",
+        "Shangheng Du",
+        "Yue Fan",
+        "Shiyang Feng",
+        "Zijie Guo",
+        "Haonan He",
+        "Liang He",
+        "Xiaohan He",
+        "Shuyue Hu",
+        "Yusong Hu",
+        "Songtao Huang",
+        "Yichen Jiang",
+        "Hao Li",
+        "Xin Li",
+        "Dahua Lin",
+        "Weihao Lin",
+        "Fenghua Ling",
+        "Dongrui Liu",
+        "Zhuo Liu",
+        "Runmin Ma",
+        "Chunjiang Mu",
+        "Haoyang Peng",
+        "Tianshuo Peng",
+        "Jinxin Shi",
+        "Luohe Shi",
+        "Boyuan Sun",
+        "Zelin Tan",
+        "Shengji Tang",
+        "Qianyi Wang",
+        "Yiming Wu",
+        "Yi Xie",
+        "Xiangchao Yan",
+        "Jingqi Ye",
+        "Peng Ye",
+        "Fangchen Yu",
+        "Jiakang Yuan",
+        "Bihao Zhan",
+        "Bo Zhang",
+        "Chen Zhang",
+        "Shufei Zhang",
+        "Shuaiyu Zhang",
+        "Wenlong Zhang",
+        "Yiqun Zhang",
+        "Junpeng Zhao",
+        "Zhijie Zhong",
+        "Bowen Zhou",
+        "Yuhao Zhou"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Bo Zhang",
+        "Lei Bai"
+      ],
+      "summary": "A compact agentic model reaches stronger long-horizon reasoning performance through agent-level scaling.",
+      "image": "",
+      "keywords": [
+        "agentic reasoning",
+        "long-horizon tasks",
+        "model scaling"
+      ],
+      "links": {
+        "paper": "https://arxiv.org/pdf/2606.30616",
+        "homepage": "https://internscience.github.io/Agents-A1/",
+        "github": "https://github.com/InternScience/Agents-A1",
+        "huggingface": "https://huggingface.co/InternScience/Agents-A1"
+      }
+    },
+    {
+      "id": "agents-k1",
+      "category": "agentic-reasoning",
+      "title": "Agents-K1: Towards Agent-native Knowledge Orchestration",
+      "url": "https://arxiv.org/abs/2606.13669",
+      "venue": "Technical Report, 2026-06",
+      "authors": [
+        "Zongsheng Cao",
+        "Bihao Zhan",
+        "Jinxin Shi",
+        "Jiong Wang",
+        "Fangchen Yu",
+        "Zhijie Zhong",
+        "Zijie Guo",
+        "Tianshuo Peng",
+        "Zhuo Liu",
+        "Yi Xie",
+        "Xiang Zhuang",
+        "Shengji Tang",
+        "Yue Fan",
+        "Runmin Ma",
+        "Shiyang Feng",
+        "Xiangchao Yan",
+        "Anran Liu",
+        "Peng Ye",
+        "Wenlong Zhang",
+        "Shufei Zhang",
+        "Chunfeng Song",
+        "Fenghua Ling",
+        "Jie Zhou",
+        "Liang He",
+        "Bo Zhang",
+        "Lei Bai"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [],
+      "summary": "An agent-native framework for organizing and using knowledge across complex agent workflows.",
+      "image": "",
+      "keywords": [
+        "knowledge orchestration",
+        "agent-native",
+        "tool use"
+      ],
+      "links": {
+        "paper": "https://arxiv.org/pdf/2606.13669",
+        "homepage": "https://scphub.intern-ai.org.cn/detail/42",
+        "github": "https://github.com/InternScience/GraphAnything",
+        "huggingface": "https://huggingface.co/InternScience/Agents-K1"
+      }
+    },
+    {
+      "id": "p1-vl",
+      "category": "agentic-reasoning",
+      "title": "P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads",
+      "url": "https://arxiv.org/abs/2602.09443",
+      "venue": "Technical Report, 2026-02",
+      "authors": [
+        "Yun Luo",
+        "Futing Wang",
+        "Qianjia Cheng",
+        "Fangchen Yu",
+        "Haodi Lei",
+        "Jianhao Yan",
+        "Chenxi Li",
+        "Jiacheng Chen",
+        "Yufeng Zhao",
+        "Haiyuan Wan",
+        "Yuchen Zhang",
+        "Shenghe Zheng",
+        "Junchi Yao",
+        "Qingyang Zhang",
+        "Haonan He",
+        "Wenxuan Zeng",
+        "Li Sheng",
+        "Chengxing Xie",
+        "Yuxin Zuo",
+        "Yizhuo Li",
+        "Yulun Wu",
+        "Rui Huang",
+        "Dongzhan Zhou",
+        "Kai Chen",
+        "Yu Qiao",
+        "Lei Bai",
+        "Yu Cheng",
+        "Ning Ding",
+        "Bowen Zhou",
+        "Peng Ye",
+        "Ganqu Cui"
+      ],
+      "equal_authors": [
+        "Yun Luo",
+        "Futing Wang",
+        "Qianjia Cheng",
+        "Fangchen Yu"
+      ],
+      "corresponding_authors": [
+        "Lei Bai",
+        "Yu Cheng",
+        "Ning Ding",
+        "Bowen Zhou",
+        "Peng Ye",
+        "Ganqu Cui"
+      ],
+      "summary": "A multimodal reasoning model connects visual perception with scientific problem solving in physics olympiads.",
+      "image": "",
+      "keywords": [
+        "visual reasoning",
+        "physics olympiad",
+        "reinforcement learning"
+      ],
+      "links": {
+        "paper": "https://arxiv.org/pdf/2602.09443",
+        "homepage": "https://prime-rl.github.io/P1-VL/",
+        "github": "https://github.com/PRIME-RL/P1-VL",
+        "huggingface": "https://huggingface.co/PRIME-RL/P1-VL-235B-A22B"
+      }
+    },
+    {
+      "id": "p1",
+      "category": "agentic-reasoning",
+      "title": "P1: Mastering Physics Olympiads with Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2511.13612",
+      "venue": "Technical Report, 2025",
+      "authors": [
+        "Jiacheng Chen",
+        "Qianjia Cheng",
+        "Fangchen Yu",
+        "Haiyuan Wan",
+        "Yuchen Zhang",
+        "Shenghe Zheng",
+        "Junchi Yao",
+        "Qingyang Zhang",
+        "Haonan He",
+        "Yun Luo",
+        "Yufeng Zhao",
+        "Futing Wang",
+        "Li Sheng",
+        "Chengxing Xie",
+        "Yuxin Zuo",
+        "Yizhuo Li",
+        "Wenxuan Zeng",
+        "Yulun Wu",
+        "Rui Huang",
+        "Dongzhan Zhou",
+        "Kai Chen",
+        "Yu Qiao",
+        "Lei Bai",
+        "Yu Cheng",
+        "Ning Ding",
+        "Bowen Zhou",
+        "Peng Ye",
+        "Ganqu Cui"
+      ],
+      "equal_authors": [
+        "Jiacheng Chen",
+        "Qianjia Cheng",
+        "Fangchen Yu"
+      ],
+      "corresponding_authors": [
+        "Lei Bai",
+        "Yu Cheng",
+        "Ning Ding",
+        "Bowen Zhou",
+        "Peng Ye",
+        "Ganqu Cui"
+      ],
+      "summary": "A reinforcement learning framework improves model performance on advanced physics olympiad reasoning tasks.",
+      "image": "",
+      "keywords": [
+        "physics reasoning",
+        "reinforcement learning",
+        "large language models"
+      ],
+      "links": {
+        "paper": "https://arxiv.org/pdf/2511.13612",
+        "homepage": "https://prime-rl.github.io/P1/",
+        "github": "https://github.com/PRIME-RL/P1",
+        "huggingface": "https://huggingface.co/PRIME-RL/P1-235B-A22B"
+      }
+    },
+    {
+      "id": "sci-verifier",
+      "category": "agentic-reasoning",
+      "title": "SCI-Verifier: Scientific Verifier with Thinking",
+      "url": "https://arxiv.org/abs/2509.24285",
+      "venue": "ICLR, 2026",
+      "authors": [
+        "Shenghe Zheng",
+        "Chenyu Huang",
+        "Fangchen Yu",
+        "Junchi Yao",
+        "Jingqi Ye",
+        "Tao Chen",
+        "Yun Luo",
+        "Ning Ding",
+        "Lei Bai",
+        "Ganqu Cui",
+        "Peng Ye"
+      ],
+      "equal_authors": [
+        "Shenghe Zheng",
+        "Chenyu Huang"
+      ],
+      "corresponding_authors": [
+        "Peng Ye"
+      ],
+      "summary": "A scientific verification model improves reliability by reasoning through evidence and solution traces.",
+      "image": "",
+      "keywords": [
+        "scientific verifier",
+        "reasoning",
+        "reliability"
+      ],
+      "links": {
+        "paper": "https://arxiv.org/pdf/2509.24285",
+        "github": "https://github.com/Zhengsh123/SCI-Verifier",
+        "huggingface": "https://huggingface.co/datasets/desimfj/SCI-VerifyBench"
+      }
+    },
+    {
+      "id": "paramanager",
+      "category": "agentic-reasoning",
+      "title": "Small Model as Master Orchestrator: Learning Unified Agent-Tool Orchestration with Parallel Subtask Decomposition",
+      "url": "https://arxiv.org/abs/2604.17009",
+      "venue": "Technical Report, 2026-04",
+      "authors": [
+        "Wenzhen Yuan",
+        "Wutao Xiong",
+        "Fangchen Yu",
+        "Shengji Tang",
+        "Ting Liu",
+        "Tao Chen",
+        "Peng Ye",
+        "Yuzhuo Fu",
+        "Wanli Ouyang",
+        "Lei Bai"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Peng Ye",
+        "Yuzhuo Fu"
+      ],
+      "summary": "A small orchestrator model learns parallel decomposition and tool coordination for agent workflows.",
+      "image": "",
+      "keywords": [
+        "orchestration",
+        "parallel decomposition",
+        "tool agents"
+      ],
+      "links": {
+        "paper": "https://arxiv.org/pdf/2604.17009"
+      }
+    },
+    {
+      "id": "internagent-15",
+      "category": "agentic-systems",
+      "title": "InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery",
+      "url": "https://arxiv.org/abs/2602.08990",
+      "venue": "Technical Report, 2026-02",
+      "authors": [
+        "Shiyang Feng",
+        "Runmin Ma",
+        "Xiangchao Yan",
+        "Yue Fan",
+        "Yusong Hu",
+        "Songtao Huang",
+        "Shuaiyu Zhang",
+        "Zongsheng Cao",
+        "Tianshuo Peng",
+        "Jiakang Yuan",
+        "Zijie Guo",
+        "Zhijie Zhong",
+        "Shangheng Du",
+        "Weida Wang",
+        "Jinxin Shi",
+        "Yuhao Zhou",
+        "Xiaohan He",
+        "Zhiyin Yu",
+        "Fangchen Yu",
+        "Qihao Zheng",
+        "Jiamin Wu",
+        "Mianxin Liu",
+        "Chi Zhang",
+        "Shaowei Hou",
+        "Shuya Li",
+        "Yankai Jiang",
+        "Wenjie Lou",
+        "Lilong Wang",
+        "Zifu Wang",
+        "Jiong Wang",
+        "Wanghan Xu",
+        "Yue Deng",
+        "Dongrui Liu",
+        "Yiheng Wang",
+        "Wenlong Zhang",
+        "Fenghua Ling",
+        "Shufei Zhang",
+        "Xiaosong Wang",
+        "Shuangjia Zheng",
+        "Xun Huang",
+        "Siqi Sun",
+        "Shuyue Hu",
+        "Peng Ye",
+        "Chunfeng Song",
+        "Bin Wang",
+        "Conghui He",
+        "Yihao Liu",
+        "Xin Li",
+        "Qibin Hou",
+        "Tao Chen",
+        "Xiangyu Yue",
+        "Bin Wang",
+        "Liang He",
+        "Dahua Lin",
+        "Bowen Zhou",
+        "Bo Zhang",
+        "Lei Bai"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [],
+      "summary": "A unified agentic framework supports long-horizon autonomous workflows for scientific discovery.",
+      "image": "",
+      "keywords": [
+        "agentic framework",
+        "scientific discovery",
+        "long-horizon"
+      ],
+      "links": {
+        "paper": "https://arxiv.org/pdf/2602.08990",
+        "homepage": "https://discovery.intern-ai.org.cn/home",
+        "github": "https://github.com/InternScience/InternAgent",
+        "huggingface": "https://huggingface.co/collections/InternScience/internagent"
+      }
+    },
+    {
+      "id": "physicsminions",
+      "category": "agentic-systems",
+      "title": "PhysicsMinions: Winning Gold Medals in the Latest Physics Olympiads with a Coevolutionary Multimodal Multi-agent System",
+      "url": "https://arxiv.org/abs/2509.24855",
+      "venue": "Technical Report, 2025",
+      "authors": [
+        "Fangchen Yu",
+        "Junchi Yao",
+        "Ziyi Wang",
+        "Haiyuan Wan",
+        "Youling Huang",
+        "Bo Zhang",
+        "Shuyue Hu",
+        "Dongzhan Zhou",
+        "Ning Ding",
+        "Ganqu Cui",
+        "Lei Bai",
+        "Wanli Ouyang",
+        "Peng Ye"
+      ],
+      "equal_authors": [
+        "Fangchen Yu",
+        "Junchi Yao"
+      ],
+      "corresponding_authors": [
+        "Peng Ye"
+      ],
+      "summary": "A coevolutionary multimodal multi-agent system tackles recent physics olympiad problems.",
+      "image": "",
+      "keywords": [
+        "multi-agent system",
+        "physics olympiad",
+        "multimodal reasoning"
+      ],
+      "links": {
+        "paper": "https://arxiv.org/pdf/2509.24855"
+      }
+    },
+    {
+      "id": "hipho",
+      "category": "mllm-benchmarks",
+      "title": "HiPhO: How Far Are MLLMs from Humans in the Latest High School Physics Olympiad Benchmark?",
+      "url": "https://arxiv.org/abs/2509.07894",
+      "venue": "ICML, 2026",
+      "authors": [
+        "Fangchen Yu",
+        "Haiyuan Wan",
+        "Qianjia Cheng",
+        "Yuchen Zhang",
+        "Jiacheng Chen",
+        "Fujun Han",
+        "Yulun Wu",
+        "Junchi Yao",
+        "Ruilizhen Hu",
+        "Ning Ding",
+        "Yu Cheng",
+        "Tao Chen",
+        "Lei Bai",
+        "Dongzhan Zhou",
+        "Yun Luo",
+        "Ganqu Cui",
+        "Peng Ye"
+      ],
+      "equal_authors": [
+        "Fangchen Yu",
+        "Haiyuan Wan",
+        "Qianjia Cheng"
+      ],
+      "corresponding_authors": [
+        "Dongzhan Zhou",
+        "Yun Luo",
+        "Ganqu Cui",
+        "Peng Ye"
+      ],
+      "summary": "A high-school physics olympiad benchmark measures how far multimodal LLMs are from human-level reasoning.",
+      "image": "",
+      "keywords": [
+        "benchmark",
+        "physics reasoning",
+        "multimodal LLMs"
+      ],
+      "links": {
+        "paper": "https://arxiv.org/pdf/2509.07894",
+        "homepage": "https://phyarena.github.io/",
+        "github": "https://github.com/SciYu/HiPhO",
+        "huggingface": "https://huggingface.co/datasets/SciYu/HiPhO"
+      }
+    },
+    {
+      "id": "researchclawbench",
+      "category": "mllm-benchmarks",
+      "title": "ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research",
+      "url": "https://arxiv.org/abs/2606.07591",
+      "venue": "Technical Report, 2026-06",
+      "authors": [
+        "Wanghan Xu",
+        "Shuo Li",
+        "Tianlin Ye",
+        "Qinglong Cao",
+        "Yixin Chen",
+        "Hengjian Gao",
+        "Yiheng Wang",
+        "Qi Li",
+        "Kun Li",
+        "Sheng Xu",
+        "Shengdu Chai",
+        "Fangchen Yu",
+        "Xiangyu Zhao",
+        "Zhangrui Zhao",
+        "Weijie Ma",
+        "Zijie Guo",
+        "Koutian Wu",
+        "Haoyu Zhou",
+        "Haoxiang Yin",
+        "Lixue Cheng",
+        "Chaofan Hu",
+        "Haoxuan Li",
+        "Lu Mi",
+        "Xuxuan Xie",
+        "Yifan Zhou",
+        "Ruizhe Chen",
+        "Zhiwang Zhou",
+        "Xingjian Guo",
+        "Yuhao Zhou",
+        "Xuming He",
+        "Shengyuan Xu",
+        "Xinyu Gu",
+        "Jiamin Wu",
+        "Mianxin Liu",
+        "Chunfeng Song",
+        "Fenghua Ling",
+        "Dongzhan Zhou",
+        "Shixiang Tang",
+        "Yuqiang Li",
+        "Mao Su",
+        "Peng Ye",
+        "Siqi Sun",
+        "Bin Wang",
+        "Xue Yang",
+        "Zhenfei Yin",
+        "Tianfan Fu",
+        "Guangtao Zhai",
+        "Wanli Ouyang",
+        "Bo Zhang",
+        "Lei Bai",
+        "Wenlong Zhang"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Lei Bai",
+        "Wenlong Zhang"
+      ],
+      "summary": "An end-to-end benchmark evaluates autonomous systems on realistic scientific research workflows.",
+      "image": "",
+      "keywords": [
+        "benchmark",
+        "autonomous research",
+        "scientific workflow"
+      ],
+      "links": {
+        "paper": "https://arxiv.org/pdf/2606.07591",
+        "homepage": "https://internscience.github.io/ResearchClawBench-Home/",
+        "github": "https://github.com/InternScience/ResearchClawBench",
+        "huggingface": "https://huggingface.co/datasets/InternScience/ResearchClawBench"
+      }
+    },
+    {
+      "id": "sgi-bench",
+      "category": "mllm-benchmarks",
+      "title": "Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows",
+      "url": "https://arxiv.org/abs/2512.16969",
+      "venue": "Technical Report, 2025",
+      "authors": [
+        "Wanghan Xu",
+        "Yuhao Zhou",
+        "Yifan Zhou",
+        "Qinglong Cao",
+        "Shuo Li",
+        "Jia Bu",
+        "Bo Liu",
+        "Yixin Chen",
+        "Xuming He",
+        "Xiangyu Zhao",
+        "Xiang Zhuang",
+        "Fengxiang Wang",
+        "Zhiwang Zhou",
+        "Qiantai Feng",
+        "Wenxuan Huang",
+        "Jiaqi Wei",
+        "Hao Wu",
+        "Yuejin Yang",
+        "Guangshuai Wang",
+        "Sheng Xu",
+        "Ziyan Huang",
+        "Xinyao Liu",
+        "Jiyao Liu",
+        "Cheng Tang",
+        "Wei Li",
+        "Ying Chen",
+        "Junzhi Ning",
+        "Pengfei Jiang",
+        "Chenglong Ma",
+        "Ye Du",
+        "Changkai Ji",
+        "Huihui Xu",
+        "Ming Hu",
+        "Jiangbin Zheng",
+        "Xin Chen",
+        "Yucheng Wu",
+        "Feifei Jiang",
+        "Xi Chen",
+        "Xiangru Tang",
+        "Yuchen Fu",
+        "Yingzhou Lu",
+        "Yuanyuan Zhang",
+        "Lihao Sun",
+        "Chengbo Li",
+        "Jinzhe Ma",
+        "Wanhao Liu",
+        "Yating Liu",
+        "Kuo-Cheng Wu",
+        "Shengdu Chai",
+        "Yizhou Wang",
+        "Ouwen Zhangjin",
+        "Chen Tang",
+        "Shufei Zhang",
+        "Wenbo Cao",
+        "Junjie Ren",
+        "Taoyong Cui",
+        "Zhouheng Yao",
+        "Juntao Deng",
+        "Yijie Sun",
+        "Feng Liu",
+        "Wangxu Wei",
+        "Jingyi Xu",
+        "Zhangrui Li",
+        "Junchao Gong",
+        "Zijie Guo",
+        "Zhiyu Yao",
+        "Zaoyu Chen",
+        "Tianhao Peng",
+        "Fangchen Yu",
+        "Bo Zhang",
+        "Dongzhan Zhou",
+        "Shixiang Tang",
+        "Jiaheng Liu",
+        "Fenghua Ling",
+        "Yan Lu",
+        "Yuchen Ren",
+        "Ben Fei",
+        "Zhen Zhao",
+        "Xinyu Gu",
+        "Rui Su",
+        "Xiao-Ming Wu",
+        "Weikang Si",
+        "Yang Liu",
+        "Hao Chen",
+        "Xiangchao Yan",
+        "Xue Yang",
+        "Junchi Yan",
+        "Jiamin Wu",
+        "Qihao Zheng",
+        "Chenhui Li",
+        "Zhiqiang Gao",
+        "Hao Kong",
+        "Junjun He",
+        "Mao Su",
+        "Tianfan Fu",
+        "Peng Ye",
+        "Chunfeng Song",
+        "Nanqing Dong",
+        "Yuqiang Li",
+        "Huazhu Fu",
+        "Siqi Sun",
+        "Lijing Cheng",
+        "Jintai Lin",
+        "Wanli Ouyang",
+        "Bowen Zhou",
+        "Wenlong Zhang",
+        "Lei Bai"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Wenlong Zhang",
+        "Lei Bai"
+      ],
+      "summary": "Scientist-aligned workflows probe the scientific general intelligence of large language models.",
+      "image": "",
+      "keywords": [
+        "scientific intelligence",
+        "workflow benchmark",
+        "LLM evaluation"
+      ],
+      "links": {
+        "paper": "https://arxiv.org/pdf/2512.16969",
+        "homepage": "https://internscience.github.io/SGI-Page/",
+        "github": "https://github.com/InternScience/SGI-Bench",
+        "huggingface": "https://huggingface.co/collections/InternScience/sgi-bench"
+      }
+    },
+    {
+      "id": "docreal",
+      "category": "mllm-benchmarks",
+      "title": "DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction",
+      "url": "https://openaccess.thecvf.com/content/WACV2024/papers/Yu_DocReal_Robust_Document_Dewarping_of_Real-Life_Images_via_Attention-Enhanced_Control_WACV_2024_paper.pdf",
+      "venue": "WACV, 2024",
+      "authors": [
+        "Fangchen Yu",
+        "Yina Xie",
+        "Lei Wu",
+        "Yafei Wen",
+        "Guozhi Wang",
+        "Shuai Ren",
+        "Xiaoxin Chen",
+        "Jianfeng Mao",
+        "Wenye Li"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Wenye Li"
+      ],
+      "summary": "An attention-enhanced control point approach improves robust dewarping for real-world document images.",
+      "image": "poster/WACV2024_poster.png",
+      "keywords": [
+        "document dewarping",
+        "visual understanding",
+        "robust perception"
+      ],
+      "links": {
+        "paper": "https://openaccess.thecvf.com/content/WACV2024/papers/Yu_DocReal_Robust_Document_Dewarping_of_Real-Life_Images_via_Attention-Enhanced_Control_WACV_2024_paper.pdf",
+        "github": "https://github.com/SciYu/DocReal"
+      }
+    },
+    {
+      "id": "ultratwd",
+      "category": "statistics-ai",
+      "title": "UltraTWD: Optimizing Ultrametric Trees for Tree-Wasserstein Distance",
+      "url": "https://icml.cc/virtual/2025/poster/44185",
+      "venue": "ICML, 2025",
+      "authors": [
+        "Fangchen Yu",
+        "Yanzhen Chen",
+        "Jiaxing Wei",
+        "Jianfeng Mao",
+        "Wenye Li",
+        "Qiang Sun"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Wenye Li",
+        "Qiang Sun"
+      ],
+      "summary": "A method for optimizing ultrametric trees to improve efficient Tree-Wasserstein distance approximation.",
+      "image": "poster/ICML2025_poster.png",
+      "keywords": [
+        "tree-wasserstein",
+        "ultrametric trees",
+        "optimization"
+      ],
+      "links": {
+        "paper": "https://icml.cc/virtual/2025/poster/44185",
+        "github": "https://github.com/SciYu/UltraTWD"
+      }
+    },
+    {
+      "id": "inner-product-estimation",
+      "category": "statistics-ai",
+      "title": "A Theory-Driven Approach to Inner Product Matrix Estimation for Incomplete Data: An Eigenvalue Perspective",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3696410.3714947?casa_token=Mta_Db12VbMAAAAA:mEnFxfxqapv1ii05fMIPix9Cv-Mq-T6foCsgy1uA4nKsj6xqgFYjG9-eUZILVR6odLYyCksOOgV-FWU",
+      "venue": "WWW, 2025",
+      "authors": [
+        "Fangchen Yu",
+        "Yicheng Zeng",
+        "Jianfeng Mao",
+        "Wenye Li"
+      ],
+      "equal_authors": [
+        "Fangchen Yu",
+        "Yicheng Zeng"
+      ],
+      "corresponding_authors": [
+        "Fangchen Yu",
+        "Yicheng Zeng"
+      ],
+      "summary": "A theory-driven estimator analyzes incomplete inner product matrices through eigenvalue structure.",
+      "image": "poster/WWW2025_poster.png",
+      "keywords": [
+        "incomplete data",
+        "matrix estimation",
+        "eigenvalues"
+      ],
+      "links": {
+        "paper": "https://dl.acm.org/doi/pdf/10.1145/3696410.3714947?casa_token=vH66OZoybrkAAAAA:kzrl2y-PJA424rCUwkN7DpzVW7hBmYTwPTHMwYokouoO3laDOMjtPbL0AXGI5mseoy_JpknGYsN4nbs",
+        "github": "https://github.com/SciYu/Inner-Product-Estimation"
+      }
+    },
+    {
+      "id": "federated-tradeoff",
+      "category": "statistics-ai",
+      "title": "Balancing the Trade-Off Between Global and Personalized Performance in Federated Learning",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0020025525002865",
+      "venue": "Information Sciences, 2025",
+      "authors": [
+        "Zibin Pan",
+        "Chi Li",
+        "Fangchen Yu",
+        "Shuyi Wang",
+        "Xiaoying Tang",
+        "Junhua Zhao"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Xiaoying Tang",
+        "Junhua Zhao"
+      ],
+      "summary": "A federated learning study examines the balance between global utility and personalized model performance.",
+      "image": "",
+      "keywords": [
+        "federated learning",
+        "personalization",
+        "trade-off"
+      ],
+      "links": {
+        "paper": "https://www.sciencedirect.com/science/article/pii/S0020025525002865"
+      }
+    },
+    {
+      "id": "kae",
+      "category": "statistics-ai",
+      "title": "KAE: Kolmogorov-Arnold Auto-Encoder for Representation Learning",
+      "url": "https://arxiv.org/pdf/2501.00420",
+      "venue": "arXiv, 2024",
+      "authors": [
+        "Fangchen Yu",
+        "Ruilizhen Hu",
+        "Yidong Lin",
+        "Yuqi Ma",
+        "Zhenghao Huang",
+        "Wenye Li"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Wenye Li"
+      ],
+      "summary": "An auto-encoder architecture explores Kolmogorov-Arnold representations for learned embeddings.",
+      "image": "",
+      "keywords": [
+        "auto-encoder",
+        "representation learning",
+        "kolmogorov-arnold"
+      ],
+      "links": {
+        "paper": "https://arxiv.org/pdf/2501.00420",
+        "github": "https://github.com/SciYu/KAE"
+      }
+    },
+    {
+      "id": "fedlf",
+      "category": "statistics-ai",
+      "title": "FedLF: Layer-wise Fair Federated Learning",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29368",
+      "venue": "AAAI, 2024",
+      "authors": [
+        "Zibin Pan",
+        "Chi Li",
+        "Fangchen Yu",
+        "Shuyi Wang",
+        "Haijin Wang",
+        "Xiaoying Tang",
+        "Junhua Zhao"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Xiaoying Tang",
+        "Junhua Zhao"
+      ],
+      "summary": "A layer-wise approach improves fairness behavior in federated learning systems.",
+      "image": "poster/AAAI2024_poster.png",
+      "keywords": [
+        "federated learning",
+        "fairness",
+        "layer-wise training"
+      ],
+      "links": {
+        "paper": "https://ojs.aaai.org/index.php/AAAI/article/view/29368",
+        "github": "https://github.com/SciYu/FedLF"
+      }
+    },
+    {
+      "id": "spectral-incomplete-data",
+      "category": "statistics-ai",
+      "title": "Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning",
+      "url": "https://openreview.net/pdf?id=xFtuNq23D5",
+      "venue": "NeurIPS, 2023",
+      "authors": [
+        "Fangchen Yu",
+        "Runze Zhao",
+        "Zhan Shi",
+        "Yiwen Lu",
+        "Jicong Fan",
+        "Yicheng Zeng",
+        "Jianfeng Mao",
+        "Wenye Li"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Wenye Li"
+      ],
+      "summary": "Kernel correction and affinity learning improve spectral clustering with incomplete observations.",
+      "image": "poster/NeurIPS2023_poster.png",
+      "keywords": [
+        "spectral clustering",
+        "incomplete data",
+        "kernel correction"
+      ],
+      "links": {
+        "paper": "https://openreview.net/pdf?id=xFtuNq23D5",
+        "github": "https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data"
+      }
+    },
+    {
+      "id": "online-similarity-matrix",
+      "category": "statistics-ai",
+      "title": "Online Estimation of Similarity Matrices with Incomplete Data",
+      "url": "https://proceedings.mlr.press/v216/yu23a/yu23a.pdf",
+      "venue": "UAI, 2023",
+      "authors": [
+        "Fangchen Yu",
+        "Yicheng Zeng",
+        "Jianfeng Mao",
+        "Wenye Li"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Wenye Li"
+      ],
+      "summary": "An online estimator updates similarity matrices under incomplete data observations.",
+      "image": "poster/UAI2023_poster.png",
+      "keywords": [
+        "similarity matrix",
+        "online estimation",
+        "incomplete data"
+      ],
+      "links": {
+        "paper": "https://proceedings.mlr.press/v216/yu23a/yu23a.pdf",
+        "github": "https://github.com/SciYu/Online-Similarity-Matrix-Correction"
+      }
+    },
+    {
+      "id": "rf-distance",
+      "category": "statistics-ai",
+      "title": "Highly-Efficient Robinson-Foulds Distance Estimation with Matrix Correction",
+      "url": "https://ebooks.iospress.nl/doi/10.3233/FAIA230605",
+      "venue": "ECAI, 2023",
+      "authors": [
+        "Fangchen Yu",
+        "Rui Bao",
+        "Jianfeng Mao",
+        "Wenye Li"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Wenye Li"
+      ],
+      "summary": "Matrix correction enables efficient estimation of Robinson-Foulds distance.",
+      "image": "poster/ECAI2023_poster.png",
+      "keywords": [
+        "distance estimation",
+        "matrix correction",
+        "tree metrics"
+      ],
+      "links": {
+        "paper": "https://ebooks.iospress.nl/doi/10.3233/FAIA230605",
+        "github": "https://github.com/SciYu/Embedding-based-Matrix-Correction"
+      }
+    },
+    {
+      "id": "multi-view-clustering",
+      "category": "statistics-ai",
+      "title": "From Incompleteness to Unity: A Framework for Multi-view Clustering with Missing Values",
+      "url": "https://link.springer.com/chapter/10.1007/978-981-99-8145-8_9",
+      "venue": "ICONIP, 2023",
+      "authors": [
+        "Fangchen Yu",
+        "Zhan Shi",
+        "Yuqi Ma",
+        "Jianfeng Mao",
+        "Wenye Li"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Wenye Li"
+      ],
+      "summary": "A multi-view clustering framework handles missing values across incomplete views.",
+      "image": "",
+      "keywords": [
+        "multi-view clustering",
+        "missing values",
+        "incomplete data"
+      ],
+      "links": {
+        "paper": "https://link.springer.com/chapter/10.1007/978-981-99-8145-8_9"
+      }
+    },
+    {
+      "id": "metric-nearness",
+      "category": "statistics-ai",
+      "title": "Metric Nearness Made Practical",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/26041",
+      "venue": "AAAI, 2023",
+      "authors": [
+        "Wenye Li",
+        "Fangchen Yu",
+        "Zichen Ma"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [],
+      "summary": "A practical approach improves the usability and efficiency of metric nearness computation.",
+      "image": "poster/AAAI2023_poster.png",
+      "keywords": [
+        "metric nearness",
+        "distance metrics",
+        "optimization"
+      ],
+      "links": {
+        "paper": "https://ojs.aaai.org/index.php/AAAI/article/view/26041",
+        "github": "https://github.com/SciYu/Metric-Nearness-Made-Practical"
+      }
+    },
+    {
+      "id": "calibrating-distance",
+      "category": "statistics-ai",
+      "title": "Calibrating Distance Metrics Under Uncertainty",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-26409-2_14",
+      "venue": "ECML, 2022",
+      "authors": [
+        "Wenye Li",
+        "Fangchen Yu"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Wenye Li"
+      ],
+      "summary": "A calibration method improves distance metrics when observations are uncertain.",
+      "image": "",
+      "keywords": [
+        "distance metrics",
+        "uncertainty",
+        "calibration"
+      ],
+      "links": {
+        "paper": "https://link.springer.com/chapter/10.1007/978-3-031-26409-2_14"
+      }
+    },
+    {
+      "id": "sparse-binary-code",
+      "category": "statistics-ai",
+      "title": "Learning Sparse Binary Code for Maximum Inner Product Search",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3459637.3482132",
+      "venue": "CIKM, 2021",
+      "authors": [
+        "Changyi Ma",
+        "Fangchen Yu",
+        "Yueyao Yu",
+        "Wenye Li"
+      ],
+      "equal_authors": [],
+      "corresponding_authors": [
+        "Wenye Li"
+      ],
+      "summary": "Sparse binary codes support efficient maximum inner product search.",
+      "image": "",
+      "keywords": [
+        "binary code",
+        "similarity search",
+        "inner product"
+      ],
+      "links": {
+        "paper": "https://dl.acm.org/doi/abs/10.1145/3459637.3482132"
+      }
+    }
+  ]
+}
