@@ -49,10 +49,21 @@ layout: compress
             <p>{{ home.profile.vision }}</p>
           </div>
 
-          <div class="profile-circuit" aria-hidden="true">
-            <span></span>
-            <span></span>
-            <span></span>
+          <div class="profile-map" aria-label="Publication map">
+            <div class="profile-map__axis profile-map__axis--x" aria-hidden="true"></div>
+            <div class="profile-map__axis profile-map__axis--y" aria-hidden="true"></div>
+            <span class="profile-map__label profile-map__label--left">Reasoning</span>
+            <span class="profile-map__label profile-map__label--right">Agentic</span>
+            <span class="profile-map__label profile-map__label--top">Model/System</span>
+            <span class="profile-map__label profile-map__label--bottom">Benchmark</span>
+            {% for point in home.profile_plot %}
+              {% assign plot_pub = home.publications | where: "id", point.publication_id | first %}
+              {% assign plot_category = home.categories | where: "id", plot_pub.category | first %}
+              <a class="profile-map__point profile-map__point--{{ plot_category.tone }}" href="#pub-{{ point.publication_id }}" target="_self" style="--plot-x: {{ point.x }}%; --plot-y: {{ point.y }}%;" title="{{ plot_pub.title }}">
+                <span class="profile-map__dot" aria-hidden="true"></span>
+                <span class="profile-map__name">{{ point.label }}</span>
+              </a>
+            {% endfor %}
           </div>
         </div>
       </aside>
@@ -129,6 +140,7 @@ layout: compress
             <span class="section-heading__dot"></span>
             <h2>Publications &amp; Preprint</h2>
           </div>
+          <p class="publication-note"><sup>*</sup> Equal Contribution, <sup>&dagger;</sup> Corresponding Authors</p>
 
           <div class="publication-filters" aria-label="Publication filters">
             <button class="publication-filter is-active" type="button" data-filter="all">All</button>
@@ -141,7 +153,7 @@ layout: compress
             {% for pub in home.publications %}
               {% assign category = home.categories | where: "id", pub.category | first %}
               {% assign author_count = pub.authors | size %}
-              <article class="publication-card" data-category="{{ pub.category }}">
+              <article class="publication-card" id="pub-{{ pub.id }}" data-category="{{ pub.category }}">
                 <div class="publication-art publication-art--{{ category.tone }}">
                   {% if pub.image and pub.image != "" %}
                     <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
@@ -206,14 +218,14 @@ layout: compress
                         {% assign icon_class = "fab fa-github" %}
                       {% when "huggingface" %}
                         {% assign link_label = "Hugging Face" %}
-                        {% assign icon_class = "" %}
+                        {% assign icon_class = "huggingface" %}
                       {% else %}
                         {% assign link_label = link_type | capitalize %}
                         {% assign icon_class = "fas fa-link" %}
                       {% endcase %}
                       <a href="{{ link_url }}" target="_blank" rel="noopener" title="{{ link_label }}" aria-label="{{ link_label }}">
                         {% if link_type == "huggingface" %}
-                          <span class="hf-icon">HF</span>
+                          <img class="hf-icon" src="{{ '/assets/icons/huggingface.svg' | relative_url }}" alt="" aria-hidden="true">
                         {% else %}
                           <i class="{{ icon_class }}" aria-hidden="true"></i>
                         {% endif %}
@@ -235,7 +247,8 @@ layout: compress
           <span>Visitor locations are visualized by ClustrMaps.</span>
         </div>
         <div class="visitor-panel__map" aria-label="Visitor map and location statistics">
-          <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jC51HNkMfzCnzL2MbqO-Lcdvg_4NFYgjDB9zzOZET2o&cl=78b7ff&w=a&t=tt"></script>
+          <script type="text/javascript" id="clustrmaps" src="https://cdn.clustrmaps.com/map_v2.js?d=jC51HNkMfzCnzL2MbqO-Lcdvg_4NFYgjDB9zzOZET2o&cl=78b7ff&w=a"></script>
+          <noscript><a href="https://clustrmaps.com/" target="_blank" rel="noopener">View visitor map</a></noscript>
         </div>
       </div>
       <p class="home-footer__copyright">&copy; 2026 Fangchen Yu. All rights reserved.</p>

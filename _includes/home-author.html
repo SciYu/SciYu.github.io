@@ -1,4 +1,4 @@
 {% assign author_name = include.name %}
 <span class="publication-author{% if author_name == site.data.home.profile.name %} publication-author--me{% endif %}">
-  {{ author_name }}{% if include.pub.equal_authors contains author_name %}<sup>&dagger;</sup>{% endif %}{% if include.pub.corresponding_authors contains author_name %}<sup>*</sup>{% endif %}
+  {{ author_name }}{% if include.pub.equal_authors contains author_name %}<sup>*</sup>{% endif %}{% if include.pub.corresponding_authors contains author_name %}<sup>&dagger;</sup>{% endif %}
 </span>

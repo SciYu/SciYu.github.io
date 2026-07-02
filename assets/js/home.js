@@ -19,6 +19,25 @@
     });
   }
 
+  function showAllPublications() {
+    var filters = document.querySelectorAll(".publication-filter");
+    var cards = document.querySelectorAll(".publication-card");
+
+    filters.forEach(function (item) {
+      item.classList.toggle("is-active", item.getAttribute("data-filter") === "all");
+    });
+
+    cards.forEach(function (card) {
+      card.classList.remove("is-hidden");
+    });
+  }
+
+  function initProfileMapLinks() {
+    document.querySelectorAll(".profile-map__point").forEach(function (link) {
+      link.addEventListener("click", showAllPublications);
+    });
+  }
+
   function initAuthorToggles() {
     document.querySelectorAll(".author-toggle").forEach(function (button) {
       button.addEventListener("click", function () {
@@ -40,6 +59,7 @@
 
   document.addEventListener("DOMContentLoaded", function () {
     initPublicationFilters();
+    initProfileMapLinks();
     initAuthorToggles();
   });
 })();

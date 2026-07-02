@@ -14,6 +14,68 @@
     },
     "about": "I am a Ph.D. in Computer and Information Engineering from [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHKSZ), under the supervision of [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268) and [**Prof. Wenye Li**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Wenye/wenyeli). I obtained the Bachelor's degree in Physics from the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS)."
   },
+  "profile_plot": [
+    {
+      "publication_id": "agents-a1",
+      "label": "Agents-A1",
+      "x": 57,
+      "y": 20
+    },
+    {
+      "publication_id": "agents-k1",
+      "label": "Agents-K1",
+      "x": 57,
+      "y": 31
+    },
+    {
+      "publication_id": "internagent-15",
+      "label": "InternAgent-1.5",
+      "x": 56,
+      "y": 43
+    },
+    {
+      "publication_id": "p1",
+      "label": "P1",
+      "x": 16,
+      "y": 18
+    },
+    {
+      "publication_id": "p1-vl",
+      "label": "P1-VL",
+      "x": 15,
+      "y": 31
+    },
+    {
+      "publication_id": "physicsminions",
+      "label": "PhysicsMinions",
+      "x": 24,
+      "y": 43
+    },
+    {
+      "publication_id": "sci-verifier",
+      "label": "SCI-Verifier",
+      "x": 30,
+      "y": 56
+    },
+    {
+      "publication_id": "hipho",
+      "label": "HiPhO",
+      "x": 16,
+      "y": 69
+    },
+    {
+      "publication_id": "sgi-bench",
+      "label": "SGI-Bench",
+      "x": 25,
+      "y": 82
+    },
+    {
+      "publication_id": "researchclawbench",
+      "label": "ResearchClawBench",
+      "x": 56,
+      "y": 70
+    }
+  ],
   "research_interests": [
     {
       "title": "Agentic and Reasoning Models",
