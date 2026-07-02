@@ -427,6 +427,10 @@ body.home-theme::before {
   margin: 0;
 }
 
+.about-copy p + p {
+  margin-top: 1.15rem;
+}
+
 .about-copy a {
   color: #a8cfff;
   text-decoration: none;
