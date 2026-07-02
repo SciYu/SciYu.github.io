@@ -15,9 +15,6 @@ layout: compress
     {% include browser-upgrade.html %}
 
     <header class="home-header">
-      <a class="home-mark" href="{{ '/' | relative_url }}" target="_self" aria-label="Homepage">
-        <span>&lt;</span><span class="home-mark__slash">/</span><span>&gt;</span>
-      </a>
       <nav class="home-nav" aria-label="Primary navigation">
         <a href="#about-me" target="_self">About Me</a>
         <a href="#research-interests" target="_self">Research Interests</a>
@@ -45,21 +42,19 @@ layout: compress
           </div>
 
           <div class="profile-vision">
-            <span class="profile-vision__prompt">&gt;_</span>
             <p>{{ home.profile.vision }}</p>
           </div>
 
-          <div class="profile-map" aria-label="Publication map">
+          <div class="profile-map" aria-label="Publication map" style="--axis-x-left: {{ home.profile_plot.axis.x_left }}%; --axis-x-right: {{ home.profile_plot.axis.x_right }}%; --axis-y-top: {{ home.profile_plot.axis.y_top }}%; --axis-y-bottom: {{ home.profile_plot.axis.y_bottom }}%; --axis-x-y: {{ home.profile_plot.axis.x_axis_y }}%; --axis-y-x: {{ home.profile_plot.axis.y_axis_x }}%;">
             <div class="profile-map__axis profile-map__axis--x" aria-hidden="true"></div>
             <div class="profile-map__axis profile-map__axis--y" aria-hidden="true"></div>
-            <span class="profile-map__label profile-map__label--left">Reasoning</span>
-            <span class="profile-map__label profile-map__label--right">Agentic</span>
-            <span class="profile-map__label profile-map__label--top">Model/System</span>
-            <span class="profile-map__label profile-map__label--bottom">Benchmark</span>
-            {% for point in home.profile_plot %}
+            <span class="profile-map__label profile-map__label--left">{{ home.profile_plot.axis.left_label }}</span>
+            <span class="profile-map__label profile-map__label--right">{{ home.profile_plot.axis.right_label }}</span>
+            <span class="profile-map__label profile-map__label--top">{{ home.profile_plot.axis.top_label }}</span>
+            <span class="profile-map__label profile-map__label--bottom">{{ home.profile_plot.axis.bottom_label }}</span>
+            {% for point in home.profile_plot.points %}
               {% assign plot_pub = home.publications | where: "id", point.publication_id | first %}
-              {% assign plot_category = home.categories | where: "id", plot_pub.category | first %}
-              <a class="profile-map__point profile-map__point--{{ plot_category.tone }}" href="#pub-{{ point.publication_id }}" target="_self" style="--plot-x: {{ point.x }}%; --plot-y: {{ point.y }}%;" title="{{ plot_pub.title }}">
+              <a class="profile-map__point profile-map__point--{{ point.category }}" href="#pub-{{ point.publication_id }}" target="_self" style="--plot-x: {{ point.x }}%; --plot-y: {{ point.y }}%;" title="{{ plot_pub.title }}">
                 <span class="profile-map__dot" aria-hidden="true"></span>
                 <span class="profile-map__name">{{ point.label }}</span>
               </a>
@@ -98,11 +93,7 @@ layout: compress
               {% for item in home.research_interests %}
                 <article class="interest-item">
                   <div class="interest-item__icon" aria-hidden="true">
-                    {% case forloop.index %}
-                    {% when 1 %}<i class="fas fa-brain"></i>
-                    {% when 2 %}<i class="fas fa-project-diagram"></i>
-                    {% else %}<i class="fas fa-clipboard-check"></i>
-                    {% endcase %}
+                    <i class="fas {{ item.icon }}"></i>
                   </div>
                   <div>
                     <h3>{{ item.title }}</h3>
@@ -242,13 +233,8 @@ layout: compress
 
     <footer class="home-footer">
       <div class="visitor-panel">
-        <div class="visitor-panel__copy">
-          <strong>Total visits</strong>
-          <span>Visitor locations are visualized by ClustrMaps.</span>
-        </div>
         <div class="visitor-panel__map" aria-label="Visitor map and location statistics">
-          <script type="text/javascript" id="clustrmaps" src="https://cdn.clustrmaps.com/map_v2.js?d=jC51HNkMfzCnzL2MbqO-Lcdvg_4NFYgjDB9zzOZET2o&cl=78b7ff&w=a"></script>
-          <noscript><a href="https://clustrmaps.com/" target="_blank" rel="noopener">View visitor map</a></noscript>
+          <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jC51HNkMfzCnzL2MbqO-Lcdvg_4NFYgjDB9zzOZET2o&cl=ffffff&w=a"></script>
         </div>
       </div>
       <p class="home-footer__copyright">&copy; 2026 Fangchen Yu. All rights reserved.</p>

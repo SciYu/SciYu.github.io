@@ -3,7 +3,7 @@
     "name": "Fangchen Yu",
     "role": "Researcher / Builder / Lifelong Learner",
     "avatar": "images/fangchenyu.jpg",
-    "vision": "Building intelligent systems that reason, learn, and interact with the world.",
+    "vision": "Building science intelligent systems that reason, learn, and interact with the world.",
     "github": {
       "label": "GitHub",
       "url": "https://github.com/SciYu"
@@ -12,82 +12,114 @@
       "label": "Google Scholar",
       "url": "https://scholar.google.com/citations?user=fQtgwlgAAAAJ&hl=zh-CN&oi=ao"
     },
-    "about": "I am a Ph.D. in Computer and Information Engineering from [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHKSZ), under the supervision of [**Prof. Jianfeng Mao**](https://sds.cuhk.edu.cn/en/teacher/268) and [**Prof. Wenye Li**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Wenye/wenyeli). I obtained the Bachelor's degree in Physics from the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS)."
+    "about": "I am a researcher working on agentic and reasoning models, self-evolving agentic systems, frontier benchmarks, and AI Scientist. I am a Ph.D. in Computer and Information Engineering at [**The Chinese University of Hong Kong, Shenzhen**](https://cuhk.edu.cn/en) (CUHKSZ), and received my Bachelor's degree in Physics from the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS).\n\nRecently, I have contributed to open-source models including [**Agents-A1**](https://internscience.github.io/Agents-A1/) (a 35B long-horizon agentic model), [**P1-VL**](https://prime-rl.github.io/P1-VL/) (multimodal physics reasoning models), and [**P1**](https://prime-rl.github.io/P1/) (text-only physics reasoning models). I also lead [**PhysicsMinions**](https://arxiv.org/abs/2509.24855), the first open-model agentic system to reach IPhO-2025 gold-medal level, and [**HiPhO**](https://phyarena.github.io/), the first physics Olympiad benchmark covering 13 recent physics Olympiads from 2024-2025 and used in the Seed 2.0 evaluation leaderboard.\n\nI am actively looking for research collaborators, whether early-career or experienced, especially those from scientific domains. Feel free to reach out."
   },
-  "profile_plot": [
-    {
-      "publication_id": "agents-a1",
-      "label": "Agents-A1",
-      "x": 57,
-      "y": 20
+  "profile_plot": {
+    "axis": {
+      "x_left": 8,
+      "x_right": 92,
+      "y_top": 20,
+      "y_bottom": 82,
+      "x_axis_y": 50,
+      "y_axis_x": 50,
+      "left_label": "Reasoning",
+      "right_label": "Agentic",
+      "top_label": "Model/System",
+      "bottom_label": "Benchmark"
     },
-    {
-      "publication_id": "agents-k1",
-      "label": "Agents-K1",
-      "x": 57,
-      "y": 31
-    },
-    {
-      "publication_id": "internagent-15",
-      "label": "InternAgent-1.5",
-      "x": 56,
-      "y": 43
-    },
-    {
-      "publication_id": "p1",
-      "label": "P1",
-      "x": 16,
-      "y": 18
-    },
-    {
-      "publication_id": "p1-vl",
-      "label": "P1-VL",
-      "x": 15,
-      "y": 31
-    },
-    {
-      "publication_id": "physicsminions",
-      "label": "PhysicsMinions",
-      "x": 24,
-      "y": 43
-    },
-    {
-      "publication_id": "sci-verifier",
-      "label": "SCI-Verifier",
-      "x": 30,
-      "y": 56
-    },
-    {
-      "publication_id": "hipho",
-      "label": "HiPhO",
-      "x": 16,
-      "y": 69
-    },
-    {
-      "publication_id": "sgi-bench",
-      "label": "SGI-Bench",
-      "x": 25,
-      "y": 82
-    },
-    {
-      "publication_id": "researchclawbench",
-      "label": "ResearchClawBench",
-      "x": 56,
-      "y": 70
-    }
-  ],
+    "points": [
+      {
+        "publication_id": "agents-a1",
+        "label": "Agents-A1",
+        "category": "purple",
+        "x": 57,
+        "y": 20
+      },
+      {
+        "publication_id": "agents-k1",
+        "label": "Agents-K1",
+        "category": "purple",
+        "x": 57,
+        "y": 31
+      },
+      {
+        "publication_id": "internagent-15",
+        "label": "InternAgent-1.5",
+        "category": "green",
+        "x": 56,
+        "y": 43
+      },
+      {
+        "publication_id": "p1",
+        "label": "P1",
+        "category": "purple",
+        "x": 16,
+        "y": 18
+      },
+      {
+        "publication_id": "p1-vl",
+        "label": "P1-VL",
+        "category": "purple",
+        "x": 15,
+        "y": 31
+      },
+      {
+        "publication_id": "physicsminions",
+        "label": "PhysicsMinions",
+        "category": "green",
+        "x": 24,
+        "y": 43
+      },
+      {
+        "publication_id": "sci-verifier",
+        "label": "SCI-Verifier",
+        "category": "purple",
+        "x": 30,
+        "y": 56
+      },
+      {
+        "publication_id": "hipho",
+        "label": "HiPhO",
+        "category": "blue",
+        "x": 16,
+        "y": 69
+      },
+      {
+        "publication_id": "sgi-bench",
+        "label": "SGI-Bench",
+        "category": "blue",
+        "x": 25,
+        "y": 82
+      },
+      {
+        "publication_id": "researchclawbench",
+        "label": "ResearchClawBench",
+        "category": "blue",
+        "x": 56,
+        "y": 70
+      }
+    ]
+  },
   "research_interests": [
     {
       "title": "Agentic and Reasoning Models",
+      "icon": "fa-brain",
       "description": "Building models with stronger reasoning, planning, and tool-use abilities."
     },
     {
       "title": "Agentic Systems",
+      "icon": "fa-network-wired",
       "description": "Designing autonomous systems for long-horizon tasks and scientific discovery."
     },
     {
       "title": "(M)LLM Benchmarks",
+      "icon": "fa-chart-line",
       "description": "Evaluating reasoning models with reliable, holistic, and science-grounded benchmarks."
+    },
+    {
+      "title": "AI Scientist and AI for Science",
+      "icon": "fa-microscope",
+      "description": "Developing agents and models that accelerate scientific discovery."
     }
   ],
   "categories": [
