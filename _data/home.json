@@ -32,7 +32,7 @@
         "publication_id": "agents-a1",
         "label": "Agents-A1",
         "category": "purple",
-        "x": 57,
+        "x": 70,
         "y": 20
       },
       {
@@ -40,56 +40,56 @@
         "label": "Agents-K1",
         "category": "purple",
         "x": 57,
-        "y": 31
+        "y": 30
       },
       {
         "publication_id": "internagent-15",
         "label": "InternAgent-1.5",
         "category": "green",
-        "x": 56,
-        "y": 43
-      },
-      {
-        "publication_id": "p1",
-        "label": "P1",
-        "category": "purple",
-        "x": 16,
-        "y": 18
-      },
-      {
-        "publication_id": "p1-vl",
-        "label": "P1-VL",
-        "category": "purple",
-        "x": 15,
-        "y": 31
+        "x": 62,
+        "y": 40
       },
       {
         "publication_id": "physicsminions",
         "label": "PhysicsMinions",
         "category": "green",
-        "x": 24,
-        "y": 43
+        "x": 10,
+        "y": 20
+      },
+      {
+        "publication_id": "p1-vl",
+        "label": "P1-VL",
+        "category": "purple",
+        "x": 12,
+        "y": 28
+      },
+      {
+        "publication_id": "p1",
+        "label": "P1",
+        "category": "purple",
+        "x": 13,
+        "y": 36
       },
       {
         "publication_id": "sci-verifier",
         "label": "SCI-Verifier",
         "category": "purple",
-        "x": 30,
-        "y": 56
+        "x": 16,
+        "y": 44
       },
       {
         "publication_id": "hipho",
         "label": "HiPhO",
         "category": "blue",
-        "x": 16,
-        "y": 69
+        "x": 12,
+        "y": 75
       },
       {
         "publication_id": "sgi-bench",
         "label": "SGI-Bench",
         "category": "blue",
-        "x": 25,
-        "y": 82
+        "x": 18,
+        "y": 65
       },
       {
         "publication_id": "researchclawbench",
@@ -112,7 +112,7 @@
       "description": "Designing autonomous systems for long-horizon tasks and scientific discovery."
     },
     {
-      "title": "(M)LLM Benchmarks",
+      "title": "Frontier Benchmarks",
       "icon": "fa-chart-line",
       "description": "Evaluating reasoning models with reliable, holistic, and science-grounded benchmarks."
     },
@@ -124,18 +124,18 @@
   ],
   "categories": [
     {
-      "id": "agentic-reasoning",
+      "id": "ai-models",
       "name": "Agentic and Reasoning Models",
       "tone": "purple"
     },
     {
-      "id": "agentic-systems",
+      "id": "ai-systems",
       "name": "Agentic Systems",
       "tone": "green"
     },
     {
-      "id": "mllm-benchmarks",
-      "name": "(M)LLM Benchmarks",
+      "id": "benchmarks",
+      "name": "Frontier Benchmarks",
       "tone": "blue"
     },
     {
@@ -146,11 +146,11 @@
   ],
   "news": [
     {
-      "date": "2026-07",
-      "badge": "JUL 2026",
-      "title": "New Technical Report",
+      "date": "2026-06",
+      "badge": "JUN 2026",
+      "title": "New Technical Report, New Agentic Model",
       "subtitle": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
-      "url": "https://arxiv.org/abs/2606.30616"
+      "url": "https://internscience.github.io/Agents-A1/"
     },
     {
       "date": "2026-06",
@@ -169,9 +169,9 @@
     {
       "date": "2026-05",
       "badge": "MAY 2026",
-      "title": "ICML 2026",
-      "subtitle": "HiPhO accepted by ICML 2026",
-      "url": "https://arxiv.org/abs/2509.07894"
+      "title": "HiPhO accepted by ICML 2026",
+      "subtitle": "HiPhO: How Far Are MLLMs from Humans in the Latest High School Physics Olympiad Benchmark?",
+      "url": "https://icml.cc/virtual/2026/poster/60848"
     },
     {
       "date": "2026-02",
@@ -183,25 +183,25 @@
     {
       "date": "2026-02",
       "badge": "FEB 2026",
-      "title": "New Technical Report",
+      "title": "New Technical Report, New Reasoning Model",
       "subtitle": "P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads",
       "url": "https://arxiv.org/abs/2602.09443"
     },
     {
       "date": "2026-01",
       "badge": "JAN 2026",
-      "title": "ICLR 2026",
-      "subtitle": "SCI-Verifier accepted by ICLR 2026",
+      "title": "SCI-Verifier accepted by ICLR 2026",
+      "subtitle": "SCI-Verifier: Scientific Verifier with Thinking",
       "url": "https://arxiv.org/abs/2509.24285"
     }
   ],
   "publications": [
     {
       "id": "agents-a1",
-      "category": "agentic-reasoning",
+      "category": "ai-models",
       "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
       "url": "https://arxiv.org/abs/2606.30616",
-      "venue": "Technical Report, 2026-07",
+      "venue": "Technical Report, 2026-06 (key contribution to this project)",
       "authors": [
         "Lei Bai",
         "Zongsheng Cao",
@@ -259,12 +259,12 @@
         "Bo Zhang",
         "Lei Bai"
       ],
-      "summary": "A compact agentic model reaches stronger long-horizon reasoning performance through agent-level scaling.",
-      "image": "",
+      "summary": "A 35B agentic model reaches stronger long-horizon reasoning performance through agent-level scaling.",
+      "image": "paper/Agents-A1.png",
       "keywords": [
-        "agentic reasoning",
+        "agentic reasoning model",
         "long-horizon tasks",
-        "model scaling"
+        "agentic scaling"
       ],
       "links": {
         "paper": "https://arxiv.org/pdf/2606.30616",
@@ -275,7 +275,7 @@
     },
     {
       "id": "agents-k1",
-      "category": "agentic-reasoning",
+      "category": "ai-models",
       "title": "Agents-K1: Towards Agent-native Knowledge Orchestration",
       "url": "https://arxiv.org/abs/2606.13669",
       "venue": "Technical Report, 2026-06",
@@ -308,13 +308,16 @@
         "Lei Bai"
       ],
       "equal_authors": [],
-      "corresponding_authors": [],
-      "summary": "An agent-native framework for organizing and using knowledge across complex agent workflows.",
-      "image": "",
+      "corresponding_authors": [
+        "Bo Zhang",
+        "Lei Bai"
+      ],
+      "summary": "An end-to-end knowledge orchestration pipeline that converts raw documents into agent-native scientific knowledge graphs.",
+      "image": "paper/Agents-K1.png",
       "keywords": [
         "knowledge orchestration",
-        "agent-native",
-        "tool use"
+        "Scholar-KG",
+        "scientific reasoning"
       ],
       "links": {
         "paper": "https://arxiv.org/pdf/2606.13669",
@@ -325,10 +328,10 @@
     },
     {
       "id": "p1-vl",
-      "category": "agentic-reasoning",
+      "category": "ai-models",
       "title": "P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads",
       "url": "https://arxiv.org/abs/2602.09443",
-      "venue": "Technical Report, 2026-02",
+      "venue": "ICML AI4Math Workshop, 2026 (key contribution to this project)",
       "authors": [
         "Yun Luo",
         "Futing Wang",
@@ -369,6 +372,7 @@
         "Fangchen Yu"
       ],
       "corresponding_authors": [
+        "Yun Luo",
         "Lei Bai",
         "Yu Cheng",
         "Ning Ding",
@@ -376,10 +380,10 @@
         "Peng Ye",
         "Ganqu Cui"
       ],
-      "summary": "A multimodal reasoning model connects visual perception with scientific problem solving in physics olympiads.",
-      "image": "",
+      "summary": "A family of open-source vision-language models engineered for advanced scientific reasoning.",
+      "image": "paper/P1-VL.png",
       "keywords": [
-        "visual reasoning",
+        "visual scientific reasoning",
         "physics olympiad",
         "reinforcement learning"
       ],
@@ -392,10 +396,10 @@
     },
     {
       "id": "p1",
-      "category": "agentic-reasoning",
+      "category": "ai-models",
       "title": "P1: Mastering Physics Olympiads with Reinforcement Learning",
       "url": "https://arxiv.org/abs/2511.13612",
-      "venue": "Technical Report, 2025",
+      "venue": "Technical Report, 2025-11 (key contribution to this project)",
       "authors": [
         "Jiacheng Chen",
         "Qianjia Cheng",
@@ -439,12 +443,12 @@
         "Peng Ye",
         "Ganqu Cui"
       ],
-      "summary": "A reinforcement learning framework improves model performance on advanced physics olympiad reasoning tasks.",
-      "image": "",
+      "summary": "A family of open-source physics reasoning models trained entirely through reinforcement learning.",
+      "image": "paper/P1.png",
       "keywords": [
-        "physics reasoning",
+        "physics reasoning model",
         "reinforcement learning",
-        "large language models"
+        "physics olympiad"
       ],
       "links": {
         "paper": "https://arxiv.org/pdf/2511.13612",
@@ -455,7 +459,7 @@
     },
     {
       "id": "sci-verifier",
-      "category": "agentic-reasoning",
+      "category": "ai-models",
       "title": "SCI-Verifier: Scientific Verifier with Thinking",
       "url": "https://arxiv.org/abs/2509.24285",
       "venue": "ICLR, 2026",
@@ -479,12 +483,12 @@
       "corresponding_authors": [
         "Peng Ye"
       ],
-      "summary": "A scientific verification model improves reliability by reasoning through evidence and solution traces.",
-      "image": "",
+      "summary": "A unified reasoning-augmented verifier for scientific domains with enhanced reliability.",
+      "image": "paper/SCI-Verifier.png",
       "keywords": [
         "scientific verifier",
-        "reasoning",
-        "reliability"
+        "cross-disciplinary verification",
+        "verification reliability"
       ],
       "links": {
         "paper": "https://arxiv.org/pdf/2509.24285",
@@ -494,10 +498,10 @@
     },
     {
       "id": "paramanager",
-      "category": "agentic-reasoning",
+      "category": "ai-models",
       "title": "Small Model as Master Orchestrator: Learning Unified Agent-Tool Orchestration with Parallel Subtask Decomposition",
       "url": "https://arxiv.org/abs/2604.17009",
-      "venue": "Technical Report, 2026-04",
+      "venue": "arXiv, 2026-04",
       "authors": [
         "Wenzhen Yuan",
         "Wutao Xiong",
@@ -510,13 +514,16 @@
         "Wanli Ouyang",
         "Lei Bai"
       ],
-      "equal_authors": [],
+      "equal_authors": [
+        "Wenzhen Yuan",
+        "Wutao Xiong"
+      ],
       "corresponding_authors": [
         "Peng Ye",
         "Yuzhuo Fu"
       ],
-      "summary": "A small orchestrator model learns parallel decomposition and tool coordination for agent workflows.",
-      "image": "",
+      "summary": "A 4B orchestrator model learns parallel decomposition and tool coordination for agent workflows.",
+      "image": "paper/ParaManager.png",
       "keywords": [
         "orchestration",
         "parallel decomposition",
@@ -528,7 +535,7 @@
     },
     {
       "id": "internagent-15",
-      "category": "agentic-systems",
+      "category": "ai-systems",
       "title": "InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery",
       "url": "https://arxiv.org/abs/2602.08990",
       "venue": "Technical Report, 2026-02",
@@ -592,13 +599,16 @@
         "Lei Bai"
       ],
       "equal_authors": [],
-      "corresponding_authors": [],
-      "summary": "A unified agentic framework supports long-horizon autonomous workflows for scientific discovery.",
-      "image": "",
+      "corresponding_authors": [
+        "Bo Zhang",
+        "Lei Bai"
+      ],
+      "summary": "A unified agentic framework designed for end-to-end scientific discovery in long-horizon tasks.",
+      "image": "paper/InternAgent-1.5.png",
       "keywords": [
         "agentic framework",
         "scientific discovery",
-        "long-horizon"
+        "long-horizon task"
       ],
       "links": {
         "paper": "https://arxiv.org/pdf/2602.08990",
@@ -609,10 +619,10 @@
     },
     {
       "id": "physicsminions",
-      "category": "agentic-systems",
+      "category": "ai-systems",
       "title": "PhysicsMinions: Winning Gold Medals in the Latest Physics Olympiads with a Coevolutionary Multimodal Multi-agent System",
       "url": "https://arxiv.org/abs/2509.24855",
-      "venue": "Technical Report, 2025",
+      "venue": "arXiv, 2025-09",
       "authors": [
         "Fangchen Yu",
         "Junchi Yao",
@@ -635,12 +645,12 @@
       "corresponding_authors": [
         "Peng Ye"
       ],
-      "summary": "A coevolutionary multimodal multi-agent system tackles recent physics olympiad problems.",
-      "image": "",
+      "summary": "A coevolutionary multimodal multi-agent system wins gold medals in the latest physics Olympiads.",
+      "image": "paper/PhysicsMinions.png",
       "keywords": [
         "multi-agent system",
         "physics olympiad",
-        "multimodal reasoning"
+        "multimodal physics reasoning"
       ],
       "links": {
         "paper": "https://arxiv.org/pdf/2509.24855"
@@ -648,7 +658,7 @@
     },
     {
       "id": "hipho",
-      "category": "mllm-benchmarks",
+      "category": "benchmarks",
       "title": "HiPhO: How Far Are MLLMs from Humans in the Latest High School Physics Olympiad Benchmark?",
       "url": "https://arxiv.org/abs/2509.07894",
       "venue": "ICML, 2026",
@@ -682,12 +692,12 @@
         "Ganqu Cui",
         "Peng Ye"
       ],
-      "summary": "A high-school physics olympiad benchmark measures how far multimodal LLMs are from human-level reasoning.",
-      "image": "",
+      "summary": "The first benchmark dedicated to high school physics Olympiads with human-aligned evaluation.",
+      "image": "paper/HiPhO.png",
       "keywords": [
-        "benchmark",
-        "physics reasoning",
-        "multimodal LLMs"
+        "physics olympiad benchmark",
+        "multimodal physics reasoning",
+        "human-level comparison"
       ],
       "links": {
         "paper": "https://arxiv.org/pdf/2509.07894",
@@ -698,10 +708,10 @@
     },
     {
       "id": "researchclawbench",
-      "category": "mllm-benchmarks",
+      "category": "benchmarks",
       "title": "ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research",
       "url": "https://arxiv.org/abs/2606.07591",
-      "venue": "Technical Report, 2026-06",
+      "venue": "arXiv, 2026-05",
       "authors": [
         "Wanghan Xu",
         "Shuo Li",
@@ -755,17 +765,20 @@
         "Lei Bai",
         "Wenlong Zhang"
       ],
-      "equal_authors": [],
+      "equal_authors": [
+        "Wanghan Xu",
+        "Shuo Li"
+      ],
       "corresponding_authors": [
         "Lei Bai",
         "Wenlong Zhang"
       ],
-      "summary": "An end-to-end benchmark evaluates autonomous systems on realistic scientific research workflows.",
-      "image": "",
+      "summary": "A benchmark evaluates end-to-end autonomous systems on realistic scientific research tasks.",
+      "image": "paper/ResearchClawBench.png",
       "keywords": [
-        "benchmark",
-        "autonomous research",
-        "scientific workflow"
+        "agentic benchmark",
+        "autonomous scientific research",
+        "scientific re-discovery"
       ],
       "links": {
         "paper": "https://arxiv.org/pdf/2606.07591",
@@ -776,7 +789,7 @@
     },
     {
       "id": "sgi-bench",
-      "category": "mllm-benchmarks",
+      "category": "benchmarks",
       "title": "Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows",
       "url": "https://arxiv.org/abs/2512.16969",
       "venue": "Technical Report, 2025",
@@ -894,11 +907,11 @@
         "Wenlong Zhang",
         "Lei Bai"
       ],
-      "summary": "Scientist-aligned workflows probe the scientific general intelligence of large language models.",
-      "image": "",
+      "summary": "A scientific intelligence benchmark for LLMs via scientist-aligned workflows.",
+      "image": "paper/SGI-Bench.png",
       "keywords": [
-        "scientific intelligence",
-        "workflow benchmark",
+        "scientific general intelligence",
+        "science benchmark",
         "LLM evaluation"
       ],
       "links": {
@@ -910,7 +923,7 @@
     },
     {
       "id": "docreal",
-      "category": "mllm-benchmarks",
+      "category": "benchmarks",
       "title": "DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction",
       "url": "https://openaccess.thecvf.com/content/WACV2024/papers/Yu_DocReal_Robust_Document_Dewarping_of_Real-Life_Images_via_Attention-Enhanced_Control_WACV_2024_paper.pdf",
       "venue": "WACV, 2024",
@@ -930,7 +943,7 @@
         "Wenye Li"
       ],
       "summary": "An attention-enhanced control point approach improves robust dewarping for real-world document images.",
-      "image": "poster/WACV2024_poster.png",
+      "image": "paper/WACV2024_poster.png",
       "keywords": [
         "document dewarping",
         "visual understanding",
@@ -961,9 +974,9 @@
         "Qiang Sun"
       ],
       "summary": "A method for optimizing ultrametric trees to improve efficient Tree-Wasserstein distance approximation.",
-      "image": "poster/ICML2025_poster.png",
+      "image": "paper/ICML2025_poster.png",
       "keywords": [
-        "tree-wasserstein",
+        "tree-wasserstein distance",
         "ultrametric trees",
         "optimization"
       ],
@@ -992,12 +1005,12 @@
         "Fangchen Yu",
         "Yicheng Zeng"
       ],
-      "summary": "A theory-driven estimator analyzes incomplete inner product matrices through eigenvalue structure.",
-      "image": "poster/WWW2025_poster.png",
+      "summary": "A theory-driven method for inner product matrix estimation on incomplete data.",
+      "image": "paper/WWW2025_poster.png",
       "keywords": [
         "incomplete data",
-        "matrix estimation",
-        "eigenvalues"
+        "inner product matrix",
+        "eigenvalue estimation"
       ],
       "links": {
         "paper": "https://dl.acm.org/doi/pdf/10.1145/3696410.3714947?casa_token=vH66OZoybrkAAAAA:kzrl2y-PJA424rCUwkN7DpzVW7hBmYTwPTHMwYokouoO3laDOMjtPbL0AXGI5mseoy_JpknGYsN4nbs",
@@ -1023,8 +1036,8 @@
         "Xiaoying Tang",
         "Junhua Zhao"
       ],
-      "summary": "A federated learning study examines the balance between global utility and personalized model performance.",
-      "image": "",
+      "summary": "A federated learning method balances the trade-off between global and personalized performance.",
+      "image": "paper/information_sciences_2025.png",
       "keywords": [
         "federated learning",
         "personalization",
@@ -1052,12 +1065,12 @@
       "corresponding_authors": [
         "Wenye Li"
       ],
-      "summary": "An auto-encoder architecture explores Kolmogorov-Arnold representations for learned embeddings.",
-      "image": "",
+      "summary": "An auto-encoder architecture explores Kolmogorov-Arnold network for representation learning.",
+      "image": "paper/KAE.png",
       "keywords": [
         "auto-encoder",
-        "representation learning",
-        "kolmogorov-arnold"
+        "Kolmogorov-Arnold network",
+        "representation learning"
       ],
       "links": {
         "paper": "https://arxiv.org/pdf/2501.00420",
@@ -1084,23 +1097,23 @@
         "Xiaoying Tang",
         "Junhua Zhao"
       ],
-      "summary": "A layer-wise approach improves fairness behavior in federated learning systems.",
-      "image": "poster/AAAI2024_poster.png",
+      "summary": "A layer-wise approach improves fairness in federated learning.",
+      "image": "paper/AAAI2024_poster.png",
       "keywords": [
         "federated learning",
         "fairness",
-        "layer-wise training"
+        "layer-wise approach"
       ],
       "links": {
         "paper": "https://ojs.aaai.org/index.php/AAAI/article/view/29368",
-        "github": "https://github.com/SciYu/FedLF"
+        "github": "https://github.com/zibinpan/FedLF"
       }
     },
     {
       "id": "spectral-incomplete-data",
       "category": "statistics-ai",
       "title": "Boosting Spectral Clustering on Incomplete Data via Kernel Correction and Affinity Learning",
-      "url": "https://openreview.net/pdf?id=xFtuNq23D5",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/e5aa7171449b83f8b4eec1623eac9906-Abstract-Conference.html",
       "venue": "NeurIPS, 2023",
       "authors": [
         "Fangchen Yu",
@@ -1117,14 +1130,14 @@
         "Wenye Li"
       ],
       "summary": "Kernel correction and affinity learning improve spectral clustering with incomplete observations.",
-      "image": "poster/NeurIPS2023_poster.png",
+      "image": "paper/NeurIPS2023_poster.png",
       "keywords": [
         "spectral clustering",
         "incomplete data",
         "kernel correction"
       ],
       "links": {
-        "paper": "https://openreview.net/pdf?id=xFtuNq23D5",
+        "paper": "https://proceedings.neurips.cc/paper_files/paper/2023/file/e5aa7171449b83f8b4eec1623eac9906-Paper-Conference.pdf",
         "github": "https://github.com/SciYu/Spectral-Clustering-on-Incomplete-Data"
       }
     },
@@ -1144,8 +1157,8 @@
       "corresponding_authors": [
         "Wenye Li"
       ],
-      "summary": "An online estimator updates similarity matrices under incomplete data observations.",
-      "image": "poster/UAI2023_poster.png",
+      "summary": "A series of online estimation methods correct similarity matrices under incomplete data observations.",
+      "image": "paper/UAI2023_poster.png",
       "keywords": [
         "similarity matrix",
         "online estimation",
@@ -1173,11 +1186,11 @@
         "Wenye Li"
       ],
       "summary": "Matrix correction enables efficient estimation of Robinson-Foulds distance.",
-      "image": "poster/ECAI2023_poster.png",
+      "image": "paper/ECAI2023_poster.png",
       "keywords": [
-        "distance estimation",
+        "Robinson-Foulds distance",
         "matrix correction",
-        "tree metrics"
+        "tree distance"
       ],
       "links": {
         "paper": "https://ebooks.iospress.nl/doi/10.3233/FAIA230605",
@@ -1201,12 +1214,12 @@
       "corresponding_authors": [
         "Wenye Li"
       ],
-      "summary": "A multi-view clustering framework handles missing values across incomplete views.",
-      "image": "",
+      "summary": "A multi-view clustering framework handles missing values across multiple views.",
+      "image": "paper/ICONIP_2023.png",
       "keywords": [
         "multi-view clustering",
         "missing values",
-        "incomplete data"
+        "incomplete clustering"
       ],
       "links": {
         "paper": "https://link.springer.com/chapter/10.1007/978-981-99-8145-8_9"
@@ -1225,11 +1238,11 @@
       ],
       "equal_authors": [],
       "corresponding_authors": [],
-      "summary": "A practical approach improves the usability and efficiency of metric nearness computation.",
-      "image": "poster/AAAI2023_poster.png",
+      "summary": "A practical approach improves the usability and efficiency of metric nearness model computation.",
+      "image": "paper/AAAI2023_poster.png",
       "keywords": [
-        "metric nearness",
-        "distance metrics",
+        "metric nearness model",
+        "distance metric",
         "optimization"
       ],
       "links": {
@@ -1251,12 +1264,12 @@
       "corresponding_authors": [
         "Wenye Li"
       ],
-      "summary": "A calibration method improves distance metrics when observations are uncertain.",
-      "image": "",
+      "summary": "A calibration method improves distance metric estimation when observations are uncertain.",
+      "image": "paper/ECML_2022.png",
       "keywords": [
-        "distance metrics",
+        "distance metric",
         "uncertainty",
-        "calibration"
+        "calibration method"
       ],
       "links": {
         "paper": "https://link.springer.com/chapter/10.1007/978-3-031-26409-2_14"
@@ -1278,12 +1291,12 @@
       "corresponding_authors": [
         "Wenye Li"
       ],
-      "summary": "Sparse binary codes support efficient maximum inner product search.",
-      "image": "",
+      "summary": "A sparse binary hashing method for maximum inner product search to preserve the pairwise similarities.",
+      "image": "paper/CIKM_2021.png",
       "keywords": [
-        "binary code",
+        "sparse binary code",
         "similarity search",
-        "inner product"
+        "maximum inner product search"
       ],
       "links": {
         "paper": "https://dl.acm.org/doi/abs/10.1145/3459637.3482132"
